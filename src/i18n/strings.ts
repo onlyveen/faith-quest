@@ -6,6 +6,7 @@ export interface Strings {
     subtitle: string;
     start: string;
     language: string;
+    selectLanguage: string;
   };
   playerSetup: {
     title: string;
@@ -42,10 +43,6 @@ export interface Strings {
     graceGuess: string;
     graceGuessTryAgain: string;
   };
-  audience: {
-    title: string;
-    close: string;
-  };
   milestone: {
     title: string;
     lockedInLabel: string;
@@ -73,6 +70,7 @@ export const strings: Record<LanguageCode, Strings> = {
     home: {
       subtitle: "బైబిల్ క్విజ్",
       start: "ప్రారంభించండి",
+      selectLanguage: "కొనసాగించడానికి భాషను ఎంచుకోండి",
       language: "భాష",
     },
     playerSetup: {
@@ -85,9 +83,9 @@ export const strings: Record<LanguageCode, Strings> = {
       cta: "ప్రారంభించండి !",
       howToPlayTitle: "ఎలా ఆడాలి",
       howToPlay: [
-        "అత్యధిక బహుమతిని గెలవడానికి 15 ప్రశ్నలకు సరిగ్గా సమాధానం ఇవ్వండి.",
+        "15 ప్రశ్నలకు సరిగ్గా సమాధానం ఇవ్వండి — మన్నా 1,000 నుండి 1,000,000 వరకు పెరుగుతుంది.",
         "ప్రతి ప్రశ్నకు దాని కఠినతను బట్టి సమయ పరిమితి ఉంటుంది.",
-        "ఇబ్బందిలో ఉంటే 3 లైఫ్‌లైన్‌లు ఉపయోగించండి — Wisdom Split, Wise Counsel, Grace Guess.",
+        "ఇబ్బందిలో ఉంటే 3 లైఫ్‌లైన్‌లు ఉపయోగించండి — Wisdom Split, Wise Council, Grace Guess.",
         "ప్రశ్న 5 మరియు 10 సురక్షిత చెక్‌పాయింట్‌లు: అక్కడికి చేరితే మీ మన్నాను భద్రపరచుకోవచ్చు లేదా కొనసాగించవచ్చు.",
         "తప్పు సమాధానం మిమ్మల్ని మీ చివరి సురక్షిత చెక్‌పాయింట్‌కు వెనక్కి పంపుతుంది.",
       ],
@@ -112,13 +110,9 @@ export const strings: Record<LanguageCode, Strings> = {
       title: "లైఫ్‌లైన్‌లు",
       close: "మూసివేయి",
       fiftyFifty: "Wisdom Split",
-      askAudience: "Wise Counsel",
+      askAudience: "Wise Council",
       graceGuess: "Grace Guess",
       graceGuessTryAgain: "సరికాదు... మళ్ళీ ప్రయత్నించండి!",
-    },
-    audience: {
-      title: "ప్రేక్షకుల అభిప్రాయం",
-      close: "మూసివేయి",
     },
     milestone: {
       title: "మైలురాయి చేరుకున్నారు!",
@@ -146,6 +140,7 @@ export const strings: Record<LanguageCode, Strings> = {
       subtitle: "The Bible Quiz Show",
       start: "Start",
       language: "Language",
+      selectLanguage: "Select a language to Continue",
     },
     playerSetup: {
       title: "What's your name?",
@@ -157,9 +152,9 @@ export const strings: Record<LanguageCode, Strings> = {
       cta: "Start!",
       howToPlayTitle: "How to Play",
       howToPlay: [
-        "Answer 15 questions correctly to win the top prize.",
+        "Answer 15 questions correctly — Manna prizes grow from 1,000 to 1,000,000.",
         "Each question has a time limit based on its difficulty.",
-        "Use 3 lifelines if you're stuck — Wisdom Split, Wise Counsel, Grace Guess.",
+        "Use 3 lifelines if you're stuck — Wisdom Split, Wise Council, Grace Guess.",
         "Questions 5 and 10 are safe checkpoints: reach them and you can bank your winnings or keep playing.",
         "A wrong answer sends you back to your last safe checkpoint.",
       ],
@@ -184,13 +179,9 @@ export const strings: Record<LanguageCode, Strings> = {
       title: "Lifelines",
       close: "Close",
       fiftyFifty: "Wisdom Split",
-      askAudience: "Wise Counsel",
+      askAudience: "Wise Council",
       graceGuess: "Grace Guess",
       graceGuessTryAgain: "Not quite... try again!",
-    },
-    audience: {
-      title: "Audience Poll",
-      close: "Close",
     },
     milestone: {
       title: "Checkpoint Reached!",
@@ -218,6 +209,7 @@ export const strings: Record<LanguageCode, Strings> = {
       subtitle: "ಬೈಬಲ್ ಕ್ವಿಜ್",
       start: "ಪ್ರಾರಂಭಿಸಿ",
       language: "ಭಾಷೆ",
+      selectLanguage: "ಮುಂದುವರಿಸಲು ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
     },
     playerSetup: {
       title: "ನಿಮ್ಮ ಹೆಸರೇನು?",
@@ -229,9 +221,9 @@ export const strings: Record<LanguageCode, Strings> = {
       cta: "ಪ್ರಾರಂಭ!",
       howToPlayTitle: "ಹೇಗೆ ಆಡುವುದು",
       howToPlay: [
-        "ಅತ್ಯುನ್ನತ ಬಹುಮಾನ ಗೆಲ್ಲಲು 15 ಪ್ರಶ್ನೆಗಳಿಗೆ ಸರಿಯಾಗಿ ಉತ್ತರಿಸಿ.",
+        "15 ಪ್ರಶ್ನೆಗಳಿಗೆ ಸರಿಯಾಗಿ ಉತ್ತರಿಸಿ — ಮನ್ನಾ 1,000 ರಿಂದ 1,000,000 ವರೆಗೆ ಏರುತ್ತದೆ.",
         "ಪ್ರತಿ ಪ್ರಶ್ನೆಗೆ ಅದರ ಕಠಿಣತೆಗೆ ಅನುಗುಣವಾಗಿ ಸಮಯ ಮಿತಿ ಇರುತ್ತದೆ.",
-        "ಸಿಲುಕಿದಾಗ 3 ಲೈಫ್‌ಲೈನ್‌ಗಳನ್ನು ಬಳಸಿ — Wisdom Split, Wise Counsel, Grace Guess.",
+        "ಸಿಲುಕಿದಾಗ 3 ಲೈಫ್‌ಲೈನ್‌ಗಳನ್ನು ಬಳಸಿ — Wisdom Split, Wise Council, Grace Guess.",
         "ಪ್ರಶ್ನೆ 5 ಮತ್ತು 10 ಸುರಕ್ಷಿತ ಚೆಕ್‌ಪಾಯಿಂಟ್‌ಗಳು: ಅಲ್ಲಿಗೆ ತಲುಪಿದರೆ ನಿಮ್ಮ ಮನ್ನಾವನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಬಹುದು ಅಥವಾ ಮುಂದುವರಿಸಬಹುದು.",
         "ತಪ್ಪು ಉತ್ತರ ನಿಮ್ಮನ್ನು ಕೊನೆಯ ಸುರಕ್ಷಿತ ಚೆಕ್‌ಪಾಯಿಂಟ್‌ಗೆ ಹಿಂತಿರುಗಿಸುತ್ತದೆ.",
       ],
@@ -256,13 +248,9 @@ export const strings: Record<LanguageCode, Strings> = {
       title: "ಲೈಫ್‌ಲೈನ್‌ಗಳು",
       close: "ಮುಚ್ಚಿ",
       fiftyFifty: "Wisdom Split",
-      askAudience: "Wise Counsel",
+      askAudience: "Wise Council",
       graceGuess: "Grace Guess",
       graceGuessTryAgain: "ಸರಿಯಿಲ್ಲ... ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!",
-    },
-    audience: {
-      title: "ಪ್ರೇಕ್ಷಕರ ಅಭಿಪ್ರಾಯ",
-      close: "ಮುಚ್ಚಿ",
     },
     milestone: {
       title: "ಮೈಲಿಗಲ್ಲು ತಲುಪಿದ್ದೀರಿ!",

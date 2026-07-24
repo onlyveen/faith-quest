@@ -121,6 +121,50 @@ export async function listUnseenQuestions(
     .filter((q): q is Question => q !== null);
 }
 
+/** Fetches every record in a table, mapped to `Question` (skips malformed rows). */
+export async function listAllQuestions(table: string): Promise<Question[]> {
+  const records = await listAllRecords(table);
+  return records
+    .map(recordToQuestion)
+    .filter((q): q is Question => q !== null);
+}
+
+export interface NewQuestionRecord {
+  question: string;
+  options: string[];
+  correctIndex: number; // 0-based
+  difficulty: Difficulty;
+}
+
+/** Creates new records in a table, batched at Airtable's 10-per-request limit. */
+export async function createRecords(
+  table: string,
+  records: NewQuestionRecord[],
+): Promise<void> {
+  for (let i = 0; i < records.length; i += 10) {
+    const batch = records.slice(i, i + 10);
+    const res = await fetch(tableUrl(table), {
+      method: "POST",
+      headers: authHeaders(),
+      body: JSON.stringify({
+        records: batch.map((r) => ({
+          fields: {
+            Question: r.question,
+            Options: r.options.join(" | "),
+            Correct: r.correctIndex + 1,
+            Difficulty: r.difficulty,
+          },
+        })),
+      }),
+    });
+    if (!res.ok) {
+      throw new Error(
+        `Failed to create records (${res.status}): ${await res.text()}`,
+      );
+    }
+  }
+}
+
 /** Pulls a full 15-question round: 5 Easy, 5 Medium, 5 Hard, in that order. */
 export async function fetchQuizSet(table: string): Promise<Question[]> {
   const needed = appConfig.questionsPerDifficulty;

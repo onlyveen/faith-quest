@@ -14,7 +14,6 @@ import { useQuiz } from "../state/QuizContext";
 import { useTimer } from "../hooks/useTimer";
 import { useKeyboardShortcuts } from "../hooks/useKeyboardShortcuts";
 import { currentQuestionNumber } from "../state/quizReducer";
-import { simulateAudiencePoll } from "../lib/audience";
 import { sound } from "../lib/sound";
 import type { LifelineState } from "../types/question";
 
@@ -65,8 +64,7 @@ export function QuestionScreen() {
   }, [current.answerRevealed, current.isCorrect]);
 
   const timerConfig = appConfig.timers[question.difficulty];
-  const effectivePaused =
-    state.isPaused || current.audienceModalOpen || lifelineFreeze || lifelinesModalOpen;
+  const effectivePaused = state.isPaused || lifelineFreeze || lifelinesModalOpen;
 
   const { secondsLeft, percentLeft } = useTimer({
     totalSeconds: timerConfig.seconds,
@@ -119,16 +117,8 @@ export function QuestionScreen() {
       freezeForLifeline();
       dispatch({ type: "USE_FIFTY_FIFTY", removed });
     } else if (key === "askAudience") {
-      const availableIndices = [0, 1, 2, 3].filter(
-        (i) => !current.disabledIndices.includes(i),
-      );
-      const results = simulateAudiencePoll(
-        question.options.length,
-        question.correctIndex,
-        availableIndices,
-        question.difficulty,
-      );
-      dispatch({ type: "USE_ASK_AUDIENCE", results });
+      freezeForLifeline();
+      dispatch({ type: "USE_ASK_AUDIENCE" });
     } else {
       freezeForLifeline();
       dispatch({ type: "USE_GRACE_GUESS" });
@@ -269,40 +259,6 @@ export function QuestionScreen() {
             Next
           </GlossyButton>
         </motion.div>
-      )}
-
-      {current.audienceModalOpen && current.audienceResults && (
-        <Modal
-          title={t.audience.title}
-          footer={
-            <GlossyButton
-              variant="purple"
-              onClick={() => dispatch({ type: "CLOSE_AUDIENCE_MODAL" })}
-            >
-              {t.audience.close}
-            </GlossyButton>
-          }
-        >
-          <div className="flex flex-col gap-3">
-            {question.options.map((opt, idx) => (
-              <div key={idx} className="flex items-center gap-3">
-                <span className="w-6 font-bold">{LETTERS[idx]}</span>
-                <span className="w-24 shrink-0 truncate text-left text-sm text-white/70">
-                  {opt}
-                </span>
-                <div className="h-6 flex-1 overflow-hidden rounded-full bg-white/10">
-                  <div
-                    className="h-full rounded-full bg-gradient-to-r from-fq-purple-500 to-fq-blue-500"
-                    style={{ width: `${current.audienceResults![idx]}%` }}
-                  />
-                </div>
-                <span className="w-12 text-right text-sm">
-                  {current.audienceResults![idx]}%
-                </span>
-              </div>
-            ))}
-          </div>
-        </Modal>
       )}
 
       {state.isPaused && <PauseOverlay />}

@@ -64,8 +64,8 @@ export const appConfig = {
     {
       code: "en",
       label: "English",
-      table: "Questions_English",
-      enabled: false,
+      table: "Questions English",
+      enabled: true,
     },
     {
       code: "kn",

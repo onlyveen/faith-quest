@@ -20,8 +20,6 @@ export interface CurrentQuestionState {
   isCorrect: boolean | null;
   graceGuessActive: boolean;
   graceGuessAttemptUsed: boolean;
-  audienceResults: number[] | null;
-  audienceModalOpen: boolean;
 }
 
 export interface QuizState {
@@ -45,8 +43,6 @@ const initialCurrentQuestion: CurrentQuestionState = {
   isCorrect: null,
   graceGuessActive: false,
   graceGuessAttemptUsed: false,
-  audienceResults: null,
-  audienceModalOpen: false,
 };
 
 export const initialQuizState: QuizState = {
@@ -74,8 +70,7 @@ export type QuizAction =
   | { type: "ENTER_QUESTION" }
   | { type: "SELECT_OPTION"; index: number }
   | { type: "USE_FIFTY_FIFTY"; removed: number[] }
-  | { type: "USE_ASK_AUDIENCE"; results: number[] }
-  | { type: "CLOSE_AUDIENCE_MODAL" }
+  | { type: "USE_ASK_AUDIENCE" }
   | { type: "USE_GRACE_GUESS" }
   | { type: "CONFIRM_ANSWER" }
   | { type: "PROCEED_AFTER_REVEAL" }
@@ -195,17 +190,6 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
       return {
         ...state,
         lifelines: { ...state.lifelines, askAudience: false },
-        current: {
-          ...state.current,
-          audienceResults: action.results,
-          audienceModalOpen: true,
-        },
-      };
-
-    case "CLOSE_AUDIENCE_MODAL":
-      return {
-        ...state,
-        current: { ...state.current, audienceModalOpen: false },
       };
 
     case "USE_GRACE_GUESS":
