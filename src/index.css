@@ -1,0 +1,253 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Baskervville", "Gidugu", serif;
+  --font-body: "Inter", "Gidugu", "Noto Sans Kannada", sans-serif;
+  --font-mono: "Share Tech Mono", "Gidugu", monospace;
+
+  --color-fq-bg-deep: #150c3d;
+  --color-fq-bg: #1c1259;
+  --color-fq-bg-light: #241a6b;
+  --color-fq-blue-500: #2f6fe4;
+  --color-fq-blue-300: #7fb2f5;
+  --color-fq-purple-500: #a239e0;
+  --color-fq-purple-300: #c98bf5;
+  --color-fq-gold-500: #e0a530;
+  --color-fq-gold-300: #f5d98b;
+  --color-fq-silver-500: #b9bdc6;
+  --color-fq-silver-300: #eef0f3;
+  --color-fq-correct: #7ed321;
+  --color-fq-wrong: #ff3b3b;
+
+  /* HUD accents */
+  --color-hud-cyan: #33f6ff;
+  --color-hud-cyan-dim: #0aa3ad;
+  --color-hud-magenta: #ff3ad1;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--color-fq-bg-deep);
+  color: white;
+  overflow-x: hidden;
+}
+
+button {
+  font-family: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: var(--color-fq-purple-500);
+  color: white;
+}
+
+/* --- HUD panel geometry: angular clipped corners --- */
+.hud-cut-sm {
+  clip-path: polygon(
+    8px 0,
+    100% 0,
+    100% calc(100% - 8px),
+    calc(100% - 8px) 100%,
+    0 100%,
+    0 8px
+  );
+}
+.hud-cut-md {
+  clip-path: polygon(
+    14px 0,
+    100% 0,
+    100% calc(100% - 14px),
+    calc(100% - 14px) 100%,
+    0 100%,
+    0 14px
+  );
+}
+.hud-cut-lg {
+  clip-path: polygon(
+    22px 0,
+    100% 0,
+    100% calc(100% - 22px),
+    calc(100% - 22px) 100%,
+    0 100%,
+    0 22px
+  );
+}
+
+/* --- HUD glow rings, keyed to accent color --- */
+.hud-glow-cyan {
+  box-shadow:
+    0 0 0 1px rgba(51, 246, 255, 0.6),
+    0 0 12px rgba(51, 246, 255, 0.45),
+    0 0 30px rgba(51, 246, 255, 0.2);
+}
+.hud-glow-gold {
+  box-shadow:
+    0 0 0 1px rgba(245, 217, 139, 0.7),
+    0 0 12px rgba(224, 165, 48, 0.5),
+    0 0 30px rgba(224, 165, 48, 0.22);
+}
+.hud-glow-purple {
+  box-shadow:
+    0 0 0 1px rgba(201, 139, 245, 0.6),
+    0 0 12px rgba(162, 57, 224, 0.45),
+    0 0 30px rgba(162, 57, 224, 0.2);
+}
+.hud-glow-danger {
+  box-shadow:
+    0 0 0 1px rgba(255, 58, 209, 0.6),
+    0 0 12px rgba(255, 58, 209, 0.4),
+    0 0 26px rgba(255, 58, 209, 0.18);
+}
+
+/* --- Futuristic glitch screen-enter transition --- */
+@keyframes glitch-in {
+  0% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+    filter: none;
+    opacity: 0;
+  }
+  8% {
+    clip-path: inset(8% 0 64% 0);
+    transform: translateX(-3%);
+    filter: hue-rotate(90deg) saturate(4);
+    opacity: 1;
+  }
+  16% {
+    clip-path: inset(72% 0 4% 0);
+    transform: translateX(2.5%);
+    filter: hue-rotate(-70deg) saturate(3);
+  }
+  26% {
+    clip-path: inset(30% 0 42% 0);
+    transform: translateX(-1.8%);
+    filter: none;
+  }
+  36% {
+    clip-path: inset(0 0 82% 0);
+    transform: translateX(2%);
+  }
+  48% {
+    clip-path: inset(55% 0 0 0);
+    transform: translateX(-1.2%);
+  }
+  62% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0.8%);
+  }
+  78% {
+    transform: translateX(-0.4%);
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+    filter: none;
+    opacity: 1;
+  }
+}
+.glitch-enter {
+  animation: glitch-in 0.55s steps(2, end);
+}
+
+/* --- Ambient HUD motion --- */
+@keyframes hud-scan {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+.hud-scanline {
+  background: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(51, 246, 255, 0.08) 45%,
+    rgba(51, 246, 255, 0.16) 50%,
+    rgba(51, 246, 255, 0.08) 55%,
+    transparent 100%
+  );
+  animation: hud-scan 6s linear infinite;
+}
+
+/* --- Ladder reward-tier cards: metal-plate look --- */
+.ladder-card {
+  position: relative;
+  overflow: hidden;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.25),
+    inset 0 -8px 14px rgba(0, 0, 0, 0.35),
+    0 4px 10px rgba(0, 0, 0, 0.35);
+}
+.ladder-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    115deg,
+    transparent 15%,
+    rgba(255, 255, 255, 0.4) 30%,
+    transparent 45%
+  );
+  transform: translateX(-70%);
+  pointer-events: none;
+}
+.ladder-card-steel {
+  background: linear-gradient(160deg, #838d9e 0%, #4b5262 45%, #262b38 100%);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+.ladder-card-silver {
+  background: linear-gradient(160deg, #f7f9fb 0%, #c3c9d1 45%, #868f9d 100%);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  color: #1c1f26;
+}
+.ladder-card-gold {
+  background: linear-gradient(160deg, #fdeeb8 0%, #e0a530 48%, #935f12 100%);
+  border: 1px solid rgba(245, 217, 139, 0.9);
+  color: #3a2405;
+}
+.ladder-card-diamond {
+  background: linear-gradient(160deg, #ecfeff 0%, #33f6ff 45%, #0a8b93 100%);
+  border: 1px solid rgba(51, 246, 255, 0.95);
+  color: #04262a;
+}
+.ladder-card-silver .ladder-card-amount,
+.ladder-card-gold .ladder-card-amount,
+.ladder-card-diamond .ladder-card-amount {
+  text-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.5),
+    0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.ladder-card-steel .ladder-card-amount {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+@keyframes hud-flicker {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  92% {
+    opacity: 1;
+  }
+  93% {
+    opacity: 0.6;
+  }
+  94% {
+    opacity: 1;
+  }
+}
+.hud-flicker {
+  animation: hud-flicker 4s ease-in-out infinite;
+}
