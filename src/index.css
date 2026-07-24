@@ -118,36 +118,36 @@ button {
     filter: none;
     opacity: 0;
   }
-  8% {
+  10% {
     clip-path: inset(8% 0 64% 0);
-    transform: translateX(-3%);
-    filter: hue-rotate(90deg) saturate(4);
+    transform: translateX(-1.2%);
+    filter: hue-rotate(25deg) saturate(1.6);
     opacity: 1;
   }
-  16% {
+  20% {
     clip-path: inset(72% 0 4% 0);
-    transform: translateX(2.5%);
-    filter: hue-rotate(-70deg) saturate(3);
+    transform: translateX(1%);
+    filter: hue-rotate(-18deg) saturate(1.4);
   }
-  26% {
+  30% {
     clip-path: inset(30% 0 42% 0);
-    transform: translateX(-1.8%);
+    transform: translateX(-0.7%);
     filter: none;
   }
-  36% {
+  42% {
     clip-path: inset(0 0 82% 0);
-    transform: translateX(2%);
-  }
-  48% {
-    clip-path: inset(55% 0 0 0);
-    transform: translateX(-1.2%);
-  }
-  62% {
-    clip-path: inset(0 0 0 0);
     transform: translateX(0.8%);
   }
-  78% {
-    transform: translateX(-0.4%);
+  55% {
+    clip-path: inset(55% 0 0 0);
+    transform: translateX(-0.5%);
+  }
+  70% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0.3%);
+  }
+  85% {
+    transform: translateX(-0.15%);
   }
   100% {
     clip-path: inset(0 0 0 0);
@@ -157,7 +157,7 @@ button {
   }
 }
 .glitch-enter {
-  animation: glitch-in 0.55s steps(2, end);
+  animation: glitch-in 0.5s ease-out;
 }
 
 /* --- Ambient HUD motion --- */
