@@ -42,7 +42,7 @@ export function LadderIntroScreen() {
         {t.ladder.title}
       </h1>
 
-      <div className="relative z-10 grid grid-cols-1 gap-2 sm:grid-cols-3 sm:gap-5">
+      <div className="relative z-10 hidden w-full grid-cols-1 gap-2 sm:grid sm:grid-cols-3 sm:gap-5">
         {columns.map((col, colIdx) => (
           <div key={colIdx} className="flex flex-col gap-5">
             {col.map((amount, i) => {
@@ -65,6 +65,26 @@ export function LadderIntroScreen() {
             })}
           </div>
         ))}
+      </div>
+
+      <div className="relative z-10 flex w-full max-w-md flex-col gap-3 text-left sm:hidden">
+        <h2 className="text-center font-display text-lg font-bold text-fq-gold-300">
+          {t.ladder.howToPlayTitle}
+        </h2>
+        <ol className="flex flex-col gap-2 text-sm text-white/80">
+          {t.ladder.howToPlay.map((step, i) => (
+            <motion.li
+              key={i}
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3, delay: i * 0.08, ease: "easeOut" }}
+              className="flex gap-2"
+            >
+              <span className="font-mono font-bold text-hud-cyan">{i + 1}.</span>
+              <span>{step}</span>
+            </motion.li>
+          ))}
+        </ol>
       </div>
 
       <GlossyButton variant="purple" onClick={start}>

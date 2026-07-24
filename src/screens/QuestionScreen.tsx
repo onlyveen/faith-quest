@@ -48,6 +48,15 @@ export function QuestionScreen() {
   }, [state.currentIndex]);
 
   useEffect(() => {
+    const id = setTimeout(() => {
+      sound.reveal();
+      setOptionsRevealed(true);
+    }, 3000);
+    return () => clearTimeout(id);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [state.currentIndex]);
+
+  useEffect(() => {
     if (current.answerRevealed && current.isCorrect) {
       setCelebrate(true);
       const id = setTimeout(() => setCelebrate(false), 1800);
@@ -96,11 +105,6 @@ export function QuestionScreen() {
 
   const proceed = () => dispatch({ type: "PROCEED_AFTER_REVEAL" });
 
-  const revealOptions = () => {
-    sound.reveal();
-    setOptionsRevealed(true);
-  };
-
   const useLifeline = (key: keyof LifelineState) => {
     if (!state.lifelines[key] || current.answerRevealed) return;
     sound.lifelineUsed();
@@ -140,13 +144,8 @@ export function QuestionScreen() {
     "2": () => !inputBlocked && selectOption(1),
     "3": () => !inputBlocked && selectOption(2),
     "4": () => !inputBlocked && selectOption(3),
-    Enter: () => {
-      if (!optionsRevealed) {
-        if (!state.isPaused && !lifelinesModalOpen) revealOptions();
-        return;
-      }
-      if (!inputBlocked) current.answerRevealed ? proceed() : confirm();
-    },
+    Enter: () =>
+      !inputBlocked && (current.answerRevealed ? proceed() : confirm()),
     " ": () => dispatch({ type: state.isPaused ? "RESUME" : "PAUSE" }),
     z: () => !inputBlocked && useLifeline("fiftyFifty"),
     x: () => !inputBlocked && useLifeline("askAudience"),
@@ -215,9 +214,11 @@ export function QuestionScreen() {
         </p>
       )}
 
-      {optionsRevealed ? (
+      {optionsRevealed && (
         <motion.div
           variants={itemVariants}
+          initial="hidden"
+          animate="show"
           className="relative z-10 grid w-full max-w-3xl grid-cols-1 gap-3 sm:grid-cols-2"
         >
           {question.options.map((opt, idx) => (
@@ -230,12 +231,6 @@ export function QuestionScreen() {
               index={idx}
             />
           ))}
-        </motion.div>
-      ) : (
-        <motion.div variants={itemVariants}>
-          <GlossyButton variant="gold" onClick={revealOptions}>
-            {t.question.revealOptions}
-          </GlossyButton>
         </motion.div>
       )}
 
