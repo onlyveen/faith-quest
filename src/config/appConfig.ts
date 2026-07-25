@@ -60,7 +60,7 @@ export const appConfig = {
   },
 
   languages: [
-    { code: "te", label: "తెలుగు", table: "Questions", enabled: true },
+    { code: "te", label: "తెలుగు", table: "Questions Telugu", enabled: true },
     {
       code: "en",
       label: "English",
@@ -70,8 +70,8 @@ export const appConfig = {
     {
       code: "kn",
       label: "ಕನ್ನಡ",
-      table: "Questions_Kannada",
-      enabled: false,
+      table: "Questions Kannada",
+      enabled: true,
     },
   ] as LanguageConfig[],
 
