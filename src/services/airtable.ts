@@ -46,6 +46,7 @@ function recordToQuestion(record: AirtableRecord): Question | null {
   const optionsRaw = record.fields["Options"];
   const correctRaw = record.fields["Correct"];
   const difficulty = record.fields["Difficulty"];
+  const reference = record.fields["Reference"];
 
   if (
     typeof question !== "string" ||
@@ -67,6 +68,7 @@ function recordToQuestion(record: AirtableRecord): Question | null {
     options,
     correctIndex: correctNumber - 1,
     difficulty: difficulty as Difficulty,
+    reference: typeof reference === "string" && reference.trim() ? reference.trim() : undefined,
   };
 }
 

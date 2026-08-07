@@ -253,6 +253,15 @@ export function QuestionScreen() {
         </motion.div>
       )}
 
+      {current.answerRevealed && question.reference && (
+        <motion.p
+          variants={itemVariants}
+          className="relative z-10 font-mono text-hud-cyan/80"
+        >
+          {t.question.referenceLabel} : {question.reference}
+        </motion.p>
+      )}
+
       {current.answerRevealed && (
         <motion.div variants={itemVariants}>
           <GlossyButton variant="purple" onClick={proceed}>

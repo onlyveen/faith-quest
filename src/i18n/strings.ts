@@ -34,6 +34,7 @@ export interface Strings {
     confirmQuitTitle: string;
     confirmQuitYes: string;
     confirmQuitNo: string;
+    referenceLabel: string;
   };
   lifelines: {
     title: string;
@@ -105,6 +106,7 @@ export const strings: Record<LanguageCode, Strings> = {
       confirmQuitTitle: "క్విజ్ నుండి నిష్క్రమించాలి అనుకుంటున్నారా?",
       confirmQuitYes: "అవును, నిష్క్రమించు",
       confirmQuitNo: "కాదు, కొనసాగించు",
+      referenceLabel: "బైబిల్ వివరణ",
     },
     lifelines: {
       title: "లైఫ్‌లైన్‌లు",
@@ -174,6 +176,7 @@ export const strings: Record<LanguageCode, Strings> = {
       confirmQuitTitle: "Quit the quiz?",
       confirmQuitYes: "Yes, quit",
       confirmQuitNo: "No, keep playing",
+      referenceLabel: "Reference",
     },
     lifelines: {
       title: "Lifelines",
@@ -243,6 +246,7 @@ export const strings: Record<LanguageCode, Strings> = {
       confirmQuitTitle: "ಕ್ವಿಜ್‌ನಿಂದ ನಿರ್ಗಮಿಸಬೇಕೆ?",
       confirmQuitYes: "ಹೌದು, ನಿರ್ಗಮಿಸಿ",
       confirmQuitNo: "ಇಲ್ಲ, ಮುಂದುವರಿಸಿ",
+      referenceLabel: "ಉಲ್ಲೇಖ",
     },
     lifelines: {
       title: "ಲೈಫ್‌ಲೈನ್‌ಗಳು",
