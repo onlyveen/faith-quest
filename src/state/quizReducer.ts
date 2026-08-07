@@ -2,6 +2,22 @@ import type { LifelineState, Question } from "../types/question";
 import { amountForQuestion, getWalkAwayAmount } from "../lib/ladder";
 import { appConfig } from "../config/appConfig";
 
+// Airtable rows tend to have the correct answer authored into the same slot
+// (often A/B), so shuffle each question's options at load time to spread the
+// correct answer evenly across A-D — otherwise players learn to pattern-match.
+function shuffleQuestionOptions(question: Question): Question {
+  const order = question.options.map((_, i) => i);
+  for (let i = order.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [order[i], order[j]] = [order[j], order[i]];
+  }
+  return {
+    ...question,
+    options: order.map((i) => question.options[i]),
+    correctIndex: order.indexOf(question.correctIndex),
+  };
+}
+
 export type Screen =
   | "HOME"
   | "PLAYER_SETUP"
@@ -34,6 +50,8 @@ export interface QuizState {
   gameResult: "WON" | "LOST" | "EXITED" | null;
   loadError: string | null;
   isPaused: boolean;
+  hearts: number; // remaining lives; game ends when this hits 0
+  questionsTable: string | null; // Airtable table the active question set was fetched from
 }
 
 const initialCurrentQuestion: CurrentQuestionState = {
@@ -57,6 +75,8 @@ export const initialQuizState: QuizState = {
   gameResult: null,
   loadError: null,
   isPaused: false,
+  hearts: appConfig.maxHearts,
+  questionsTable: null,
 };
 
 export type QuizAction =
@@ -65,7 +85,7 @@ export type QuizAction =
   | { type: "SET_PLAYER_NAME"; name: string }
   | { type: "GO_TO_LADDER" }
   | { type: "START_LOADING" }
-  | { type: "QUESTIONS_LOADED"; questions: Question[] }
+  | { type: "QUESTIONS_LOADED"; questions: Question[]; table: string }
   | { type: "LOAD_ERROR"; message: string }
   | { type: "ENTER_QUESTION" }
   | { type: "SELECT_OPTION"; index: number }
@@ -149,8 +169,9 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
       return {
         ...state,
         screen: "PRE_QUESTION",
-        questions: action.questions,
+        questions: action.questions.map(shuffleQuestionOptions),
         currentIndex: 0,
+        questionsTable: action.table,
       };
 
     case "LOAD_ERROR":
@@ -221,24 +242,30 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
     }
 
     case "PROCEED_AFTER_REVEAL": {
-      if (state.current.isCorrect === false) {
+      const wasWrong = state.current.isCorrect === false;
+      const hearts = wasWrong ? state.hearts - 1 : state.hearts;
+      const isLastQuestion =
+        currentQuestionNumber(state) >= appConfig.ladder.length;
+
+      // Out of hearts, or a wrong answer with no questions left — game over.
+      if (wasWrong && (hearts <= 0 || isLastQuestion)) {
         return {
           ...state,
+          hearts,
           screen: "RESULTS",
           gameResult: "LOST",
           mannaEarned: getWalkAwayAmount(state.lastCorrectQuestionNumber),
         };
       }
-      const isLastQuestion =
-        currentQuestionNumber(state) >= appConfig.ladder.length;
       if (isLastQuestion) {
-        return { ...state, screen: "RESULTS", gameResult: "WON" };
+        return { ...state, hearts, screen: "RESULTS", gameResult: "WON" };
       }
       if (appConfig.checkpoints.includes(currentQuestionNumber(state))) {
-        return { ...state, screen: "MILESTONE" };
+        return { ...state, hearts, screen: "MILESTONE" };
       }
       return {
         ...state,
+        hearts,
         screen: "PRE_QUESTION",
         currentIndex: state.currentIndex + 1,
         current: initialCurrentQuestion,

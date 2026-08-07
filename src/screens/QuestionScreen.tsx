@@ -167,8 +167,18 @@ export function QuestionScreen() {
         variants={itemVariants}
         className="relative z-10 flex w-full max-w-3xl items-center justify-between"
       >
-        <div className="text-left font-mono text-sm text-hud-cyan/80">
-          {t.preQuestion.questionLabel} {qNum} · {question.difficulty}
+        <div className="flex flex-col items-start gap-1 text-left font-mono text-sm text-hud-cyan/80">
+          <span>
+            {t.preQuestion.questionLabel} {qNum} · {question.difficulty}
+          </span>
+          <span
+            className="text-base leading-none tracking-wider"
+            aria-label={`${state.hearts} of ${appConfig.maxHearts} hearts remaining`}
+          >
+            {Array.from({ length: appConfig.maxHearts }, (_, i) =>
+              i < state.hearts ? "❤️" : "🤍",
+            ).join(" ")}
+          </span>
         </div>
         {timerConfig.enabled && (
           <TimerRing

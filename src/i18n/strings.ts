@@ -88,7 +88,7 @@ export const strings: Record<LanguageCode, Strings> = {
         "ప్రతి ప్రశ్నకు దాని కఠినతను బట్టి సమయ పరిమితి ఉంటుంది.",
         "ఇబ్బందిలో ఉంటే 3 లైఫ్‌లైన్‌లు ఉపయోగించండి — Wisdom Split, Wise Council, Grace Guess.",
         "ప్రశ్న 5 మరియు 10 సురక్షిత చెక్‌పాయింట్‌లు: అక్కడికి చేరితే మీ మన్నాను భద్రపరచుకోవచ్చు లేదా కొనసాగించవచ్చు.",
-        "తప్పు సమాధానం మిమ్మల్ని మీ చివరి సురక్షిత చెక్‌పాయింట్‌కు వెనక్కి పంపుతుంది.",
+        "మీకు 3 హృదయాలు ఉన్నాయి — తప్పు సమాధానం ఒక హృదయాన్ని తీసివేస్తుంది; మూడూ పోతే ఆట ముగుస్తుంది.",
       ],
     },
     preQuestion: {
@@ -158,7 +158,7 @@ export const strings: Record<LanguageCode, Strings> = {
         "Each question has a time limit based on its difficulty.",
         "Use 3 lifelines if you're stuck — Wisdom Split, Wise Council, Grace Guess.",
         "Questions 5 and 10 are safe checkpoints: reach them and you can bank your winnings or keep playing.",
-        "A wrong answer sends you back to your last safe checkpoint.",
+        "You have 3 hearts — a wrong answer costs one heart; lose all 3 and the game ends.",
       ],
     },
     preQuestion: {
@@ -228,7 +228,7 @@ export const strings: Record<LanguageCode, Strings> = {
         "ಪ್ರತಿ ಪ್ರಶ್ನೆಗೆ ಅದರ ಕಠಿಣತೆಗೆ ಅನುಗುಣವಾಗಿ ಸಮಯ ಮಿತಿ ಇರುತ್ತದೆ.",
         "ಸಿಲುಕಿದಾಗ 3 ಲೈಫ್‌ಲೈನ್‌ಗಳನ್ನು ಬಳಸಿ — Wisdom Split, Wise Council, Grace Guess.",
         "ಪ್ರಶ್ನೆ 5 ಮತ್ತು 10 ಸುರಕ್ಷಿತ ಚೆಕ್‌ಪಾಯಿಂಟ್‌ಗಳು: ಅಲ್ಲಿಗೆ ತಲುಪಿದರೆ ನಿಮ್ಮ ಮನ್ನಾವನ್ನು ಸುರಕ್ಷಿತಗೊಳಿಸಬಹುದು ಅಥವಾ ಮುಂದುವರಿಸಬಹುದು.",
-        "ತಪ್ಪು ಉತ್ತರ ನಿಮ್ಮನ್ನು ಕೊನೆಯ ಸುರಕ್ಷಿತ ಚೆಕ್‌ಪಾಯಿಂಟ್‌ಗೆ ಹಿಂತಿರುಗಿಸುತ್ತದೆ.",
+        "ನಿಮಗೆ 3 ಹೃದಯಗಳಿವೆ — ತಪ್ಪು ಉತ್ತರ ಒಂದು ಹೃದಯವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ; ಮೂರೂ ಕಳೆದುಕೊಂಡರೆ ಆಟ ಮುಗಿಯುತ್ತದೆ.",
       ],
     },
     preQuestion: {

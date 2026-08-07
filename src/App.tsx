@@ -1,6 +1,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { LanguageProvider } from "./i18n/LanguageContext";
 import { QuizProvider, useQuiz } from "./state/QuizContext";
+import { LanguageToggle } from "./components/LanguageToggle";
 import { HomeScreen } from "./screens/HomeScreen";
 import { PlayerSetupScreen } from "./screens/PlayerSetupScreen";
 import { LadderIntroScreen } from "./screens/LadderIntroScreen";
@@ -43,18 +44,21 @@ function Screens() {
   const isQuestion = state.screen === "QUESTION";
 
   return (
-    <AnimatePresence mode="wait">
-      <motion.div
-        key={screenKey}
-        initial={isQuestion ? { opacity: 1 } : { opacity: 0, x: 24 }}
-        animate={{ opacity: 1, x: 0 }}
-        exit={{ opacity: 0, x: -24 }}
-        transition={{ duration: 0.28, ease: "easeInOut" }}
-        className={isQuestion ? "glitch-enter" : ""}
-      >
-        {renderScreen(state.screen)}
-      </motion.div>
-    </AnimatePresence>
+    <>
+      {state.screen !== "HOME" && <LanguageToggle />}
+      <AnimatePresence mode="wait">
+        <motion.div
+          key={screenKey}
+          initial={isQuestion ? { opacity: 1 } : { opacity: 0, x: 24 }}
+          animate={{ opacity: 1, x: 0 }}
+          exit={{ opacity: 0, x: -24 }}
+          transition={{ duration: 0.28, ease: "easeInOut" }}
+          className={isQuestion ? "glitch-enter" : ""}
+        >
+          {renderScreen(state.screen)}
+        </motion.div>
+      </AnimatePresence>
+    </>
   );
 }
 

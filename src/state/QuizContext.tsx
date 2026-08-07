@@ -40,11 +40,15 @@ export function QuizProvider({ children }: { children: ReactNode }) {
       // the app can be tried/demoed before the Airtable bank is fully seeded.
       if (new URLSearchParams(window.location.search).get("mock") === "1") {
         const { mockQuizSet } = await import("../services/previewQuestions");
-        dispatch({ type: "QUESTIONS_LOADED", questions: mockQuizSet() });
+        dispatch({
+          type: "QUESTIONS_LOADED",
+          questions: mockQuizSet(),
+          table: currentTable,
+        });
         return;
       }
       const questions = await fetchQuizSet(currentTable);
-      dispatch({ type: "QUESTIONS_LOADED", questions });
+      dispatch({ type: "QUESTIONS_LOADED", questions, table: currentTable });
     } catch (err) {
       const message =
         err instanceof NotEnoughQuestionsError
@@ -57,10 +61,14 @@ export function QuizProvider({ children }: { children: ReactNode }) {
   const markCurrentQuestionSeen = useCallback(() => {
     const question = state.questions[state.currentIndex];
     if (!question) return;
-    markQuestionSeen(currentTable, question.id).catch((err) => {
+    // Use the table the active question set was actually fetched from —
+    // the player may have toggled the display language mid-quiz, which
+    // must not repoint this at a different language's table.
+    const table = state.questionsTable ?? currentTable;
+    markQuestionSeen(table, question.id).catch((err) => {
       console.error("Failed to mark question as seen:", err);
     });
-  }, [currentTable, state.questions, state.currentIndex]);
+  }, [currentTable, state.questionsTable, state.questions, state.currentIndex]);
 
   const resetQuestionBank = useCallback(() => {
     return resetAllStatuses(currentTable);

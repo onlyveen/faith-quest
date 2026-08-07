@@ -43,6 +43,9 @@ export const appConfig = {
   // 1-based question numbers that lock in a guaranteed minimum payout.
   checkpoints: [5, 10] as number[],
 
+  // Wrong answers cost a heart; the game ends once all hearts are lost.
+  maxHearts: 3,
+
   questionsPerDifficulty: 5,
 
   difficultyOrder: ["Easy", "Medium", "Hard"] as Difficulty[],
