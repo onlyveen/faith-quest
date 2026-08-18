@@ -3,8 +3,9 @@ import type { Difficulty } from "../types/question";
 export interface LanguageConfig {
   code: "te" | "en" | "kn";
   label: string;
-  /** Airtable table name holding this language's question bank. */
-  table: string;
+  /** Suffix used to build this language's field names in the shared Airtable
+   * table, e.g. "Telugu" -> "Question (Telugu)", "Options (Telugu)". */
+  fieldLabel: string;
   enabled: boolean;
 }
 
@@ -62,20 +63,14 @@ export const appConfig = {
     graceGuess: true,
   },
 
+  // Single shared Airtable table holding all languages (Airtable's free-tier
+  // 1000-record cap made 3 per-language tables too small).
+  questionsTable: "Questions",
+
   languages: [
-    { code: "te", label: "తెలుగు", table: "Questions Telugu", enabled: true },
-    {
-      code: "en",
-      label: "English",
-      table: "Questions English",
-      enabled: true,
-    },
-    {
-      code: "kn",
-      label: "ಕನ್ನಡ",
-      table: "Questions Kannada",
-      enabled: true,
-    },
+    { code: "te", label: "తెలుగు", fieldLabel: "Telugu", enabled: true },
+    { code: "en", label: "English", fieldLabel: "English", enabled: true },
+    { code: "kn", label: "ಕನ್ನಡ", fieldLabel: "Kannada", enabled: true },
   ] as LanguageConfig[],
 
   defaultLanguage: "te" as LanguageConfig["code"],

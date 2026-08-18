@@ -30,7 +30,7 @@ const itemVariants = {
 };
 
 export function QuestionScreen() {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
   const { state, dispatch, markCurrentQuestionSeen } = useQuiz();
   const [lifelineFreeze, setLifelineFreeze] = useState(false);
   const [lifelinesModalOpen, setLifelinesModalOpen] = useState(false);
@@ -40,6 +40,12 @@ export function QuestionScreen() {
   const question = state.questions[state.currentIndex];
   const qNum = currentQuestionNumber(state);
   const { current } = state;
+
+  // Every language's text lives on the same record, so switching language
+  // mid-quiz just re-renders the current question in the new language.
+  const questionText = question.question[language] ?? question.question[appConfig.defaultLanguage];
+  const options = question.options[language] ?? question.options[appConfig.defaultLanguage];
+  const reference = question.reference?.[language] ?? question.reference?.[appConfig.defaultLanguage];
 
   useEffect(() => {
     markCurrentQuestionSeen();
@@ -205,7 +211,7 @@ export function QuestionScreen() {
         key={question.id}
         className="relative z-10 w-full max-w-3xl px-6 py-4 font-bold text-white text-[clamp(2rem,4vw,2.5rem)]"
       >
-        {question.question}
+        {questionText}
       </motion.h1>
 
       {graceRetryPending && (
@@ -221,7 +227,7 @@ export function QuestionScreen() {
           animate="show"
           className="relative z-10 grid w-full max-w-3xl grid-cols-1 gap-3 sm:grid-cols-2"
         >
-          {question.options.map((opt, idx) => (
+          {options.map((opt, idx) => (
             <OptionTile
               key={`${question.id}-${idx}`}
               letter={LETTERS[idx]}
@@ -263,12 +269,12 @@ export function QuestionScreen() {
         </motion.div>
       )}
 
-      {current.answerRevealed && question.reference && (
+      {current.answerRevealed && reference && (
         <motion.p
           variants={itemVariants}
           className="relative z-10 font-mono text-hud-cyan/80"
         >
-          {t.question.referenceLabel} : {question.reference}
+          {t.question.referenceLabel} : {reference}
         </motion.p>
       )}
 

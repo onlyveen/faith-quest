@@ -6,14 +6,21 @@ import { appConfig } from "../config/appConfig";
 // (often A/B), so shuffle each question's options at load time to spread the
 // correct answer evenly across A-D — otherwise players learn to pattern-match.
 function shuffleQuestionOptions(question: Question): Question {
-  const order = question.options.map((_, i) => i);
+  const length = question.options[appConfig.defaultLanguage]?.length ?? 0;
+  const order = Array.from({ length }, (_, i) => i);
   for (let i = order.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [order[i], order[j]] = [order[j], order[i]];
   }
+  // Apply the same shuffled order to every language so the option in slot N
+  // stays the same across languages when the player switches mid-quiz.
+  const options: Record<string, string[]> = {};
+  for (const [lang, opts] of Object.entries(question.options)) {
+    options[lang] = order.map((i) => opts[i]);
+  }
   return {
     ...question,
-    options: order.map((i) => question.options[i]),
+    options,
     correctIndex: order.indexOf(question.correctIndex),
   };
 }
@@ -51,7 +58,6 @@ export interface QuizState {
   loadError: string | null;
   isPaused: boolean;
   hearts: number; // remaining lives; game ends when this hits 0
-  questionsTable: string | null; // Airtable table the active question set was fetched from
 }
 
 const initialCurrentQuestion: CurrentQuestionState = {
@@ -76,7 +82,6 @@ export const initialQuizState: QuizState = {
   loadError: null,
   isPaused: false,
   hearts: appConfig.maxHearts,
-  questionsTable: null,
 };
 
 export type QuizAction =
@@ -85,7 +90,7 @@ export type QuizAction =
   | { type: "SET_PLAYER_NAME"; name: string }
   | { type: "GO_TO_LADDER" }
   | { type: "START_LOADING" }
-  | { type: "QUESTIONS_LOADED"; questions: Question[]; table: string }
+  | { type: "QUESTIONS_LOADED"; questions: Question[] }
   | { type: "LOAD_ERROR"; message: string }
   | { type: "ENTER_QUESTION" }
   | { type: "SELECT_OPTION"; index: number }
@@ -171,7 +176,6 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
         screen: "PRE_QUESTION",
         questions: action.questions.map(shuffleQuestionOptions),
         currentIndex: 0,
-        questionsTable: action.table,
       };
 
     case "LOAD_ERROR":

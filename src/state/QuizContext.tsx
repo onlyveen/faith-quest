@@ -13,7 +13,6 @@ import {
   NotEnoughQuestionsError,
 } from "../services/airtable";
 import { appConfig } from "../config/appConfig";
-import { useLanguage } from "../i18n/LanguageContext";
 
 interface QuizContextValue {
   state: QuizState;
@@ -27,11 +26,8 @@ const QuizContext = createContext<QuizContextValue | null>(null);
 
 export function QuizProvider({ children }: { children: ReactNode }) {
   const [state, dispatch] = useReducer(quizReducer, initialQuizState);
-  const { language } = useLanguage();
 
-  const currentTable =
-    appConfig.languages.find((l) => l.code === language)?.table ??
-    appConfig.languages[0].table;
+  const currentTable = appConfig.questionsTable;
 
   const loadQuestions = useCallback(async () => {
     dispatch({ type: "START_LOADING" });
@@ -40,15 +36,11 @@ export function QuizProvider({ children }: { children: ReactNode }) {
       // the app can be tried/demoed before the Airtable bank is fully seeded.
       if (new URLSearchParams(window.location.search).get("mock") === "1") {
         const { mockQuizSet } = await import("../services/previewQuestions");
-        dispatch({
-          type: "QUESTIONS_LOADED",
-          questions: mockQuizSet(),
-          table: currentTable,
-        });
+        dispatch({ type: "QUESTIONS_LOADED", questions: mockQuizSet() });
         return;
       }
       const questions = await fetchQuizSet(currentTable);
-      dispatch({ type: "QUESTIONS_LOADED", questions, table: currentTable });
+      dispatch({ type: "QUESTIONS_LOADED", questions });
     } catch (err) {
       const message =
         err instanceof NotEnoughQuestionsError
@@ -61,14 +53,10 @@ export function QuizProvider({ children }: { children: ReactNode }) {
   const markCurrentQuestionSeen = useCallback(() => {
     const question = state.questions[state.currentIndex];
     if (!question) return;
-    // Use the table the active question set was actually fetched from —
-    // the player may have toggled the display language mid-quiz, which
-    // must not repoint this at a different language's table.
-    const table = state.questionsTable ?? currentTable;
-    markQuestionSeen(table, question.id).catch((err) => {
+    markQuestionSeen(currentTable, question.id).catch((err) => {
       console.error("Failed to mark question as seen:", err);
     });
-  }, [currentTable, state.questionsTable, state.questions, state.currentIndex]);
+  }, [currentTable, state.questions, state.currentIndex]);
 
   const resetQuestionBank = useCallback(() => {
     return resetAllStatuses(currentTable);

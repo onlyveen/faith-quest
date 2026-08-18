@@ -1,7 +1,13 @@
 import type { Question } from "../types/question";
+import { appConfig } from "../config/appConfig";
 
 /** Placeholder question set for preview mode (`?mock=1`) — see QuizContext. */
 export function mockQuizSet(): Question[] {
+  // Same placeholder text under every language code — mock mode is for
+  // layout/flow preview, not translation content.
+  const perLanguage = <T,>(value: T): Record<string, T> =>
+    Object.fromEntries(appConfig.languages.map((l) => [l.code, value]));
+
   const make = (
     id: string,
     q: string,
@@ -9,7 +15,14 @@ export function mockQuizSet(): Question[] {
     correctIndex: number,
     difficulty: Question["difficulty"],
     reference?: string,
-  ): Question => ({ id, question: q, options, correctIndex, difficulty, reference });
+  ): Question => ({
+    id,
+    question: perLanguage(q),
+    options: perLanguage(options),
+    correctIndex,
+    difficulty,
+    reference: reference ? perLanguage(reference) : undefined,
+  });
 
   const easy = Array.from({ length: 5 }, (_, i) =>
     make(

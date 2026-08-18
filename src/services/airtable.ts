@@ -1,5 +1,5 @@
 import type { Difficulty, Question } from "../types/question";
-import { appConfig } from "../config/appConfig";
+import { appConfig, type LanguageConfig } from "../config/appConfig";
 
 const API_KEY = import.meta.env.VITE_AIRTABLE_API_KEY as string;
 const BASE_ID = import.meta.env.VITE_AIRTABLE_BASE_ID as string;
@@ -41,24 +41,46 @@ export class NotEnoughQuestionsError extends Error {
   }
 }
 
+/** Field names on the shared `Questions` table, e.g. "Question (Telugu)". */
+function langField(base: string, fieldLabel: string) {
+  return `${base} (${fieldLabel})`;
+}
+
+// Pulls every language's Question/Options/Reference off the shared record so
+// switching the display language mid-quiz can re-render the same question
+// set without a refetch.
 function recordToQuestion(record: AirtableRecord): Question | null {
-  const question = record.fields["Question"];
-  const optionsRaw = record.fields["Options"];
   const correctRaw = record.fields["Correct"];
   const difficulty = record.fields["Difficulty"];
-  const reference = record.fields["Reference"];
+  if (typeof difficulty !== "string") return null;
 
-  if (
-    typeof question !== "string" ||
-    typeof optionsRaw !== "string" ||
-    typeof difficulty !== "string"
-  ) {
-    return null;
+  const question: Record<string, string> = {};
+  const options: Record<string, string[]> = {};
+  const reference: Record<string, string> = {};
+
+  for (const { code, fieldLabel } of appConfig.languages) {
+    const q = record.fields[langField("Question", fieldLabel)];
+    const optionsRaw = record.fields[langField("Options", fieldLabel)];
+    const ref = record.fields[langField("Reference", fieldLabel)];
+
+    if (typeof q === "string" && q.trim()) question[code] = q.trim();
+    if (typeof optionsRaw === "string" && optionsRaw.trim()) {
+      options[code] = optionsRaw.split("|").map((o) => o.trim());
+    }
+    if (typeof ref === "string" && ref.trim()) reference[code] = ref.trim();
   }
 
-  const options = optionsRaw.split("|").map((o) => o.trim());
+  const defaultCode = appConfig.defaultLanguage;
   const correctNumber = Number(correctRaw);
-  if (!Number.isInteger(correctNumber) || correctNumber < 1 || correctNumber > options.length) {
+  const optionCount = options[defaultCode]?.length ?? 0;
+
+  if (
+    !question[defaultCode] ||
+    !options[defaultCode] ||
+    !Number.isInteger(correctNumber) ||
+    correctNumber < 1 ||
+    correctNumber > optionCount
+  ) {
     return null;
   }
 
@@ -68,7 +90,7 @@ function recordToQuestion(record: AirtableRecord): Question | null {
     options,
     correctIndex: correctNumber - 1,
     difficulty: difficulty as Difficulty,
-    reference: typeof reference === "string" && reference.trim() ? reference.trim() : undefined,
+    reference: Object.keys(reference).length ? reference : undefined,
   };
 }
 
@@ -118,23 +140,21 @@ export async function listUnseenQuestions(
   // blank/never-set Status (the common case today) as well as "unseen".
   const formula = `AND({Difficulty}='${difficulty}', NOT({Status}='seen'))`;
   const records = await listAllRecords(table, formula);
-  return records
-    .map(recordToQuestion)
-    .filter((q): q is Question => q !== null);
+  return records.map(recordToQuestion).filter((q): q is Question => q !== null);
 }
 
 /** Fetches every record in a table, mapped to `Question` (skips malformed rows). */
 export async function listAllQuestions(table: string): Promise<Question[]> {
   const records = await listAllRecords(table);
-  return records
-    .map(recordToQuestion)
-    .filter((q): q is Question => q !== null);
+  return records.map(recordToQuestion).filter((q): q is Question => q !== null);
 }
 
 export interface NewQuestionRecord {
-  question: string;
-  options: string[];
-  correctIndex: number; // 0-based
+  /** Keyed by language code, e.g. { te: "...", en: "...", kn: "..." }. */
+  question: Record<string, string>;
+  options: Record<string, string[]>;
+  reference?: Record<string, string>;
+  correctIndex: number; // 0-based, shared across all languages
   difficulty: Difficulty;
 }
 
@@ -142,6 +162,7 @@ export interface NewQuestionRecord {
 export async function createRecords(
   table: string,
   records: NewQuestionRecord[],
+  languages: Pick<LanguageConfig, "code" | "fieldLabel">[] = appConfig.languages,
 ): Promise<void> {
   for (let i = 0; i < records.length; i += 10) {
     const batch = records.slice(i, i + 10);
@@ -149,14 +170,20 @@ export async function createRecords(
       method: "POST",
       headers: authHeaders(),
       body: JSON.stringify({
-        records: batch.map((r) => ({
-          fields: {
-            Question: r.question,
-            Options: r.options.join(" | "),
+        records: batch.map((r) => {
+          const fields: Record<string, unknown> = {
             Correct: r.correctIndex + 1,
             Difficulty: r.difficulty,
-          },
-        })),
+          };
+          for (const { code, fieldLabel } of languages) {
+            fields[langField("Question", fieldLabel)] = r.question[code];
+            fields[langField("Options", fieldLabel)] = r.options[code].join(" | ");
+            if (r.reference?.[code]) {
+              fields[langField("Reference", fieldLabel)] = r.reference[code];
+            }
+          }
+          return { fields };
+        }),
       }),
     });
     if (!res.ok) {

@@ -1,0 +1,6718 @@
+[
+  {
+    "id": "rec0KLc18JcKU2Yds",
+    "en": {
+      "question": "How many times did David sling a stone at Goliath?",
+      "options": [
+        "Once",
+        "Three times",
+        "Five times",
+        "Ten times"
+      ],
+      "reference": "1 Samuel 17:49 — the stone sank into his forehead."
+    },
+    "kn": {
+      "question": "ಗೊಲ್ಯಾತನನ್ನು ಹೊಡೆಯಲು ದಾವೀದನು ಎಷ್ಟು ಸಲ ಕವಣೆಕಲ್ಲು ಎಸೆದನು?",
+      "options": [
+        "ಒಂದು ಸಲ",
+        "ಮೂರು ಸಲ",
+        "ಐದು ಸಲ",
+        "ಹತ್ತು ಸಲ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 17:49 — ಕಲ್ಲು ಅವನ ಹಣೆಯಲ್ಲಿ ನಾಟಿತು."
+    }
+  },
+  {
+    "id": "rec0MnRmAjqB1wamq",
+    "en": {
+      "question": "What was the name of Abram's maidservant?",
+      "options": [
+        "Hagar",
+        "Zilpah",
+        "Bilhah",
+        "Keturah"
+      ],
+      "reference": "Genesis 16:1 — Sarai had an Egyptian maidservant named Hagar."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಾಮನ ದಾಸಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಹಾಗರಳು",
+        "ಜಿಲ್ಪಾ",
+        "ಬಿಲ್ಹಾ",
+        "ಕೆತೂರಾ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 16:1 — ಸಾರಯಳಿಗೆ ಹಾಗರ್ ಎಂಬ ಐಗುಪ್ತ ದಾಸಿ ಇದ್ದಳು."
+    }
+  },
+  {
+    "id": "rec0QsfsYnYJmi2N4",
+    "en": {
+      "question": "Did Jesus ever use spit when healing someone?",
+      "options": [
+        "Yes, more than once",
+        "No, never",
+        "Only once",
+        "Only in front of the disciples"
+      ],
+      "reference": "Mark 7:33; Mark 8:23; John 9:6 — Jesus used spit when healing."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಗುಣಪಡಿಸುವಾಗ ಉಗುಳನ್ನೂ ಉಪಯೋಗಿಸಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಲ",
+        "ಇಲ್ಲ, ಎಂದಿಗೂ ಇಲ್ಲ",
+        "ಒಂದೇ ಸಲ ಮಾತ್ರ",
+        "ಶಿಷ್ಯರ ಎದುರಿನಲ್ಲಿ ಮಾತ್ರ"
+      ],
+      "reference": "ಮಾರ್ಕ 7:33; ಮಾರ್ಕ 8:23; ಯೋಹಾನ 9:6 — ಯೇಸು ಉಗುಳು ಹಚ್ಚಿ ಗುಣಪಡಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec0UBfQ07x275vqo",
+    "en": {
+      "question": "How many days did God take to create the world?",
+      "options": [
+        "6",
+        "7",
+        "3",
+        "40"
+      ],
+      "reference": "Genesis 1:31-2:2 — creation was completed in six days."
+    },
+    "kn": {
+      "question": "ದೇವರು ಲೋಕವನ್ನು ಸೃಷ್ಟಿಸಲು ಎಷ್ಟು ದಿನಗಳನ್ನು ತೆಗೆದುಕೊಂಡನು?",
+      "options": [
+        "6",
+        "7",
+        "3",
+        "40"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 1:31-2:2 — ಸೃಷ್ಟಿಕಾರ್ಯ ಆರು ದಿನಗಳಲ್ಲಿ ಮುಗಿಯಿತು."
+    }
+  },
+  {
+    "id": "rec0UIKFjyw0THGJJ",
+    "en": {
+      "question": "What gift from Jacob to Joseph stirred up jealousy?",
+      "options": [
+        "A coat of many colors",
+        "A gold ring",
+        "A flock of sheep",
+        "A silver bowl"
+      ],
+      "reference": "Genesis 37:3 — Israel made Joseph a richly ornamented coat."
+    },
+    "kn": {
+      "question": "ಯಾಕೋಬನು ಯೋಸೇಫನಿಗೆ ಕೊಟ್ಟ ಯಾವ ವಸ್ತು ಅಸೂಯೆ ಹುಟ್ಟಿಸಿತು?",
+      "options": [
+        "ಬಣ್ಣಬಣ್ಣದ ನಿಲುವಂಗಿ",
+        "ಚಿನ್ನದ ಉಂಗುರ",
+        "ಕುರಿಗಳ ಹಿಂಡು",
+        "ಬೆಳ್ಳಿಯ ಪಾತ್ರೆ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 37:3 — ಇಸ್ರಾಯೇಲನು ಯೋಸೇಫನಿಗೆ ವಿಚಿತ್ರ ವರ್ಣದ ನಿಲುವಂಗಿಯನ್ನು ಮಾಡಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec0evSHYc38sc1SI",
+    "en": {
+      "question": "According to Paul, how many people saw the risen Jesus?",
+      "options": [
+        "12",
+        "70",
+        "More than 500",
+        "1,000"
+      ],
+      "reference": "1 Corinthians 15:3-8 — he appeared to more than 500 brothers."
+    },
+    "kn": {
+      "question": "ಪೌಲನ ಪ್ರಕಾರ, ಪುನರುತ್ಥಾನಗೊಂಡ ಯೇಸುವನ್ನು ಎಷ್ಟು ಜನರು ಕಂಡರು?",
+      "options": [
+        "12",
+        "70",
+        "500ಕ್ಕಿಂತ ಹೆಚ್ಚು",
+        "1,000"
+      ],
+      "reference": "1 ಕೊರಿಂಥದವರಿಗೆ 15:3-8 — 500ಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಹೋದರರಿಗೆ ಕಾಣಿಸಿಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "rec0i85nUganNT2SG",
+    "en": {
+      "question": "What did Jesus say was the second greatest commandment?",
+      "options": [
+        "Love your neighbor as yourself",
+        "Keep the Sabbath holy",
+        "Give to the poor",
+        "Forgive your enemies"
+      ],
+      "reference": "Matthew 22:39 — love your neighbor as yourself."
+    },
+    "kn": {
+      "question": "ಎರಡನೆಯ ಮಹಾ ಆಜ್ಞೆ ಯಾವುದೆಂದು ಯೇಸು ಹೇಳಿದನು?",
+      "options": [
+        "ನಿನ್ನ ನೆರೆಯವನನ್ನು ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸು",
+        "ಸಬ್ಬತ್ ದಿನವನ್ನು ಪರಿಶುದ್ಧವಾಗಿಡು",
+        "ಬಡವರಿಗೆ ದಾನಮಾಡು",
+        "ಶತ್ರುಗಳನ್ನು ಕ್ಷಮಿಸು"
+      ],
+      "reference": "ಮತ್ತಾಯ 22:39 — ನಿನ್ನ ನೆರೆಯವನನ್ನು ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸು."
+    }
+  },
+  {
+    "id": "rec11CUSlBlT1T5LG",
+    "en": {
+      "question": "Where did the slave traders take Joseph?",
+      "options": [
+        "To Babylon",
+        "To Canaan",
+        "To Egypt",
+        "To Midian"
+      ],
+      "reference": "Genesis 37:36 — the Midianites sold him in Egypt."
+    },
+    "kn": {
+      "question": "ಗುಲಾಮ ವರ್ತಕರು ಯೋಸೇಫನನ್ನು ಎಲ್ಲಿಗೆ ಕರೆದೊಯ್ದರು?",
+      "options": [
+        "ಬಾಬೆಲಿಗೆ",
+        "ಕಾನಾನಿಗೆ",
+        "ಐಗುಪ್ತಕ್ಕೆ",
+        "ಮಿದ್ಯಾನಿಗೆ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 37:36 — ಮಿದ್ಯಾನ್ಯರು ಅವನನ್ನು ಐಗುಪ್ತದಲ್ಲಿ ಮಾರಿದರು."
+    }
+  },
+  {
+    "id": "rec1DVh5UXoTyrVgw",
+    "en": {
+      "question": "Who was the Philistine woman who asked Samson the secret of his strength?",
+      "options": [
+        "Delilah",
+        "Rahab",
+        "Michal",
+        "Jezebel"
+      ],
+      "reference": "Judges 16:6 — Delilah asked him the secret of his great strength."
+    },
+    "kn": {
+      "question": "ಸಂಸೋನನ ಬಲದ ರಹಸ್ಯವನ್ನು ಕೇಳಿದ ಫಿಲಿಷ್ಟಿಯ ಸ್ತ್ರೀ ಯಾರು?",
+      "options": [
+        "ದೆಲೀಲಳು",
+        "ರಾಹಾಬಳು",
+        "ಮೀಕಲಳು",
+        "ಈಜೆಬೆಲಳು"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 16:6 — ದೆಲೀಲಳು ಅವನ ಬಲದ ರಹಸ್ಯವನ್ನು ಕೇಳಿದಳು."
+    }
+  },
+  {
+    "id": "rec1Lo4Uzkdik94bS",
+    "en": {
+      "question": "Which judge defeated the Midianites with just 300 men, torches, and trumpets?",
+      "options": [
+        "Samson",
+        "Gideon",
+        "Ehud",
+        "Othniel"
+      ],
+      "reference": "Judges 7:19-22 — Gideon defeated Midian with 300 men."
+    },
+    "kn": {
+      "question": "ಕೇವಲ 300 ಜನರೊಂದಿಗೆ ಪಂಜುಗಳಿಂದ ತುತ್ತೂರಿಗಳಿಂದ ಮಿದ್ಯಾನ್ಯರನ್ನು ಸೋಲಿಸಿದ ನ್ಯಾಯಾಧಿಪತಿ ಯಾರು?",
+      "options": [
+        "ಸಂಸೋನ",
+        "ಗಿದ್ಯೋನ",
+        "ಎಹೂದ",
+        "ಒತ್ನಿಯೇಲ"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 7:19-22 — ಗಿದ್ಯೋನನು 300 ಜನರೊಂದಿಗೆ ಮಿದ್ಯಾನ್ಯರನ್ನು ಸೋಲಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec1Mw32yQmiTzJad",
+    "en": {
+      "question": "When Saul defeated the Amalekites, whom did he spare against God's command?",
+      "options": [
+        "King Agag",
+        "A priest",
+        "A prophet",
+        "A commander"
+      ],
+      "reference": "1 Samuel 15:9 — Saul spared Agag and the best of the plunder."
+    },
+    "kn": {
+      "question": "ಸೌಲನು ಅಮಾಲೇಕ್ಯರನ್ನು ಸೋಲಿಸಿದಾಗ, ದೇವರ ಆಜ್ಞೆಗೆ ವಿರುದ್ಧವಾಗಿ ಯಾರನ್ನು ಜೀವಂತ ಬಿಟ್ಟನು?",
+      "options": [
+        "ಅಗಾಗ್ ರಾಜನನ್ನು",
+        "ಒಬ್ಬ ಯಾಜಕನನ್ನು",
+        "ಒಬ್ಬ ಪ್ರವಾದಿಯನ್ನು",
+        "ಒಬ್ಬ ಸೇನಾಧಿಪತಿಯನ್ನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 15:9 — ಸೌಲನು ಅಗಾಗನನ್ನೂ ಉತ್ತಮವಾದವುಗಳನ್ನೂ ಉಳಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec1okPZt3l30seBC",
+    "en": {
+      "question": "Who was the last judge, who died after Saul made temporary peace with David?",
+      "options": [
+        "Samuel",
+        "Eli",
+        "Deborah",
+        "Gideon"
+      ],
+      "reference": "1 Samuel 25:1 — Samuel died, and all Israel mourned."
+    },
+    "kn": {
+      "question": "ಸೌಲನು ದಾವೀದನೊಂದಿಗೆ ತಾತ್ಕಾಲಿಕ ಸಮಾಧಾನ ಮಾಡಿಕೊಂಡ ನಂತರ ಮರಣಹೊಂದಿದ ಕೊನೆಯ ನ್ಯಾಯಾಧಿಪತಿ ಯಾರು?",
+      "options": [
+        "ಸಮುವೇಲ",
+        "ಏಲಿ",
+        "ದೆಬೋರಳು",
+        "ಗಿದ್ಯೋನ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 25:1 — ಸಮುವೇಲನು ಮರಣಹೊಂದಿದನು, ಇಸ್ರಾಯೇಲ್ಯರೆಲ್ಲರೂ ದುಃಖಿಸಿದರು."
+    }
+  },
+  {
+    "id": "rec1uq1x3uqPMR2Uq",
+    "en": {
+      "question": "What did Joseph tell his brothers to do when they returned?",
+      "options": [
+        "Bring Benjamin",
+        "Bring silver and gold",
+        "Bring their whole tribe",
+        "Never come back"
+      ],
+      "reference": "Genesis 42:20 — bring your youngest brother to me."
+    },
+    "kn": {
+      "question": "ಸಹೋದರರು ಪುನಃ ಬಂದಾಗ ಏನು ಮಾಡಬೇಕೆಂದು ಯೋಸೇಫನು ಹೇಳಿದನು?",
+      "options": [
+        "ಬೆನ್ಯಾಮೀನನನ್ನು ಕರೆದುಕೊಂಡು ಬರಬೇಕು",
+        "ಬೆಳ್ಳಿಬಂಗಾರವನ್ನು ತರಬೇಕು",
+        "ತಮ್ಮ ಇಡೀ ಗೋತ್ರವನ್ನು ತರಬೇಕು",
+        "ಮತ್ತೆ ಬರಬಾರದು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 42:20 — ನಿಮ್ಮ ಕಿರಿಯ ಸಹೋದರನನ್ನು ನನ್ನ ಬಳಿಗೆ ತನ್ನಿರಿ."
+    }
+  },
+  {
+    "id": "rec1zXdZLWhi4mFf5",
+    "en": {
+      "question": "How did Esau react when he learned his blessing had been stolen?",
+      "options": [
+        "He threatened to kill Jacob",
+        "He forgave him immediately",
+        "He left the family forever",
+        "He asked Isaac to bless him again"
+      ],
+      "reference": "Genesis 27:41 — Esau planned to kill Jacob."
+    },
+    "kn": {
+      "question": "ತನ್ನ ಆಶೀರ್ವಾದ ಕದಿಯಲ್ಪಟ್ಟಿತೆಂದು ತಿಳಿದಾಗ ಏಸಾವನು ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿದನು?",
+      "options": [
+        "ಯಾಕೋಬನನ್ನು ಕೊಲ್ಲುತ್ತೇನೆಂದು ಬೆದರಿಸಿದನು",
+        "ಕೂಡಲೇ ಕ್ಷಮಿಸಿದನು",
+        "ಕುಟುಂಬವನ್ನು ಶಾಶ್ವತವಾಗಿ ಬಿಟ್ಟುಹೋದನು",
+        "ಇಸಾಕನನ್ನು ಮತ್ತೆ ಆಶೀರ್ವದಿಸಲು ಕೇಳಿದನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 27:41 — ಏಸಾವನು ಯಾಕೋಬನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದು ಯೋಚಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec29GFH8Vu1GBN5p",
+    "en": {
+      "question": "Did Jesus say only large offerings mattered to God?",
+      "options": [
+        "Yes, he said large gifts earn more favor",
+        "No — see the story of the widow's small offering",
+        "Only priests' offerings mattered, he said",
+        "He never spoke about offerings"
+      ],
+      "reference": "Mark 12:42-44 — the widow gave more than all the others."
+    },
+    "kn": {
+      "question": "ದೊಡ್ಡ ಕಾಣಿಕೆಗಳು ಮಾತ್ರ ದೇವರಿಗೆ ಮುಖ್ಯವೆಂದು ಯೇಸು ಹೇಳಿದನೇ?",
+      "options": [
+        "ಹೌದು, ದೊಡ್ಡ ಕಾಣಿಕೆಗಳು ಹೆಚ್ಚು ಮೆಚ್ಚುಗೆ ಪಡೆಯುತ್ತವೆಂದು ಹೇಳಿದನು",
+        "ಇಲ್ಲ — ವಿಧವೆಯ ಚಿಕ್ಕ ಕಾಣಿಕೆಯ ಕಥೆ ನೋಡಿ",
+        "ಯಾಜಕರ ಕಾಣಿಕೆಗಳು ಮಾತ್ರ ಮುಖ್ಯವೆಂದನು",
+        "ಕಾಣಿಕೆಗಳ ಬಗ್ಗೆ ಎಂದೂ ಮಾತನಾಡಲಿಲ್ಲ"
+      ],
+      "reference": "ಮಾರ್ಕ 12:42-44 — ಆ ವಿಧವೆಯು ಎಲ್ಲರಿಗಿಂತ ಹೆಚ್ಚು ಹಾಕಿದಳು."
+    }
+  },
+  {
+    "id": "rec2BDSaBgfZofZR4",
+    "en": {
+      "question": "What punishment did Joab receive for killing Absalom without David's permission?",
+      "options": [
+        "He was executed",
+        "He was removed as army commander",
+        "He was banished",
+        "He lost his property"
+      ],
+      "reference": "2 Samuel 19:13 — David appointed Amasa in Joab's place."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ಅನುಮತಿಯಿಲ್ಲದೆ ಅಬ್ಷಾಲೋಮನನ್ನು ಕೊಂದಿದ್ದಕ್ಕಾಗಿ ಯೋವಾಬನಿಗೆ ಆದ ಶಿಕ್ಷೆ ಏನು?",
+      "options": [
+        "ಮರಣ ದಂಡನೆ",
+        "ಸೇನಾಧಿಪತಿ ಸ್ಥಾನದಿಂದ ತೆಗೆಯಲ್ಪಟ್ಟನು",
+        "ಬಹಿಷ್ಕಾರ",
+        "ಆಸ್ತಿ ಕಳೆದುಕೊಂಡನು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 19:13 — ದಾವೀದನು ಯೋವಾಬನ ಸ್ಥಾನದಲ್ಲಿ ಅಮಾಸನನ್ನು ನೇಮಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec2nVmIjo8FjKsl6",
+    "en": {
+      "question": "When Isaac was old and blind, who advised Jacob to steal the blessing?",
+      "options": [
+        "Rebekah",
+        "Esau",
+        "Laban",
+        "An angel"
+      ],
+      "reference": "Genesis 27:6-10 — Rebekah instructed Jacob."
+    },
+    "kn": {
+      "question": "ಇಸಾಕನು ವೃದ್ಧನಾಗಿ ಕುರುಡನಾಗಿದ್ದಾಗ, ಆಶೀರ್ವಾದವನ್ನು ಕದಿಯಲು ಯಾಕೋಬನಿಗೆ ಯಾರು ಸಲಹೆ ಕೊಟ್ಟರು?",
+      "options": [
+        "ರೆಬೆಕ್ಕಳು",
+        "ಏಸಾವನು",
+        "ಲಾಬಾನನು",
+        "ಒಬ್ಬ ದೂತ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 27:6-10 — ರೆಬೆಕ್ಕಳು ಯಾಕೋಬನಿಗೆ ನಿರ್ದೇಶನ ಕೊಟ್ಟಳು."
+    }
+  },
+  {
+    "id": "rec2zqYBRf3sceHIP",
+    "en": {
+      "question": "What is the 4th commandment?",
+      "options": [
+        "Keep the Sabbath day holy",
+        "Honor your father and mother",
+        "Do not murder",
+        "Do not steal"
+      ],
+      "reference": "Exodus 20:8."
+    },
+    "kn": {
+      "question": "4ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಸಬ್ಬತ್ ದಿನವನ್ನು ಪರಿಶುದ್ಧವಾಗಿ ಆಚರಿಸು",
+        "ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸು",
+        "ಕೊಲೆ ಮಾಡಬೇಡ",
+        "ಕದಿಯಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:8."
+    }
+  },
+  {
+    "id": "rec37CWwpMfhWGgeu",
+    "en": {
+      "question": "Did Jesus say washing hands never mattered?",
+      "options": [
+        "Yes, he said washing hands was unnecessary",
+        "No — he said unwashed hands don't defile a person spiritually, though germs are still real",
+        "He said hands must be washed strictly",
+        "He never spoke about this"
+      ],
+      "reference": "Matthew 15:11,20 — unwashed hands do not defile a person."
+    },
+    "kn": {
+      "question": "ಕೈ ತೊಳೆಯುವುದು ಎಂದಿಗೂ ಮುಖ್ಯವಲ್ಲವೆಂದು ಯೇಸು ಹೇಳಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಕೈ ತೊಳೆಯುವುದು ಅನಗತ್ಯವೆಂದನು",
+        "ಇಲ್ಲ — ತೊಳೆಯದ ಕೈಗಳು ಆತ್ಮಿಕವಾಗಿ ಅಶುದ್ಧಗೊಳಿಸುವುದಿಲ್ಲವೆಂದನು, ಆದರೆ ರೋಗಾಣುಗಳು ನಿಜವೇ",
+        "ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಕೈ ತೊಳೆಯಬೇಕೆಂದನು",
+        "ಈ ವಿಷಯದ ಬಗ್ಗೆ ಎಂದೂ ಮಾತನಾಡಲಿಲ್ಲ"
+      ],
+      "reference": "ಮತ್ತಾಯ 15:11,20 — ತೊಳೆಯದ ಕೈಗಳು ಒಬ್ಬನನ್ನು ಅಶುದ್ಧಪಡಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "rec3DlDHKDOEdAyEG",
+    "en": {
+      "question": "What did Jesus do for his disciples at the Last Supper?",
+      "options": [
+        "He washed their feet",
+        "He anointed their heads with oil",
+        "He gave them gold coins",
+        "He crowned them as leaders"
+      ],
+      "reference": "John 13:5 — he began to wash the disciples' feet."
+    },
+    "kn": {
+      "question": "ಕಡೆಯ ಭೋಜನದ ಸಮಯದಲ್ಲಿ ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗಾಗಿ ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಅವರ ಪಾದಗಳನ್ನು ತೊಳೆದನು",
+        "ತಲೆಗಳಿಗೆ ಎಣ್ಣೆ ಹಚ್ಚಿದನು",
+        "ಚಿನ್ನದ ನಾಣ್ಯಗಳನ್ನು ಕೊಟ್ಟನು",
+        "ನಾಯಕರನ್ನಾಗಿ ಪಟ್ಟಕಟ್ಟಿದನು"
+      ],
+      "reference": "ಯೋಹಾನ 13:5 — ಶಿಷ್ಯರ ಪಾದಗಳನ್ನು ತೊಳೆಯತೊಡಗಿದನು."
+    }
+  },
+  {
+    "id": "rec3GwGyWhCTdjARq",
+    "en": {
+      "question": "Which human author wrote the most words in the Bible?",
+      "options": [
+        "Paul",
+        "David",
+        "Moses",
+        "Luke"
+      ],
+      "reference": "Moses is estimated to have written about 125,139 words."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಯಾವ ಮಾನವ ಲೇಖಕನು ಅತಿ ಹೆಚ್ಚು ಪದಗಳನ್ನು ಬರೆದನು?",
+      "options": [
+        "ಪೌಲ",
+        "ದಾವೀದ",
+        "ಮೋಶೆ",
+        "ಲೂಕ"
+      ],
+      "reference": "ಮೋಶೆ ಸುಮಾರು 125,139 ಪದಗಳನ್ನು ಬರೆದಿರಬಹುದೆಂದು ಅಂದಾಜು."
+    }
+  },
+  {
+    "id": "rec3K3Pjng8eoSGWW",
+    "en": {
+      "question": "Who was David's army commander?",
+      "options": [
+        "Joab",
+        "Abner",
+        "Amasa",
+        "Benaiah"
+      ],
+      "reference": "2 Samuel 8:16 — Joab was over the army."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ಸೇನಾಧಿಪತಿ ಯಾರು?",
+      "options": [
+        "ಯೋವಾಬ",
+        "ಅಬ್ನೇರ",
+        "ಅಮಾಸ",
+        "ಬೆನಾಯ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 8:16 — ಯೋವಾಬನು ಸೈನ್ಯದ ಮೇಲೆ ಅಧಿಕಾರಿ."
+    }
+  },
+  {
+    "id": "rec3NXijQHGDB2wtd",
+    "en": {
+      "question": "Who recognized Joseph when they came to Egypt during the famine?",
+      "options": [
+        "His brothers",
+        "His father alone",
+        "Distant relatives",
+        "Foreign kings"
+      ],
+      "reference": "Genesis 42:6-8 — his brothers came and bowed before Joseph."
+    },
+    "kn": {
+      "question": "ಬರಗಾಲದ ಸಮಯದಲ್ಲಿ ಐಗುಪ್ತಕ್ಕೆ ಬಂದು ಯೋಸೇಫನನ್ನು ಗುರುತಿಸಿದವರು ಯಾರು?",
+      "options": [
+        "ಅವನ ಸಹೋದರರು",
+        "ಅವನ ತಂದೆ ಮಾತ್ರ",
+        "ದೂರದ ಸಂಬಂಧಿಕರು",
+        "ಪರದೇಶ ರಾಜರು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 42:6-8 — ಸಹೋದರರು ಬಂದು ಯೋಸೇಫನ ಮುಂದೆ ಬಾಗಿದರು."
+    }
+  },
+  {
+    "id": "rec3f7m4F97up1ATo",
+    "en": {
+      "question": "How many disciples did Jesus choose?",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "70"
+      ],
+      "reference": "Matthew 10:1-4 — he called his twelve disciples."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಎಷ್ಟು ಮಂದಿ ಶಿಷ್ಯರನ್ನು ಆರಿಸಿಕೊಂಡನು?",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "70"
+      ],
+      "reference": "ಮತ್ತಾಯ 10:1-4 — ತನ್ನ ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರನ್ನು ಕರೆದನು."
+    }
+  },
+  {
+    "id": "rec4q9asROeVSBsML",
+    "en": {
+      "question": "What did Jesus say was the first and greatest commandment?",
+      "options": [
+        "Love God with all your heart, soul, mind, and strength",
+        "Honor your father and mother",
+        "Love your neighbor",
+        "Do not steal"
+      ],
+      "reference": "Matthew 22:37-38 — love the Lord with all your heart."
+    },
+    "kn": {
+      "question": "ಮೊದಲನೆಯ ಮಹಾ ಆಜ್ಞೆ ಯಾವುದೆಂದು ಯೇಸು ಹೇಳಿದನು?",
+      "options": [
+        "ನಿನ್ನ ಪೂರ್ಣ ಹೃದಯ, ಆತ್ಮ, ಮನಸ್ಸು, ಬಲದಿಂದ ದೇವರನ್ನು ಪ್ರೀತಿಸು",
+        "ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸು",
+        "ನೆರೆಯವನನ್ನು ಪ್ರೀತಿಸು",
+        "ಕದಿಯಬೇಡ"
+      ],
+      "reference": "ಮತ್ತಾಯ 22:37-38 — ನಿನ್ನ ಪೂರ್ಣ ಹೃದಯದಿಂದ ಕರ್ತನನ್ನು ಪ್ರೀತಿಸು."
+    }
+  },
+  {
+    "id": "rec4sF8dHTcneQpC0",
+    "en": {
+      "question": "Who was the first woman?",
+      "options": [
+        "Sarah",
+        "Eve",
+        "Rebekah",
+        "Rachel"
+      ],
+      "reference": "Genesis 2:22 — God made the woman from Adam's rib."
+    },
+    "kn": {
+      "question": "ಮೊದಲ ಸ್ತ್ರೀ ಯಾರು?",
+      "options": [
+        "ಸಾರಳು",
+        "ಹವ್ವಳು",
+        "ರೆಬೆಕ್ಕಳು",
+        "ರಾಹೇಲಳು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 2:22 — ದೇವರು ಆದಾಮನ ಪಕ್ಕೆಲುಬಿನಿಂದ ಸ್ತ್ರೀಯನ್ನು ಉಂಟುಮಾಡಿದನು."
+    }
+  },
+  {
+    "id": "rec5G42iBI3djbvcA",
+    "en": {
+      "question": "How many petitions are in the Lord's Prayer?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Ten"
+      ],
+      "reference": "Matthew 6:9-13 contains seven petitions."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ ಎಷ್ಟು ವಿಜ್ಞಾಪನೆಗಳಿವೆ?",
+      "options": [
+        "ಐದು",
+        "ಆರು",
+        "ಏಳು",
+        "ಹತ್ತು"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:9-13ರಲ್ಲಿ ಏಳು ವಿಜ್ಞಾಪನೆಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "rec5LHC09IMYlDgOy",
+    "en": {
+      "question": "Which brother offered to stay in Egypt in place of Benjamin?",
+      "options": [
+        "Reuben",
+        "Judah",
+        "Simeon",
+        "Levi"
+      ],
+      "reference": "Genesis 44:33 — Judah offered to remain in place of Benjamin."
+    },
+    "kn": {
+      "question": "ಬೆನ್ಯಾಮೀನನ ಬದಲಾಗಿ ಐಗುಪ್ತದಲ್ಲಿ ಉಳಿಯಲು ಯಾವ ಸಹೋದರ ಮುಂದೆ ಬಂದನು?",
+      "options": [
+        "ರೂಬೇನ",
+        "ಯೂದ",
+        "ಸಿಮೆಯೋನ",
+        "ಲೇವಿ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 44:33 — ಯೂದನು ಬೆನ್ಯಾಮೀನನ ಸ್ಥಾನದಲ್ಲಿ ತಾನು ಇರುತ್ತೇನೆಂದು ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "rec5QoVe79xlelXsl",
+    "en": {
+      "question": "Who taught the Lord's Prayer?",
+      "options": [
+        "Jesus",
+        "Moses",
+        "John the Baptist",
+        "Paul"
+      ],
+      "reference": "Matthew 6:9 — this, then, is how you should pray."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಯಾರು ಕಲಿಸಿದರು?",
+      "options": [
+        "ಯೇಸು",
+        "ಮೋಶೆ",
+        "ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ",
+        "ಪೌಲ"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:9 — ಈ ರೀತಿ ಪ್ರಾರ್ಥಿಸಿರಿ."
+    }
+  },
+  {
+    "id": "rec602VBCoG5yuAAq",
+    "en": {
+      "question": "What happened after Jesus was laid in the tomb?",
+      "options": [
+        "He rose again",
+        "His body was never found",
+        "The disciples took the body",
+        "Nothing more is written about it"
+      ],
+      "reference": "Matthew 28:6 — he is not here, he has risen."
+    },
+    "kn": {
+      "question": "ಯೇಸುವನ್ನು ಸಮಾಧಿಯಲ್ಲಿ ಇಟ್ಟ ನಂತರ ಏನಾಯಿತು?",
+      "options": [
+        "ಪುನಃ ಎದ್ದನು",
+        "ಶರೀರ ಎಂದೂ ಸಿಗಲಿಲ್ಲ",
+        "ಶಿಷ್ಯರು ಶರೀರವನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋದರು",
+        "ಇದರ ಬಗ್ಗೆ ಬೇರೇನೂ ಬರೆದಿಲ್ಲ"
+      ],
+      "reference": "ಮತ್ತಾಯ 28:6 — ಆತನು ಇಲ್ಲಿ ಇಲ್ಲ, ಎದ್ದಿದ್ದಾನೆ."
+    }
+  },
+  {
+    "id": "rec667140AvVw1Gid",
+    "en": {
+      "question": "What did people try to do at the Tower of Babel?",
+      "options": [
+        "Build a tower reaching the sky",
+        "Build a temple",
+        "Cross the Red Sea",
+        "Search for the promised land"
+      ],
+      "reference": "Genesis 11:4 — a tower with its top in the heavens."
+    },
+    "kn": {
+      "question": "ಬಾಬೆಲ್ ಗೋಪುರದ ಬಳಿ ಜನರು ಏನು ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದರು?",
+      "options": [
+        "ಆಕಾಶವನ್ನು ಮುಟ್ಟುವ ಗೋಪುರ ಕಟ್ಟುವುದು",
+        "ದೇವಾಲಯ ಕಟ್ಟುವುದು",
+        "ಕೆಂಪು ಸಮುದ್ರ ದಾಟುವುದು",
+        "ವಾಗ್ದತ್ತ ದೇಶವನ್ನು ಹುಡುಕುವುದು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 11:4 — ಆಕಾಶವನ್ನು ಮುಟ್ಟುವ ಶಿಖರವುಳ್ಳ ಗೋಪುರ."
+    }
+  },
+  {
+    "id": "rec66vFzLLeGZqSiW",
+    "en": {
+      "question": "Which four books tell about the life of Jesus?",
+      "options": [
+        "Matthew, Mark, Luke, John",
+        "Genesis, Exodus, Leviticus, Numbers",
+        "Acts, Romans, Galatians, James",
+        "Psalms, Proverbs, Ecclesiastes, Job"
+      ],
+      "reference": "The four Gospels tell of Jesus' life and ministry."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಜೀವಿತದ ಬಗ್ಗೆ ತಿಳಿಸುವ ನಾಲ್ಕು ಗ್ರಂಥಗಳು ಯಾವುವು?",
+      "options": [
+        "ಮತ್ತಾಯ, ಮಾರ್ಕ, ಲೂಕ, ಯೋಹಾನ",
+        "ಆದಿಕಾಂಡ, ವಿಮೋಚನಕಾಂಡ, ಯಾಜಕಕಾಂಡ, ಅರಣ್ಯಕಾಂಡ",
+        "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು, ರೋಮಾಪುರದವರಿಗೆ, ಗಲಾತ್ಯದವರಿಗೆ, ಯಾಕೋಬ",
+        "ಕೀರ್ತನೆಗಳು, ಜ್ಞಾನೋಕ್ತಿಗಳು, ಪ್ರಸಂಗಿ, ಯೋಬ"
+      ],
+      "reference": "ನಾಲ್ಕು ಸುವಾರ್ತೆಗಳು ಯೇಸುವಿನ ಜೀವಿತ ಮತ್ತು ಸೇವೆಯನ್ನು ತಿಳಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "rec6BoHEiRXxK3Xvr",
+    "en": {
+      "question": "Whom did God call out of Ur to go to Canaan?",
+      "options": [
+        "Abram",
+        "Isaac",
+        "Jacob",
+        "Lot"
+      ],
+      "reference": "Genesis 12:1 — the Lord told Abram to leave his country."
+    },
+    "kn": {
+      "question": "ಕಾನಾನಿಗೆ ಹೋಗಲು ದೇವರು ಊರ್ ಪಟ್ಟಣದಿಂದ ಯಾರನ್ನು ಕರೆದನು?",
+      "options": [
+        "ಅಬ್ರಾಮ",
+        "ಇಸಾಕ",
+        "ಯಾಕೋಬ",
+        "ಲೋಟ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 12:1 — ಯೆಹೋವನು ಅಬ್ರಾಮನಿಗೆ ನಿನ್ನ ದೇಶವನ್ನು ಬಿಟ್ಟುಹೋಗು ಎಂದನು."
+    }
+  },
+  {
+    "id": "rec6Z0vdnUovyxLOy",
+    "en": {
+      "question": "What is the 4th petition in the Lord's Prayer?",
+      "options": [
+        "Forgive us our debts",
+        "Give us this day our daily bread",
+        "Your kingdom come",
+        "Hallowed be your name"
+      ],
+      "reference": "Matthew 6:11."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 4ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ನಮ್ಮ ಸಾಲಗಳನ್ನು ಕ್ಷಮಿಸು",
+        "ಈ ದಿನ ನಮ್ಮ ಅನುದಿನದ ಆಹಾರವನ್ನು ದಯಪಾಲಿಸು",
+        "ನಿನ್ನ ರಾಜ್ಯ ಬರಲಿ",
+        "ನಿನ್ನ ನಾಮ ಪರಿಶುದ್ಧವಾಗಲಿ"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:11."
+    }
+  },
+  {
+    "id": "rec6eQHSegym6ZvsL",
+    "en": {
+      "question": "Who preached on the day of Pentecost?",
+      "options": [
+        "Peter",
+        "Paul",
+        "Philip",
+        "John"
+      ],
+      "reference": "Acts 2:14 — Peter stood up and addressed the crowd."
+    },
+    "kn": {
+      "question": "ಪಂಚಾಶತ್ತಮ ದಿನದಂದು ಪ್ರಸಂಗಿಸಿದವರು ಯಾರು?",
+      "options": [
+        "ಪೇತ್ರ",
+        "ಪೌಲ",
+        "ಫಿಲಿಪ್ಪ",
+        "ಯೋಹಾನ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 2:14 — ಪೇತ್ರನು ಎದ್ದುನಿಂತು ಜನಸಮೂಹದೊಂದಿಗೆ ಮಾತನಾಡಿದನು."
+    }
+  },
+  {
+    "id": "rec6gB2GvOdjvzxsZ",
+    "en": {
+      "question": "Where did David first spare Saul's life?",
+      "options": [
+        "In a cave",
+        "In a camp",
+        "In Jericho",
+        "On a mountain"
+      ],
+      "reference": "1 Samuel 24:3-4 — Saul entered the cave where David was hiding."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಮೊದಲ ಬಾರಿಗೆ ಸೌಲನ ಪ್ರಾಣವನ್ನು ಎಲ್ಲಿ ಉಳಿಸಿದನು?",
+      "options": [
+        "ಗುಹೆಯಲ್ಲಿ",
+        "ಪಾಳೆಯದಲ್ಲಿ",
+        "ಯೆರಿಕೋವಿನಲ್ಲಿ",
+        "ಬೆಟ್ಟದ ಮೇಲೆ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 24:3-4 — ಸೌಲನು ದಾವೀದನು ಅಡಗಿದ್ದ ಗುಹೆಯೊಳಗೆ ಬಂದನು."
+    }
+  },
+  {
+    "id": "rec6z50K5x3aDC7X4",
+    "en": {
+      "question": "How many commandments did Jesus use to sum up all the Old Testament law?",
+      "options": [
+        "One",
+        "Two",
+        "Five",
+        "Ten"
+      ],
+      "reference": "Matthew 22:37-40 — all the Law hangs on these two commandments."
+    },
+    "kn": {
+      "question": "ಹಳೆಯ ಒಡಂಬಡಿಕೆಯ ಎಲ್ಲಾ ನಿಯಮಗಳನ್ನು ಸಂಕ್ಷೇಪಿಸಲು ಯೇಸು ಎಷ್ಟು ಆಜ್ಞೆಗಳನ್ನು ಬಳಸಿದನು?",
+      "options": [
+        "ಒಂದು",
+        "ಎರಡು",
+        "ಐದು",
+        "ಹತ್ತು"
+      ],
+      "reference": "ಮತ್ತಾಯ 22:37-40 — ಈ ಎರಡು ಆಜ್ಞೆಗಳ ಮೇಲೆಯೇ ಧರ್ಮಶಾಸ್ತ್ರವೆಲ್ಲಾ ಆಧಾರವಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "rec7BvVRyYaD9WybF",
+    "en": {
+      "question": "Where is the Lord's Prayer found in the Bible?",
+      "options": [
+        "Matthew 6",
+        "Luke 11 only",
+        "John 17",
+        "Psalm 23"
+      ],
+      "reference": "Matthew 6:9-13."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆ ಬೈಬಲಿನಲ್ಲಿ ಎಲ್ಲಿ ಇದೆ?",
+      "options": [
+        "ಮತ್ತಾಯ 6",
+        "ಲೂಕ 11 ಮಾತ್ರ",
+        "ಯೋಹಾನ 17",
+        "ಕೀರ್ತನೆ 23"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:9-13."
+    }
+  },
+  {
+    "id": "rec7RsHLYDjM2J3eu",
+    "en": {
+      "question": "What is the 7th commandment?",
+      "options": [
+        "Do not steal",
+        "Do not commit adultery",
+        "Do not covet",
+        "Do not murder"
+      ],
+      "reference": "Exodus 20:14."
+    },
+    "kn": {
+      "question": "7ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕದಿಯಬೇಡ",
+        "ವ್ಯಭಿಚಾರ ಮಾಡಬೇಡ",
+        "ಆಶಿಸಬೇಡ",
+        "ಕೊಲೆ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:14."
+    }
+  },
+  {
+    "id": "rec7XdK8DXoUJtBZw",
+    "en": {
+      "question": "Who was the first man?",
+      "options": [
+        "Adam",
+        "Noah",
+        "Abraham",
+        "Cain"
+      ],
+      "reference": "Genesis 2:7 — God formed man from the dust."
+    },
+    "kn": {
+      "question": "ಮೊದಲ ಮನುಷ್ಯ ಯಾರು?",
+      "options": [
+        "ಆದಾಮ",
+        "ನೋಹ",
+        "ಅಬ್ರಹಾಮ",
+        "ಕಾಯಿನ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 2:7 — ದೇವರು ಮನುಷ್ಯನನ್ನು ಮಣ್ಣಿನಿಂದ ರೂಪಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec7aZQOu2AcjfmMs",
+    "en": {
+      "question": "Which of the following is one of the nine fruits of the Spirit?",
+      "options": [
+        "Love",
+        "Wealth",
+        "Fame",
+        "Power"
+      ],
+      "reference": "Galatians 5:22-23 — the fruit of the Spirit is nine virtues (love, joy, and others)."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಆತ್ಮನ ಒಂಬತ್ತು ಫಲಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": [
+        "ಪ್ರೀತಿ",
+        "ಧನ",
+        "ಕೀರ್ತಿ",
+        "ಅಧಿಕಾರ"
+      ],
+      "reference": "ಗಲಾತ್ಯದವರಿಗೆ 5:22-23 — ಆತ್ಮನ ಫಲವು ಒಂಬತ್ತು ಸದ್ಗುಣಗಳು (ಪ್ರೀತಿ, ಸಂತೋಷ ಮೊದಲಾದವು)."
+    }
+  },
+  {
+    "id": "rec7plSwDmOJ2n4Fn",
+    "en": {
+      "question": "What is the 2nd petition in the Lord's Prayer?",
+      "options": [
+        "Give us our daily bread",
+        "Your kingdom come",
+        "Forgive us our debts",
+        "Hallowed be your name"
+      ],
+      "reference": "Matthew 6:10."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 2ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ನಮ್ಮ ಅನುದಿನದ ಆಹಾರವನ್ನು ಕೊಡು",
+        "ನಿನ್ನ ರಾಜ್ಯ ಬರಲಿ",
+        "ನಮ್ಮ ಸಾಲಗಳನ್ನು ಕ್ಷಮಿಸು",
+        "ನಿನ್ನ ನಾಮ ಪರಿಶುದ್ಧವಾಗಲಿ"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:10."
+    }
+  },
+  {
+    "id": "rec8BFwKoRsNtjb1A",
+    "en": {
+      "question": "Who was the biological father of Jesus?",
+      "options": [
+        "Joseph",
+        "God the Holy Spirit",
+        "An angel",
+        "David"
+      ],
+      "reference": "Matthew 1:20 — what is conceived in her is from the Holy Spirit."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಜನ್ಮತಂದೆ ಯಾರು?",
+      "options": [
+        "ಯೋಸೇಫ",
+        "ದೇವರಾದ ಪವಿತ್ರಾತ್ಮ",
+        "ಒಬ್ಬ ದೂತ",
+        "ದಾವೀದ"
+      ],
+      "reference": "ಮತ್ತಾಯ 1:20 — ಆಕೆಯಲ್ಲಿ ಗರ್ಭವಾದದ್ದು ಪವಿತ್ರಾತ್ಮನಿಂದಲೇ."
+    }
+  },
+  {
+    "id": "rec8DEK6XdztnIaVA",
+    "en": {
+      "question": "Who mocked and challenged God when the Philistines attacked?",
+      "options": [
+        "Goliath",
+        "King Achish",
+        "A Philistine priest",
+        "Ish-Bosheth"
+      ],
+      "reference": "1 Samuel 17:10 — Goliath defied the ranks of Israel."
+    },
+    "kn": {
+      "question": "ಫಿಲಿಷ್ಟಿಯರು ಆಕ್ರಮಣ ಮಾಡಿದಾಗ ದೇವರನ್ನು ಹಂಗಿಸಿ ಸವಾಲುಹಾಕಿದವನು ಯಾರು?",
+      "options": [
+        "ಗೊಲ್ಯಾತ",
+        "ಅರಸನಾದ ಆಕೀಷ",
+        "ಒಬ್ಬ ಫಿಲಿಷ್ಟಿಯ ಯಾಜಕ",
+        "ಈಷ್ಬೋಶೆತ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 17:10 — ಗೊಲ್ಯಾತನು ಇಸ್ರಾಯೇಲ್ ಸೈನ್ಯವನ್ನು ಹಂಗಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec8O5JXMXwrust9S",
+    "en": {
+      "question": "What did Joseph do for the cupbearer and the baker?",
+      "options": [
+        "He interpreted their dreams",
+        "He cooked their meals",
+        "He wrote letters for them",
+        "He taught them Hebrew"
+      ],
+      "reference": "Genesis 40:8-19 — Joseph interpreted their dreams."
+    },
+    "kn": {
+      "question": "ಪಾನದಾಯಕನಿಗೂ ರೊಟ್ಟಿಗಾರನಿಗೂ ಯೋಸೇಫನು ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಅವರ ಕನಸುಗಳನ್ನು ಅರ್ಥ ಮಾಡಿ ಹೇಳಿದನು",
+        "ಅವರ ಊಟವನ್ನು ಬೇಯಿಸಿದನು",
+        "ಅವರಿಗೆ ಪತ್ರಗಳನ್ನು ಬರೆದನು",
+        "ಅವರಿಗೆ ಹಿಬ್ರೂ ಕಲಿಸಿದನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 40:8-19 — ಯೋಸೇಫನು ಅವರ ಕನಸುಗಳನ್ನು ಅರ್ಥ ಮಾಡಿ ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "rec8OYxnZzNbMDLbo",
+    "en": {
+      "question": "Whom did Abraham send to find a wife for Isaac?",
+      "options": [
+        "His chief servant",
+        "His brother",
+        "Lot",
+        "An angel"
+      ],
+      "reference": "Genesis 24:2 — Abraham sent his chief servant."
+    },
+    "kn": {
+      "question": "ಇಸಾಕನಿಗೆ ಹೆಂಡತಿಯನ್ನು ಹುಡುಕಲು ಅಬ್ರಹಾಮನು ಯಾರನ್ನು ಕಳುಹಿಸಿದನು?",
+      "options": [
+        "ತನ್ನ ಹಿರಿಯ ಸೇವಕನನ್ನು",
+        "ತನ್ನ ಸಹೋದರನನ್ನು",
+        "ಲೋಟನನ್ನು",
+        "ಒಬ್ಬ ದೂತನನ್ನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 24:2 — ಅಬ್ರಹಾಮನು ತನ್ನ ಹಿರಿಯ ಸೇವಕನನ್ನು ಕಳುಹಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec8zMehLFVDwYG4S",
+    "en": {
+      "question": "After years of wandering, which two Israelites were permitted to enter the promised land?",
+      "options": [
+        "Moses and Aaron",
+        "Joshua and Caleb",
+        "Joshua and Aaron",
+        "Caleb and Nahshon"
+      ],
+      "reference": "Numbers 14:30 — none except Caleb and Joshua shall enter."
+    },
+    "kn": {
+      "question": "ವರ್ಷಗಳ ಅಲೆದಾಟದ ನಂತರ ವಾಗ್ದತ್ತ ದೇಶವನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿ ಪಡೆದ ಇಬ್ಬರು ಇಸ್ರಾಯೇಲ್ಯರು ಯಾರು?",
+      "options": [
+        "ಮೋಶೆ ಮತ್ತು ಆರೋನ",
+        "ಯೆಹೋಶುವ ಮತ್ತು ಕಾಲೇಬ",
+        "ಯೆಹೋಶುವ ಮತ್ತು ಆರೋನ",
+        "ಕಾಲೇಬ ಮತ್ತು ನಹಶೋನ"
+      ],
+      "reference": "ಅರಣ್ಯಕಾಂಡ 14:30 — ಕಾಲೇಬ ಮತ್ತು ಯೆಹೋಶುವರ ಹೊರತು ಬೇರೆ ಯಾರೂ ಪ್ರವೇಶಿಸುವುದಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "rec8zw0izkZ15fxf5",
+    "en": {
+      "question": "Which member of the Jewish council came to question Jesus at night?",
+      "options": [
+        "Nicodemus",
+        "Caiaphas",
+        "Gamaliel",
+        "Joseph of Arimathea"
+      ],
+      "reference": "John 3:1-2 — Nicodemus came to Jesus at night."
+    },
+    "kn": {
+      "question": "ರಾತ್ರಿಯ ಹೊತ್ತು ಯೇಸುವನ್ನು ಪ್ರಶ್ನಿಸಲು ಬಂದ ಯೆಹೂದ್ಯರ ನ್ಯಾಯಸಭೆಯ ಸದಸ್ಯ ಯಾರು?",
+      "options": [
+        "ನಿಕೊದೇಮ",
+        "ಕಾಯಫ",
+        "ಗಮಲಿಯೇಲ",
+        "ಅರಿಮಥಾಯದ ಯೋಸೇಫ"
+      ],
+      "reference": "ಯೋಹಾನ 3:1-2 — ನಿಕೊದೇಮನು ರಾತ್ರಿ ಯೇಸುವಿನ ಬಳಿಗೆ ಬಂದನು."
+    }
+  },
+  {
+    "id": "rec951dShhhDRtXjq",
+    "en": {
+      "question": "How many sisters of Jesus are mentioned in the Bible?",
+      "options": [
+        "None",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "reference": "Mark 6:3 mentions sisters but does not name them."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಯೇಸುವಿನ ಎಷ್ಟು ಮಂದಿ ಸಹೋದರಿಯರ ಬಗ್ಗೆ ಉಲ್ಲೇಖವಿದೆ?",
+      "options": [
+        "ಯಾರೂ ಇಲ್ಲ",
+        "ಒಬ್ಬಳು",
+        "ಇಬ್ಬರು",
+        "ಮೂವರು"
+      ],
+      "reference": "ಮಾರ್ಕ 6:3 ಸಹೋದರಿಯರ ಬಗ್ಗೆ ಹೇಳುತ್ತದೆ, ಆದರೆ ಹೆಸರುಗಳಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "rec963rSkrOhxZGYH",
+    "en": {
+      "question": "What is the 2nd commandment?",
+      "options": [
+        "Do not murder",
+        "Do not make idols",
+        "Do not covet",
+        "Do not commit adultery"
+      ],
+      "reference": "Exodus 20:4."
+    },
+    "kn": {
+      "question": "2ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕೊಲೆ ಮಾಡಬೇಡ",
+        "ವಿಗ್ರಹಗಳನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಡ",
+        "ಆಶಿಸಬೇಡ",
+        "ವ್ಯಭಿಚಾರ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:4."
+    }
+  },
+  {
+    "id": "rec9EBRFzedy4cG0H",
+    "en": {
+      "question": "What was rolled away from the entrance of Jesus' tomb?",
+      "options": [
+        "A large stone",
+        "A wooden door",
+        "A curtain",
+        "An iron gate"
+      ],
+      "reference": "Matthew 28:2 — the angel rolled back the stone."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಸಮಾಧಿಯ ಬಾಗಿಲಿನಿಂದ ಏನನ್ನು ಉರುಳಿಸಲಾಯಿತು?",
+      "options": [
+        "ದೊಡ್ಡ ಕಲ್ಲು",
+        "ಮರದ ಬಾಗಿಲು",
+        "ಪರದೆ",
+        "ಕಬ್ಬಿಣದ ಬಾಗಿಲು"
+      ],
+      "reference": "ಮತ್ತಾಯ 28:2 — ದೂತನು ಕಲ್ಲನ್ನು ಉರುಳಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rec9FkHRFEPUXF52B",
+    "en": {
+      "question": "When interpreting Pharaoh's dream, what disaster did Joseph foretell first?",
+      "options": [
+        "Seven years of severe famine",
+        "A great flood",
+        "A plague of locusts",
+        "War with Canaan"
+      ],
+      "reference": "Genesis 41:29-30 — seven years of famine will come."
+    },
+    "kn": {
+      "question": "ಫರೋಹನ ಕನಸನ್ನು ವಿವರಿಸುತ್ತಾ ಯೋಸೇಫನು ಮೊದಲು ಯಾವ ಆಪತ್ತನ್ನು ತಿಳಿಸಿದನು?",
+      "options": [
+        "ಏಳು ವರ್ಷಗಳ ತೀವ್ರ ಬರಗಾಲ",
+        "ಮಹಾ ಜಲಪ್ರಳಯ",
+        "ಮಿಡತೆಗಳ ಬಾಧೆ",
+        "ಕಾನಾನಿನೊಂದಿಗೆ ಯುದ್ಧ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 41:29-30 — ಏಳು ಬರಗಾಲದ ವರ್ಷಗಳು ಬರುವವು."
+    }
+  },
+  {
+    "id": "rec9L9M6WvzrlIYOx",
+    "en": {
+      "question": "What is the 8th commandment?",
+      "options": [
+        "Do not commit adultery",
+        "Do not covet",
+        "Do not steal",
+        "Do not murder"
+      ],
+      "reference": "Exodus 20:15."
+    },
+    "kn": {
+      "question": "8ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ವ್ಯಭಿಚಾರ ಮಾಡಬೇಡ",
+        "ಆಶಿಸಬೇಡ",
+        "ಕದಿಯಬೇಡ",
+        "ಕೊಲೆ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:15."
+    }
+  },
+  {
+    "id": "rec9YgYFJiMd3T1e6",
+    "en": {
+      "question": "Which books tell the history of the kings?",
+      "options": [
+        "1, 2 Kings, 1, 2 Chronicles",
+        "1, 2 Samuel only",
+        "Ezra and Nehemiah",
+        "Joshua and Judges"
+      ],
+      "reference": "Kings and Chronicles tell the history of the kings of Israel and Judah."
+    },
+    "kn": {
+      "question": "ಅರಸರ ಚರಿತ್ರೆಯನ್ನು ಯಾವ ಗ್ರಂಥಗಳು ತಿಳಿಸುತ್ತವೆ?",
+      "options": [
+        "1, 2 ಅರಸುಗಳು, 1, 2 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ",
+        "1, 2 ಸಮುವೇಲ ಮಾತ್ರ",
+        "ಎಜ್ರಾ ನೆಹೆಮೀಯ",
+        "ಯೆಹೋಶುವ ನ್ಯಾಯಸ್ಥಾಪಕರು"
+      ],
+      "reference": "ಅರಸುಗಳು ಮತ್ತು ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ ಗ್ರಂಥಗಳು ಇಸ್ರಾಯೇಲ್ ಯೆಹೂದ ಅರಸರ ಚರಿತ್ರೆಯನ್ನು ತಿಳಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "recA2t3OYWqcvuZZ9",
+    "en": {
+      "question": "How did Moses' mother protect him from Egyptian soldiers?",
+      "options": [
+        "She hid him in a cave",
+        "She placed him in a basket on the river",
+        "She sent him to relatives",
+        "She disguised him as a girl"
+      ],
+      "reference": "Exodus 2:3 — she put the child in a papyrus basket."
+    },
+    "kn": {
+      "question": "ಮೋಶೆಯ ತಾಯಿ ಅವನನ್ನು ಐಗುಪ್ತ ಸೈನಿಕರಿಂದ ಹೇಗೆ ಕಾಪಾಡಿದಳು?",
+      "options": [
+        "ಗುಹೆಯಲ್ಲಿ ಬಚ್ಚಿಟ್ಟಳು",
+        "ನದಿಯಲ್ಲಿ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿಟ್ಟಳು",
+        "ಸಂಬಂಧಿಕರ ಬಳಿಗೆ ಕಳುಹಿಸಿದಳು",
+        "ಹೆಣ್ಣುಮಗುವಿನಂತೆ ವೇಷ ಹಾಕಿದಳು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 2:3 — ಮಗುವನ್ನು ಜೊಂಡುಹುಲ್ಲಿನ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿಟ್ಟಳು."
+    }
+  },
+  {
+    "id": "recA6pbSoLY54Uy0h",
+    "en": {
+      "question": "What frightened the spies sent to Canaan?",
+      "options": [
+        "Giants in the land",
+        "A great famine",
+        "Powerful chariots",
+        "A raging river"
+      ],
+      "reference": "Numbers 13:33 — we saw giants there."
+    },
+    "kn": {
+      "question": "ಕಾನಾನಿಗೆ ಕಳುಹಿಸಿದ ಗೂಢಚಾರರು ನೋಡಿ ಭಯಪಟ್ಟದ್ದೇನು?",
+      "options": [
+        "ದೇಶದಲ್ಲಿ ದೈತ್ಯರು",
+        "ಮಹಾ ಬರಗಾಲ",
+        "ಬಲಿಷ್ಠ ರಥಗಳು",
+        "ಪ್ರಬಲ ನದಿ"
+      ],
+      "reference": "ಅರಣ್ಯಕಾಂಡ 13:33 — ಅಲ್ಲಿ ದೈತ್ಯರನ್ನು ಕಂಡೆವು."
+    }
+  },
+  {
+    "id": "recAQhMPivjMcifeE",
+    "en": {
+      "question": "Who anointed Saul as king?",
+      "options": [
+        "Samuel",
+        "Eli",
+        "Nathan",
+        "Elijah"
+      ],
+      "reference": "1 Samuel 10:1 — Samuel poured oil on Saul's head."
+    },
+    "kn": {
+      "question": "ಸೌಲನನ್ನು ಅರಸನನ್ನಾಗಿ ಯಾರು ಅಭಿಷೇಕಿಸಿದರು?",
+      "options": [
+        "ಸಮುವೇಲ",
+        "ಏಲಿ",
+        "ನಾತಾನ",
+        "ಎಲೀಯ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 10:1 — ಸಮುವೇಲನು ಸೌಲನ ತಲೆಯ ಮೇಲೆ ಎಣ್ಣೆ ಸುರಿದನು."
+    }
+  },
+  {
+    "id": "recAVmhnjL1uL5QfN",
+    "en": {
+      "question": "Which human author wrote the letter to the Galatians?",
+      "options": [
+        "Paul",
+        "Peter",
+        "John",
+        "James"
+      ],
+      "reference": "Galatians 1:1 — Paul, an apostle."
+    },
+    "kn": {
+      "question": "ಗಲಾತ್ಯದವರಿಗೆ ಪತ್ರಿಕೆಯನ್ನು ಯಾವ ಮಾನವ ಲೇಖಕನು ಬರೆದನು?",
+      "options": [
+        "ಪೌಲ",
+        "ಪೇತ್ರ",
+        "ಯೋಹಾನ",
+        "ಯಾಕೋಬ"
+      ],
+      "reference": "ಗಲಾತ್ಯದವರಿಗೆ 1:1 — ಅಪೊಸ್ತಲನಾದ ಪೌಲ."
+    }
+  },
+  {
+    "id": "recAc4ZjGatpB4mkc",
+    "en": {
+      "question": "What did Pilate do to 'cleanse himself' of the crucifixion?",
+      "options": [
+        "He washed his hands",
+        "He tore his clothes",
+        "He offered a sacrifice",
+        "He prayed publicly"
+      ],
+      "reference": "Matthew 27:24 — he took water and washed his hands."
+    },
+    "kn": {
+      "question": "ಶಿಲುಬೆಗೇರಿಸುವ ಸಂಗತಿಯಿಂದ 'ತನ್ನನ್ನು ತಾನು ಶುದ್ಧಪಡಿಸಿಕೊಳ್ಳಲು' ಪಿಲಾತನು ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಕೈಗಳನ್ನು ತೊಳೆದುಕೊಂಡನು",
+        "ವಸ್ತ್ರಗಳನ್ನು ಹರಿದುಕೊಂಡನು",
+        "ಬಲಿ ಅರ್ಪಿಸಿದನು",
+        "ಬಹಿರಂಗವಾಗಿ ಪ್ರಾರ್ಥಿಸಿದನು"
+      ],
+      "reference": "ಮತ್ತಾಯ 27:24 — ನೀರು ತೆಗೆದುಕೊಂಡು ಕೈಗಳನ್ನು ತೊಳೆದುಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "recB7YnWosN00K2eC",
+    "en": {
+      "question": "What did Esau receive in exchange for his birthright?",
+      "options": [
+        "A flock of sheep",
+        "A bit of stew",
+        "A tent",
+        "Silver and gold"
+      ],
+      "reference": "Genesis 25:34 — Esau sold his birthright for bread and stew."
+    },
+    "kn": {
+      "question": "ಏಸಾವನು ತನ್ನ ಜ್ಯೇಷ್ಠತ್ವದ ಬದಲಾಗಿ ಏನನ್ನು ಪಡೆದನು?",
+      "options": [
+        "ಕುರಿಗಳ ಹಿಂಡು",
+        "ಸ್ವಲ್ಪ ಬೇಳೆಯ ಸಾರು",
+        "ಒಂದು ಗುಡಾರ",
+        "ಬೆಳ್ಳಿಬಂಗಾರ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 25:34 — ಏಸಾವನು ಜ್ಯೇಷ್ಠತ್ವವನ್ನು ರೊಟ್ಟಿಗೂ ಬೇಳೆಯ ಸಾರಿಗೂ ಮಾರಿದನು."
+    }
+  },
+  {
+    "id": "recBDsAsULstAOdGa",
+    "en": {
+      "question": "Who allowed the Israelites to return to their homeland?",
+      "options": [
+        "Cyrus",
+        "Darius",
+        "Nebuchadnezzar",
+        "Xerxes"
+      ],
+      "reference": "Ezra 1:1-3 — Cyrus issued a decree to build the temple."
+    },
+    "kn": {
+      "question": "ಇಸ್ರಾಯೇಲ್ಯರು ತಮ್ಮ ಸ್ವದೇಶಕ್ಕೆ ಹಿಂತಿರುಗಲು ಯಾರು ಅನುಮತಿ ಕೊಟ್ಟರು?",
+      "options": [
+        "ಕೋರೆಷ್",
+        "ದಾರ್ಯಾವೆಷ್",
+        "ನೆಬೂಕದ್ನೆಚ್ಚರ್",
+        "ಕ್ಸೆರ್ಕ್ಸೀಸ್"
+      ],
+      "reference": "ಎಜ್ರಾ 1:1-3 — ಕೋರೆಷನು ದೇವಾಲಯ ಕಟ್ಟಲು ಆಜ್ಞೆಯನ್ನು ಹೊರಡಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recBPyGG06DgXraCK",
+    "en": {
+      "question": "What are the names of Adam and Eve's three sons mentioned in the Bible?",
+      "options": [
+        "Cain, Abel, Seth",
+        "Cain, Abel, Enoch",
+        "Shem, Ham, Japheth",
+        "Esau, Jacob, Seth"
+      ],
+      "reference": "Genesis 4:1-25; 5:3 — Cain, Abel, Seth."
+    },
+    "kn": {
+      "question": "ಆದಾಮ ಹವ್ವರ ಮೂವರು ಗಂಡುಮಕ್ಕಳ ಹೆಸರುಗಳು ಬೈಬಲಿನಲ್ಲಿ ಏನು?",
+      "options": [
+        "ಕಾಯಿನ, ಹೇಬೆಲ, ಸೇತ",
+        "ಕಾಯಿನ, ಹೇಬೆಲ, ಹನೋಕ",
+        "ಶೇಮ, ಹಾಮ, ಯೆಫೆತ",
+        "ಏಸಾವ, ಯಾಕೋಬ, ಸೇತ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 4:1-25; 5:3 — ಕಾಯಿನ, ಹೇಬೆಲ, ಸೇತ."
+    }
+  },
+  {
+    "id": "recC6t3UJbtDgtQJF",
+    "en": {
+      "question": "What ailment did Bartimaeus, whom Jesus healed, have?",
+      "options": [
+        "Blindness",
+        "Lameness",
+        "Deafness",
+        "Muteness"
+      ],
+      "reference": "Mark 10:46-52 — blind Bartimaeus received his sight."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಗುಣಪಡಿಸಿದ ಬರ್ತಿಮಾಯನಿಗೆ ಯಾವ ಸಮಸ್ಯೆ ಇತ್ತು?",
+      "options": [
+        "ಕುರುಡುತನ",
+        "ಕುಂಟುತನ",
+        "ಕಿವುಡುತನ",
+        "ಮೂಗುತನ"
+      ],
+      "reference": "ಮಾರ್ಕ 10:46-52 — ಕುರುಡ ಬರ್ತಿಮಾಯನಿಗೆ ದೃಷ್ಟಿ ಸಿಕ್ಕಿತು."
+    }
+  },
+  {
+    "id": "recCBON3xXpzbzY7C",
+    "en": {
+      "question": "Who was the first Christian to die for his faith?",
+      "options": [
+        "Peter",
+        "Stephen",
+        "James",
+        "Philip"
+      ],
+      "reference": "Acts 7:59-60 — Stephen was stoned."
+    },
+    "kn": {
+      "question": "ತನ್ನ ವಿಶ್ವಾಸಕ್ಕಾಗಿ ಮೊದಲು ಮರಣಹೊಂದಿದ ಕ್ರೈಸ್ತನು ಯಾರು?",
+      "options": [
+        "ಪೇತ್ರ",
+        "ಸ್ತೆಫನ",
+        "ಯಾಕೋಬ",
+        "ಫಿಲಿಪ್ಪ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 7:59-60 — ಸ್ತೆಫನನಿಗೆ ಕಲ್ಲೆಸೆಯಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "recCBW91lZGYilAsZ",
+    "en": {
+      "question": "What was Abram's name changed to?",
+      "options": [
+        "Abraham",
+        "Israel",
+        "Isaac",
+        "Abimelech"
+      ],
+      "reference": "Genesis 17:5 — your name will be Abraham."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಾಮನ ಹೆಸರು ಯಾವುದಕ್ಕೆ ಬದಲಾಯಿಸಲ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಅಬ್ರಹಾಮ",
+        "ಇಸ್ರಾಯೇಲ",
+        "ಇಸಾಕ",
+        "ಅಬೀಮೆಲೆಕ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 17:5 — ನಿನ್ನ ಹೆಸರು ಅಬ್ರಹಾಮ ಎಂದು ಕರೆಯಲ್ಪಡುವುದು."
+    }
+  },
+  {
+    "id": "recD5QoeuLj1p7AN5",
+    "en": {
+      "question": "In which language was most of the Old Testament written?",
+      "options": [
+        "Greek",
+        "Hebrew",
+        "Latin",
+        "Aramaic"
+      ],
+      "reference": "The Old Testament was written mostly in Hebrew."
+    },
+    "kn": {
+      "question": "ಹಳೆಯ ಒಡಂಬಡಿಕೆಯ ಬಹುಭಾಗ ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಗ್ರೀಕ್",
+        "ಹಿಬ್ರೂ",
+        "ಲ್ಯಾಟಿನ್",
+        "ಅರಾಮಿಕ್"
+      ],
+      "reference": "ಹಳೆಯ ಒಡಂಬಡಿಕೆ ಹೆಚ್ಚಾಗಿ ಹಿಬ್ರೂ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿತು."
+    }
+  },
+  {
+    "id": "recD9NueCXTwglx0u",
+    "en": {
+      "question": "Before his conversion, who was Saul?",
+      "options": [
+        "A persecutor of Christians",
+        "A fisherman",
+        "A Roman soldier",
+        "A tax collector"
+      ],
+      "reference": "Acts 8:3 — Saul began to destroy the church."
+    },
+    "kn": {
+      "question": "ಮಾರ್ಪಡುವ ಮೊದಲು ಸೌಲನು ಏನಾಗಿದ್ದನು?",
+      "options": [
+        "ಕ್ರೈಸ್ತರನ್ನು ಹಿಂಸಿಸುತ್ತಿದ್ದನು",
+        "ಬೆಸ್ತನಾಗಿದ್ದನು",
+        "ರೋಮ್ ಸೈನಿಕನಾಗಿದ್ದನು",
+        "ಸುಂಕವಸೂಲಿಗಾರನಾಗಿದ್ದನು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 8:3 — ಸೌಲನು ಸಭೆಯನ್ನು ಹಾಳುಮಾಡುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recDEka4DMWW4qqIl",
+    "en": {
+      "question": "What did God say at the baptism of Jesus?",
+      "options": [
+        "That he was pleased with his Son",
+        "That Jesus should start healing",
+        "That John should stop baptizing",
+        "That Jesus should go to Jerusalem"
+      ],
+      "reference": "Matthew 3:17 — this is my beloved Son, in whom I am well pleased."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ದೀಕ್ಷಾಸ್ನಾನದ ಸಮಯದಲ್ಲಿ ದೇವರು ಏನು ಹೇಳಿದನು?",
+      "options": [
+        "ತನ್ನ ಮಗನ ಬಗ್ಗೆ ಸಂತೋಷಪಡುತ್ತಿದ್ದೇನೆಂದು",
+        "ಯೇಸು ಗುಣಪಡಿಸುವುದನ್ನು ಆರಂಭಿಸಬೇಕೆಂದು",
+        "ಯೋಹಾನನು ದೀಕ್ಷಾಸ್ನಾನ ನಿಲ್ಲಿಸಬೇಕೆಂದು",
+        "ಯೇಸು ಯೆರೂಸಲೇಮಿಗೆ ಹೋಗಬೇಕೆಂದು"
+      ],
+      "reference": "ಮತ್ತಾಯ 3:17 — ಈತನು ನನ್ನ ಪ್ರಿಯ ಮಗನು, ಈತನಲ್ಲಿ ನಾನು ಸಂತೋಷಪಡುತ್ತೇನೆ."
+    }
+  },
+  {
+    "id": "recDJk03zB7Hk848L",
+    "en": {
+      "question": "What happened when Jesus went into the wilderness after his baptism?",
+      "options": [
+        "He was tempted by Satan",
+        "He met with the disciples",
+        "He fasted with John",
+        "He healed the sick"
+      ],
+      "reference": "Matthew 4:1 — he was led to be tempted by the devil."
+    },
+    "kn": {
+      "question": "ದೀಕ್ಷಾಸ್ನಾನದ ನಂತರ ಯೇಸು ಅರಣ್ಯಕ್ಕೆ ಹೋದಾಗ ಏನಾಯಿತು?",
+      "options": [
+        "ಸೈತಾನನಿಂದ ಶೋಧಿಸಲ್ಪಟ್ಟನು",
+        "ಶಿಷ್ಯರನ್ನು ಸಂಧಿಸಿದನು",
+        "ಯೋಹಾನನೊಂದಿಗೆ ಉಪವಾಸ ಮಾಡಿದನು",
+        "ರೋಗಿಗಳನ್ನು ಗುಣಪಡಿಸಿದನು"
+      ],
+      "reference": "ಮತ್ತಾಯ 4:1 — ಸೈತಾನನಿಂದ ಶೋಧಿಸಲ್ಪಡಲು ನಡೆಸಲ್ಪಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recDLIKUoYrzz5Gzi",
+    "en": {
+      "question": "What is the first book in the Bible?",
+      "options": [
+        "Genesis",
+        "Exodus",
+        "Psalms",
+        "Matthew"
+      ],
+      "reference": "Genesis 1:1 — in the beginning God created the heavens and the earth."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಮೊದಲನೆಯ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": [
+        "ಆದಿಕಾಂಡ",
+        "ವಿಮೋಚನಕಾಂಡ",
+        "ಕೀರ್ತನೆಗಳು",
+        "ಮತ್ತಾಯ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 1:1 — ಆದಿಯಲ್ಲಿ ದೇವರು ಭೂಮಿಯನ್ನೂ ಆಕಾಶವನ್ನೂ ಸೃಷ್ಟಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recDMDnnKJHNY2Nvv",
+    "en": {
+      "question": "Who was Bathsheba's husband?",
+      "options": [
+        "Uriah",
+        "Joab",
+        "Nathan",
+        "Absalom"
+      ],
+      "reference": "2 Samuel 11:3 — Uriah the Hittite."
+    },
+    "kn": {
+      "question": "ಬತ್ಷೆಬೆಯ ಗಂಡ ಯಾರು?",
+      "options": [
+        "ಊರೀಯ",
+        "ಯೋವಾಬ",
+        "ನಾತಾನ",
+        "ಅಬ್ಷಾಲೋಮ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 11:3 — ಹಿತ್ತಿಯನಾದ ಊರೀಯ."
+    }
+  },
+  {
+    "id": "recDZ6vFk0an4e2RX",
+    "en": {
+      "question": "Which disciple betrayed Jesus?",
+      "options": [
+        "Judas Iscariot",
+        "Thomas",
+        "Peter",
+        "Andrew"
+      ],
+      "reference": "Matthew 26:14-16 — Judas Iscariot agreed to betray him."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿಗೆ ದ್ರೋಹ ಮಾಡಿದ ಶಿಷ್ಯ ಯಾರು?",
+      "options": [
+        "ಇಸ್ಕರಿಯೋತ ಯೂದ",
+        "ತೋಮ",
+        "ಪೇತ್ರ",
+        "ಅಂದ್ರೆಯ"
+      ],
+      "reference": "ಮತ್ತಾಯ 26:14-16 — ಇಸ್ಕರಿಯೋತ ಯೂದನು ದ್ರೋಹ ಮಾಡಲು ಒಪ್ಪಿಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "recDjkwy9izwbDZpe",
+    "en": {
+      "question": "How many people were saved in the ark?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "reference": "Genesis 7:13 — Noah, his wife, his three sons, and their wives."
+    },
+    "kn": {
+      "question": "ನಾವೆಯಲ್ಲಿ ಎಷ್ಟು ಮಂದಿ ರಕ್ಷಿಸಲ್ಪಟ್ಟರು?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 7:13 — ನೋಹ, ಅವನ ಹೆಂಡತಿ, ಮೂವರು ಗಂಡುಮಕ್ಕಳು, ಅವರ ಹೆಂಡತಿಯರು."
+    }
+  },
+  {
+    "id": "recDxmxfYavLu7X5s",
+    "en": {
+      "question": "Why did Pharaoh summon Joseph from prison?",
+      "options": [
+        "To interpret his dream",
+        "To release him as innocent",
+        "To keep him as a guard",
+        "To meet his brothers"
+      ],
+      "reference": "Genesis 41:14-15 — Pharaoh needed his dream explained."
+    },
+    "kn": {
+      "question": "ಫರೋಹನು ಯೋಸೇಫನನ್ನು ಸೆರೆಮನೆಯಿಂದ ಏಕೆ ಕರೆಸಿದನು?",
+      "options": [
+        "ಫರೋಹನ ಕನಸನ್ನು ಅರ್ಥ ಮಾಡಿ ಹೇಳಲು",
+        "ನಿರ್ದೋಷಿಯಾಗಿ ಬಿಡುಗಡೆ ಮಾಡಲು",
+        "ಕಾವಲುಗಾರನಾಗಿ ಇಟ್ಟುಕೊಳ್ಳಲು",
+        "ಸಹೋದರರನ್ನು ಸಂಧಿಸಲು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 41:14-15 — ಫರೋಹನಿಗೆ ಕನಸಿನ ವಿವರಣೆ ಬೇಕಿತ್ತು."
+    }
+  },
+  {
+    "id": "recENvGD0x300y0i9",
+    "en": {
+      "question": "Was Peter freed from prison by an angel?",
+      "options": [
+        "Yes",
+        "No, he escaped on his own",
+        "No, he was released by the king",
+        "He was never imprisoned"
+      ],
+      "reference": "Acts 12:7-10 — the angel led him out."
+    },
+    "kn": {
+      "question": "ಪೇತ್ರನು ಒಬ್ಬ ದೂತನಿಂದ ಸೆರೆಮನೆಯಿಂದ ಬಿಡುಗಡೆ ಮಾಡಲ್ಪಟ್ಟನೇ?",
+      "options": [
+        "ಹೌದು",
+        "ಇಲ್ಲ, ತಾನೇ ತಪ್ಪಿಸಿಕೊಂಡನು",
+        "ಇಲ್ಲ, ಅರಸನಿಂದ ಬಿಡುಗಡೆ ಮಾಡಲ್ಪಟ್ಟನು",
+        "ಎಂದೂ ಬಂಧಿಸಲ್ಪಡಲಿಲ್ಲ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 12:7-10 — ದೂತನು ಅವನನ್ನು ಹೊರಗೆ ನಡೆಸಿದನು."
+    }
+  },
+  {
+    "id": "recEeXcXzeA5EDD6y",
+    "en": {
+      "question": "What punishment did Saul receive for his disobedience?",
+      "options": [
+        "God took away his kingdom",
+        "He was banished",
+        "He lost his eyesight",
+        "He suffered from disease"
+      ],
+      "reference": "1 Samuel 15:23 — the Lord has rejected you as king."
+    },
+    "kn": {
+      "question": "ಅವಿಧೇಯತೆಗಾಗಿ ಸೌಲನಿಗೆ ಆದ ಶಿಕ್ಷೆ ಏನು?",
+      "options": [
+        "ದೇವರು ರಾಜ್ಯವನ್ನು ತೆಗೆದುಹಾಕಿದನು",
+        "ಬಹಿಷ್ಕರಿಸಲ್ಪಟ್ಟನು",
+        "ದೃಷ್ಟಿ ಕಳೆದುಕೊಂಡನು",
+        "ರೋಗದಿಂದ ಬಳಲಿದನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 15:23 — ಯೆಹೋವನು ನಿನ್ನನ್ನು ಅರಸನಾಗಿ ಇರದಂತೆ ತಳ್ಳಿಬಿಟ್ಟಿದ್ದಾನೆ."
+    }
+  },
+  {
+    "id": "recEsLvfH1nhIFJVu",
+    "en": {
+      "question": "At the wedding in Cana, what did Jesus turn water into?",
+      "options": [
+        "Wine",
+        "Milk",
+        "Oil",
+        "Honey"
+      ],
+      "reference": "John 2:9 — he tasted the water that had become wine."
+    },
+    "kn": {
+      "question": "ಕಾನಾ ಊರಿನ ಮದುವೆಯಲ್ಲಿ ಯೇಸು ನೀರನ್ನು ಯಾವುದಾಗಿ ಬದಲಾಯಿಸಿದನು?",
+      "options": [
+        "ದ್ರಾಕ್ಷಾರಸ",
+        "ಹಾಲು",
+        "ಎಣ್ಣೆ",
+        "ಜೇನುತುಪ್ಪ"
+      ],
+      "reference": "ಯೋಹಾನ 2:9 — ದ್ರಾಕ್ಷಾರಸವಾದ ನೀರನ್ನು ರುಚಿ ನೋಡಿದನು."
+    }
+  },
+  {
+    "id": "recF4TygpRqVrWLeh",
+    "en": {
+      "question": "Who helped provide for the expenses of Jesus and his disciples' ministry?",
+      "options": [
+        "Many women he had healed",
+        "The twelve disciples themselves",
+        "The Roman government",
+        "The Pharisees"
+      ],
+      "reference": "Luke 8:1-3 — the women supported them out of their own means."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಶಿಷ್ಯರ ಸೇವಾಕಾರ್ಯಕ್ಕೆ ಖರ್ಚುಗಳನ್ನು ಭರಿಸಲು ಸಹಾಯ ಮಾಡಿದವರು ಯಾರು?",
+      "options": [
+        "ಆತನು ಗುಣಪಡಿಸಿದ ಅನೇಕ ಸ್ತ್ರೀಯರು",
+        "ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರೇ",
+        "ರೋಮ್ ಸರ್ಕಾರ",
+        "ಫರಿಸಾಯರು"
+      ],
+      "reference": "ಲೂಕ 8:1-3 — ಸ್ತ್ರೀಯರು ತಮ್ಮ ಸ್ವಂತ ಸೊತ್ತಿನಿಂದ ಅವರಿಗೆ ಸೇವೆ ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "recF8vg8eZNEdgdes",
+    "en": {
+      "question": "Who ruled after the Israelites took possession of the promised land and Joshua died?",
+      "options": [
+        "Kings",
+        "Judges",
+        "Priests only",
+        "Prophets"
+      ],
+      "reference": "Judges 2:16 — the Lord raised up judges."
+    },
+    "kn": {
+      "question": "ಇಸ್ರಾಯೇಲ್ಯರು ವಾಗ್ದತ್ತ ದೇಶವನ್ನು ವಶಪಡಿಸಿಕೊಂಡು ಯೆಹೋಶುವನು ಮರಣಹೊಂದಿದ ನಂತರ ಯಾರು ಆಳಿದರು?",
+      "options": [
+        "ಅರಸರು",
+        "ನ್ಯಾಯಾಧಿಪತಿಗಳು",
+        "ಯಾಜಕರು ಮಾತ್ರ",
+        "ಪ್ರವಾದಿಗಳು"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 2:16 — ಯೆಹೋವನು ನ್ಯಾಯಾಧಿಪತಿಗಳನ್ನು ನೇಮಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recFHfAxLFLYBNlvi",
+    "en": {
+      "question": "Who ultimately came from the line of David?",
+      "options": [
+        "Jesus",
+        "John the Baptist",
+        "Moses",
+        "Elijah"
+      ],
+      "reference": "Matthew 1:1 — Jesus Christ, the son of David."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ವಂಶದಿಂದ ಕೊನೆಗೆ ಯಾರು ಬಂದರು?",
+      "options": [
+        "ಯೇಸು",
+        "ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ",
+        "ಮೋಶೆ",
+        "ಎಲೀಯ"
+      ],
+      "reference": "ಮತ್ತಾಯ 1:1 — ದಾವೀದನ ಕುಮಾರನಾದ ಯೇಸು ಕ್ರಿಸ್ತನು."
+    }
+  },
+  {
+    "id": "recFMuv2pRG8Ut22u",
+    "en": {
+      "question": "How many days after the resurrection did Jesus ascend to heaven?",
+      "options": [
+        "3 days",
+        "7 days",
+        "40 days",
+        "50 days"
+      ],
+      "reference": "Acts 1:3 — he appeared to them over forty days."
+    },
+    "kn": {
+      "question": "ಪುನರುತ್ಥಾನದ ನಂತರ ಎಷ್ಟು ದಿನಗಳಿಗೆ ಯೇಸು ಪರಲೋಕಕ್ಕೆ ಹೋದನು?",
+      "options": [
+        "3 ದಿನಗಳು",
+        "7 ದಿನಗಳು",
+        "40 ದಿನಗಳು",
+        "50 ದಿನಗಳು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 1:3 — ನಲವತ್ತು ದಿನಗಳು ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recG3cggpKGUz4VV4",
+    "en": {
+      "question": "After Saul's death, did all Israel immediately accept David as king?",
+      "options": [
+        "Yes, immediately",
+        "No, only Judah at first",
+        "No one accepted him",
+        "Only the Philistines accepted him"
+      ],
+      "reference": "2 Samuel 2:4,10 — Judah anointed David; Israel followed Ish-Bosheth."
+    },
+    "kn": {
+      "question": "ಸೌಲನ ಮರಣದ ನಂತರ ಇಸ್ರಾಯೇಲ್ಯರೆಲ್ಲರೂ ಕೂಡಲೇ ದಾವೀದನನ್ನು ಅರಸನಾಗಿ ಒಪ್ಪಿಕೊಂಡರೇ?",
+      "options": [
+        "ಹೌದು, ಕೂಡಲೇ",
+        "ಇಲ್ಲ, ಮೊದಲು ಯೆಹೂದ ಮಾತ್ರ",
+        "ಯಾರೂ ಒಪ್ಪಿಕೊಳ್ಳಲಿಲ್ಲ",
+        "ಫಿಲಿಷ್ಟಿಯರು ಮಾತ್ರ ಒಪ್ಪಿಕೊಂಡರು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 2:4,10 — ಯೆಹೂದ ದಾವೀದನನ್ನು ಅಭಿಷೇಕಿಸಿತು; ಇಸ್ರಾಯೇಲ್ ಈಷ್ಬೋಶೆತನನ್ನು ಹಿಂಬಾಲಿಸಿತು."
+    }
+  },
+  {
+    "id": "recGPsHhDjoNSGq9x",
+    "en": {
+      "question": "Where did Hagar and her son go?",
+      "options": [
+        "Into the wilderness",
+        "To Egypt",
+        "To Canaan",
+        "To Sodom"
+      ],
+      "reference": "Genesis 21:14 — she wandered in the wilderness of Beersheba."
+    },
+    "kn": {
+      "question": "ಹಾಗರಳು ಮತ್ತು ಆಕೆಯ ಮಗ ಎಲ್ಲಿಗೆ ಹೋದರು?",
+      "options": [
+        "ಅರಣ್ಯಕ್ಕೆ",
+        "ಐಗುಪ್ತಕ್ಕೆ",
+        "ಕಾನಾನಿಗೆ",
+        "ಸೊದೋಮಿಗೆ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 21:14 — ಆಕೆ ಬೇರ್ಷೆಬದ ಅರಣ್ಯದಲ್ಲಿ ಅಲೆದಾಡಿದಳು."
+    }
+  },
+  {
+    "id": "recGSWbQe0IunN5gB",
+    "en": {
+      "question": "Who conquered Judah and carried Daniel away?",
+      "options": [
+        "The Babylonians",
+        "The Assyrians",
+        "The Egyptians",
+        "The Persians"
+      ],
+      "reference": "Daniel 1:1-6 — Nebuchadnezzar carried captives to Babylon."
+    },
+    "kn": {
+      "question": "ಯೆಹೂದವನ್ನು ಜಯಿಸಿ ದಾನಿಯೇಲನನ್ನು ಸೆರೆಗೆ ಕರೆದೊಯ್ದವರು ಯಾರು?",
+      "options": [
+        "ಬಾಬೆಲ್ಯರು",
+        "ಅಶ್ಶೂರ್ಯರು",
+        "ಐಗುಪ್ತ್ಯರು",
+        "ಪಾರಸಿಯರು"
+      ],
+      "reference": "ದಾನಿಯೇಲ 1:1-6 — ನೆಬೂಕದ್ನೆಚ್ಚರನು ಸೆರೆಯಾಳುಗಳನ್ನು ಬಾಬೆಲಿಗೆ ಕರೆದೊಯ್ದನು."
+    }
+  },
+  {
+    "id": "recGfMvj3pU0q6M2a",
+    "en": {
+      "question": "Which disciple denied knowing Jesus three times?",
+      "options": [
+        "Peter",
+        "John",
+        "Andrew",
+        "James"
+      ],
+      "reference": "Matthew 26:34,75 — before the rooster crows, you will deny me three times."
+    },
+    "kn": {
+      "question": "ಯೇಸುವನ್ನು ಮೂರು ಸಲ ಅರಿಯೆನೆಂದ ಶಿಷ್ಯ ಯಾರು?",
+      "options": [
+        "ಪೇತ್ರ",
+        "ಯೋಹಾನ",
+        "ಅಂದ್ರೆಯ",
+        "ಯಾಕೋಬ"
+      ],
+      "reference": "ಮತ್ತಾಯ 26:34,75 — ಕೋಳಿ ಕೂಗುವ ಮೊದಲು ಮೂರು ಸಲ ನನ್ನನ್ನು ಅರಿಯೆನೆನ್ನುವಿ."
+    }
+  },
+  {
+    "id": "recHYw9Z4bN7qfATN",
+    "en": {
+      "question": "What is the 3rd petition in the Lord's Prayer?",
+      "options": [
+        "Your will be done on earth as it is in heaven",
+        "Give us our daily bread",
+        "Lead us not into temptation",
+        "Deliver us from evil"
+      ],
+      "reference": "Matthew 6:10."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 3ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ಪರಲೋಕದಲ್ಲಿ ಆಗುವಂತೆ ಭೂಮಿಯಲ್ಲಿಯೂ ನಿನ್ನ ಚಿತ್ತವಾಗಲಿ",
+        "ನಮ್ಮ ಅನುದಿನದ ಆಹಾರವನ್ನು ಕೊಡು",
+        "ನಮ್ಮನ್ನು ಶೋಧನೆಗೆ ನಡೆಸಬೇಡ",
+        "ನಮ್ಮನ್ನು ದುಷ್ಟನಿಂದ ತಪ್ಪಿಸು"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:10."
+    }
+  },
+  {
+    "id": "recHrZGffMnGsa5C6",
+    "en": {
+      "question": "Who was David's chief enemy during his reign?",
+      "options": [
+        "The Philistines",
+        "The Egyptians",
+        "The Assyrians",
+        "The Moabites"
+      ],
+      "reference": "2 Samuel chapter 8 tells of David's wars with the Philistines."
+    },
+    "kn": {
+      "question": "ತನ್ನ ಆಳ್ವಿಕೆಯ ಕಾಲದಲ್ಲಿ ದಾವೀದನ ಮುಖ್ಯ ಶತ್ರು ಯಾರು?",
+      "options": [
+        "ಫಿಲಿಷ್ಟಿಯರು",
+        "ಐಗುಪ್ತ್ಯರು",
+        "ಅಶ್ಶೂರ್ಯರು",
+        "ಮೋವಾಬ್ಯರು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 8ನೇ ಅಧ್ಯಾಯ ದಾವೀದನ ಫಿಲಿಷ್ಟಿಯರೊಂದಿಗಿನ ಯುದ್ಧಗಳನ್ನು ತಿಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "recI2SaZhI5Ixnq3J",
+    "en": {
+      "question": "Did God send an earthquake to rescue Paul and Silas from the Philippian jail?",
+      "options": [
+        "Yes, and they escaped immediately",
+        "Yes, but they stayed instead of escaping, to preach the gospel",
+        "No earthquake happened at all",
+        "An angel simply opened the doors"
+      ],
+      "reference": "Acts 16:26-28 — Paul said, do not harm yourself, we are all here."
+    },
+    "kn": {
+      "question": "ಫಿಲಿಪ್ಪಿಯ ಸೆರೆಮನೆಯಿಂದ ಪೌಲ ಸೀಲರನ್ನು ರಕ್ಷಿಸಲು ದೇವರು ಭೂಕಂಪವನ್ನು ಕಳುಹಿಸಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಕೂಡಲೇ ತಪ್ಪಿಸಿಕೊಂಡರು",
+        "ಹೌದು, ಆದರೆ ತಪ್ಪಿಸಿಕೊಳ್ಳದೆ ಸುವಾರ್ತೆ ಸಾರಲು ಉಳಿದುಕೊಂಡರು",
+        "ಭೂಕಂಪವೇ ಆಗಲಿಲ್ಲ",
+        "ದೂತನೊಬ್ಬ ಬಾಗಿಲುಗಳನ್ನು ತೆರೆದನು ಅಷ್ಟೇ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 16:26-28 — ಪೌಲನು ನಿನಗೆ ಹಾನಿಮಾಡಿಕೊಳ್ಳಬೇಡ, ನಾವೆಲ್ಲರೂ ಇಲ್ಲಿದ್ದೇವೆ ಎಂದನು."
+    }
+  },
+  {
+    "id": "recIBODr35D8FrvUY",
+    "en": {
+      "question": "What is the shortest book in the Bible?",
+      "options": [
+        "Jude",
+        "Obadiah",
+        "Philemon",
+        "3 John"
+      ],
+      "reference": "3 John has only 14 verses and is the shortest by word count."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": [
+        "ಯೂದ",
+        "ಓಬದ್ಯ",
+        "ಫಿಲೆಮೋನನಿಗೆ",
+        "3 ಯೋಹಾನ"
+      ],
+      "reference": "3 ಯೋಹಾನ ಕೇವಲ 14 ವಚನಗಳನ್ನು ಹೊಂದಿದ್ದು, ಪದಗಳ ಸಂಖ್ಯೆಯಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕದು."
+    }
+  },
+  {
+    "id": "recIRi8neKiKiaNlR",
+    "en": {
+      "question": "What is the 6th petition in the Lord's Prayer?",
+      "options": [
+        "Deliver us from evil",
+        "Lead us not into temptation",
+        "Your will be done",
+        "Forgive us our debts"
+      ],
+      "reference": "Matthew 6:13."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 6ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ನಮ್ಮನ್ನು ದುಷ್ಟನಿಂದ ತಪ್ಪಿಸು",
+        "ನಮ್ಮನ್ನು ಶೋಧನೆಗೆ ನಡೆಸಬೇಡ",
+        "ನಿನ್ನ ಚಿತ್ತವಾಗಲಿ",
+        "ನಮ್ಮ ಸಾಲಗಳನ್ನು ಕ್ಷಮಿಸು"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:13."
+    }
+  },
+  {
+    "id": "recISN3P2wF5RqF3G",
+    "en": {
+      "question": "According to tradition, who was crucified upside down?",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Andrew"
+      ],
+      "reference": "Church tradition says Peter was crucified upside down."
+    },
+    "kn": {
+      "question": "ಸಂಪ್ರದಾಯದ ಪ್ರಕಾರ, ತಲೆಕೆಳಗಾಗಿ ಶಿಲುಬೆಗೇರಿಸಲ್ಪಟ್ಟವರು ಯಾರು?",
+      "options": [
+        "ಪೇತ್ರ",
+        "ಯೋಹಾನ",
+        "ಯಾಕೋಬ",
+        "ಅಂದ್ರೆಯ"
+      ],
+      "reference": "ಸಭೆಯ ಸಂಪ್ರದಾಯದ ಪ್ರಕಾರ ಪೇತ್ರನು ತಲೆಕೆಳಗಾಗಿ ಶಿಲುಬೆಗೇರಿಸಲ್ಪಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recIb70tDpCYlKS9Q",
+    "en": {
+      "question": "Which Gospel was likely written last?",
+      "options": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "reference": "The Gospel of John is generally considered to be the last written."
+    },
+    "kn": {
+      "question": "ಕೊನೆಯದಾಗಿ ಬರೆಯಲ್ಪಟ್ಟ ಸುವಾರ್ತೆ ಗ್ರಂಥ ಯಾವುದಾಗಿರಬಹುದು?",
+      "options": [
+        "ಮತ್ತಾಯ",
+        "ಮಾರ್ಕ",
+        "ಲೂಕ",
+        "ಯೋಹಾನ"
+      ],
+      "reference": "ಯೋಹಾನನ ಸುವಾರ್ತೆಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕೊನೆಯದೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "recIvAs46s7JpPtXA",
+    "en": {
+      "question": "Which of David's sons rebelled against him?",
+      "options": [
+        "Absalom",
+        "Solomon",
+        "Amnon",
+        "Adonijah"
+      ],
+      "reference": "2 Samuel 15:10 — Absalom conspired against David."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ವಿರುದ್ಧ ದಂಗೆ ಎದ್ದ ಅವನ ಮಗ ಯಾರು?",
+      "options": [
+        "ಅಬ್ಷಾಲೋಮ",
+        "ಸೊಲೊಮೋನ",
+        "ಅಮ್ನೋನ",
+        "ಅದೋನೀಯ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 15:10 — ಅಬ್ಷಾಲೋಮನು ದಾವೀದನ ವಿರುದ್ಧ ಒಳಸಂಚು ಮಾಡಿದನು."
+    }
+  },
+  {
+    "id": "recJNO809L7AE2aDI",
+    "en": {
+      "question": "Whom did God tell to build an ark?",
+      "options": [
+        "Noah",
+        "Abraham",
+        "Moses",
+        "Enoch"
+      ],
+      "reference": "Genesis 6:14 — God told Noah to make an ark."
+    },
+    "kn": {
+      "question": "ದೇವರು ನಾವೆ ಕಟ್ಟುವಂತೆ ಯಾರಿಗೆ ಹೇಳಿದನು?",
+      "options": [
+        "ನೋಹ",
+        "ಅಬ್ರಹಾಮ",
+        "ಮೋಶೆ",
+        "ಹನೋಕ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 6:14 — ದೇವರು ನೋಹನಿಗೆ ನಾವೆ ಮಾಡುವಂತೆ ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "recJc28cG3566cXV5",
+    "en": {
+      "question": "How many books are in the Old Testament?",
+      "options": [
+        "27",
+        "39",
+        "46",
+        "24"
+      ],
+      "reference": "The Old Testament contains 39 books."
+    },
+    "kn": {
+      "question": "ಹಳೆಯ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ ಎಷ್ಟು ಗ್ರಂಥಗಳಿವೆ?",
+      "options": [
+        "27",
+        "39",
+        "46",
+        "24"
+      ],
+      "reference": "ಹಳೆಯ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ 39 ಗ್ರಂಥಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "recJrb4jVZsv6ZrOr",
+    "en": {
+      "question": "How many times did David spare Saul's life?",
+      "options": [
+        "Once",
+        "Twice",
+        "Three times",
+        "Never"
+      ],
+      "reference": "In 1 Samuel 24 and 26, David spared Saul twice."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಎಷ್ಟು ಸಲ ಸೌಲನ ಪ್ರಾಣವನ್ನು ಉಳಿಸಿದನು?",
+      "options": [
+        "ಒಂದು ಸಲ",
+        "ಎರಡು ಸಲ",
+        "ಮೂರು ಸಲ",
+        "ಎಂದೂ ಇಲ್ಲ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 24, 26ನೇ ಅಧ್ಯಾಯಗಳಲ್ಲಿ ದಾವೀದನು ಎರಡು ಸಲ ಸೌಲನನ್ನು ಉಳಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recKQXQnPFBeRm3YK",
+    "en": {
+      "question": "Who lied and had Joseph thrown into prison?",
+      "options": [
+        "Potiphar's wife",
+        "Pharaoh's cupbearer",
+        "The chief baker",
+        "Potiphar himself"
+      ],
+      "reference": "Genesis 39:16-20 — Potiphar's wife lied."
+    },
+    "kn": {
+      "question": "ಸುಳ್ಳು ಹೇಳಿ ಯೋಸೇಫನನ್ನು ಸೆರೆಮನೆಗೆ ಹಾಕಿಸಿದವರು ಯಾರು?",
+      "options": [
+        "ಪೋಟೀಫರನ ಹೆಂಡತಿ",
+        "ಫರೋಹನ ಪಾನದಾಯಕ",
+        "ಮುಖ್ಯ ರೊಟ್ಟಿಗಾರ",
+        "ಪೋಟೀಫರನೇ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 39:16-20 — ಪೋಟೀಫರನ ಹೆಂಡತಿ ಸುಳ್ಳು ಹೇಳಿದಳು."
+    }
+  },
+  {
+    "id": "recKjz5KcHqvcZXRj",
+    "en": {
+      "question": "What is the 7th petition in the Lord's Prayer?",
+      "options": [
+        "Deliver us from evil",
+        "Give us our daily bread",
+        "Hallowed be your name",
+        "Your kingdom come"
+      ],
+      "reference": "Matthew 6:13."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 7ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ನಮ್ಮನ್ನು ದುಷ್ಟನಿಂದ ತಪ್ಪಿಸು",
+        "ನಮ್ಮ ಅನುದಿನದ ಆಹಾರವನ್ನು ಕೊಡು",
+        "ನಿನ್ನ ನಾಮ ಪರಿಶುದ್ಧವಾಗಲಿ",
+        "ನಿನ್ನ ರಾಜ್ಯ ಬರಲಿ"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:13."
+    }
+  },
+  {
+    "id": "recKmAomhHWNS3pj6",
+    "en": {
+      "question": "Did David write the entire book of Psalms?",
+      "options": [
+        "Yes, David alone",
+        "Solomon alone wrote it",
+        "Many authors wrote it, with David writing the most",
+        "Moses alone wrote it"
+      ],
+      "reference": "Psalms is a collection by many authors; David wrote the most."
+    },
+    "kn": {
+      "question": "ಕೀರ್ತನೆಗಳ ಗ್ರಂಥವನ್ನು ಪೂರ್ತಿಯಾಗಿ ದಾವೀದನೇ ಬರೆದನೇ?",
+      "options": [
+        "ಹೌದು, ದಾವೀದನೊಬ್ಬನೇ",
+        "ಸೊಲೊಮೋನನೊಬ್ಬನೇ ಬರೆದನು",
+        "ಅನೇಕ ಲೇಖಕರು ಬರೆದರು, ದಾವೀದನು ಹೆಚ್ಚಿನ ಭಾಗ ಬರೆದನು",
+        "ಮೋಶೆಯೊಬ್ಬನೇ ಬರೆದನು"
+      ],
+      "reference": "ಕೀರ್ತನೆಗಳ ಗ್ರಂಥ ಅನೇಕ ಲೇಖಕರ ಸಂಕಲನ; ದಾವೀದನು ಹೆಚ್ಚು ಬರೆದನು."
+    }
+  },
+  {
+    "id": "recKoAW2CTt7G98Lg",
+    "en": {
+      "question": "Where were Daniel's three friends thrown when they refused to bow to the idol?",
+      "options": [
+        "Into a fiery furnace",
+        "Into a lions' den",
+        "Into prison",
+        "Into a river"
+      ],
+      "reference": "Daniel 3:20 — they were thrown into the blazing furnace."
+    },
+    "kn": {
+      "question": "ವಿಗ್ರಹಕ್ಕೆ ಅಡ್ಡಬೀಳಲು ನಿರಾಕರಿಸಿದಾಗ ದಾನಿಯೇಲನ ಮೂವರು ಸ್ನೇಹಿತರನ್ನು ಎಲ್ಲಿಗೆ ಎಸೆಯಲಾಯಿತು?",
+      "options": [
+        "ಬೆಂಕಿಯ ಆವಿಗೆಯೊಳಗೆ",
+        "ಸಿಂಹದ ಗವಿಯೊಳಗೆ",
+        "ಸೆರೆಮನೆಯೊಳಗೆ",
+        "ನದಿಯೊಳಗೆ"
+      ],
+      "reference": "ದಾನಿಯೇಲ 3:20 — ಉರಿಯುತ್ತಿರುವ ಬೆಂಕಿಯ ಆವಿಗೆಯೊಳಗೆ ಎಸೆಯಲ್ಪಟ್ಟರು."
+    }
+  },
+  {
+    "id": "recL19Wz0RsZve3Xj",
+    "en": {
+      "question": "What is the 9th commandment?",
+      "options": [
+        "Do not steal",
+        "Do not give false testimony",
+        "Do not covet",
+        "Do not murder"
+      ],
+      "reference": "Exodus 20:16."
+    },
+    "kn": {
+      "question": "9ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕದಿಯಬೇಡ",
+        "ಸುಳ್ಳುಸಾಕ್ಷಿ ಹೇಳಬೇಡ",
+        "ಆಶಿಸಬೇಡ",
+        "ಕೊಲೆ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:16."
+    }
+  },
+  {
+    "id": "recL6DanfRuHN7ZZN",
+    "en": {
+      "question": "On which day did God create man?",
+      "options": [
+        "5th",
+        "6th",
+        "7th",
+        "3rd"
+      ],
+      "reference": "Genesis 1:26-27 — man was created on the sixth day."
+    },
+    "kn": {
+      "question": "ದೇವರು ಮನುಷ್ಯನನ್ನು ಯಾವ ದಿನದಂದು ಸೃಷ್ಟಿಸಿದನು?",
+      "options": [
+        "5ನೆಯ",
+        "6ನೆಯ",
+        "7ನೆಯ",
+        "3ನೆಯ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 1:26-27 — ಆರನೆಯ ದಿನದಂದು ಮನುಷ್ಯನು ಸೃಷ್ಟಿಸಲ್ಪಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recLdpFbyRoqYPiSY",
+    "en": {
+      "question": "Are bananas considered a fruit of the Spirit?",
+      "options": [
+        "Yes, they represent goodness",
+        "No — that's God's gift of food, not a fruit of the Spirit in Galatians 5",
+        "Yes, they represent patience",
+        "No, fruit is never used as a symbol"
+      ],
+      "reference": "Galatians 5:22-23 lists spiritual qualities, not literal fruit."
+    },
+    "kn": {
+      "question": "ಬಾಳೆಹಣ್ಣುಗಳು ಆತ್ಮನ ಫಲವೆಂದು ಪರಿಗಣಿಸಲ್ಪಡುತ್ತವೆಯೇ?",
+      "options": [
+        "ಹೌದು, ಅವು ಒಳ್ಳೆಯತನವನ್ನು ಸೂಚಿಸುತ್ತವೆ",
+        "ಇಲ್ಲ — ಅದು ದೇವರ ಆಹಾರದ ಕೊಡುಗೆ, ಗಲಾತ್ಯದವರಿಗೆ 5ರಲ್ಲಿನ ಆತ್ಮನ ಫಲವಲ್ಲ",
+        "ಹೌದು, ಅವು ದೀರ್ಘಶಾಂತಿಯನ್ನು ಸೂಚಿಸುತ್ತವೆ",
+        "ಇಲ್ಲ, ಹಣ್ಣುಗಳನ್ನು ಸಂಕೇತವಾಗಿ ಎಂದೂ ಬಳಸುವುದಿಲ್ಲ"
+      ],
+      "reference": "ಗಲಾತ್ಯದವರಿಗೆ 5:22-23 ಆತ್ಮಿಕ ಗುಣಗಳನ್ನು ತಿಳಿಸುತ್ತದೆ, ಹಣ್ಣುಗಳನ್ನಲ್ಲ."
+    }
+  },
+  {
+    "id": "recLg0Vu8lehBpCOi",
+    "en": {
+      "question": "What is the 1st petition in the Lord's Prayer?",
+      "options": [
+        "Hallowed be your name",
+        "Your kingdom come",
+        "Give us our daily bread",
+        "Deliver us from evil"
+      ],
+      "reference": "Matthew 6:9."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 1ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ನಿನ್ನ ನಾಮ ಪರಿಶುದ್ಧವಾಗಲಿ",
+        "ನಿನ್ನ ರಾಜ್ಯ ಬರಲಿ",
+        "ನಮ್ಮ ಅನುದಿನದ ಆಹಾರವನ್ನು ಕೊಡು",
+        "ನಮ್ಮನ್ನು ದುಷ್ಟನಿಂದ ತಪ್ಪಿಸು"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:9."
+    }
+  },
+  {
+    "id": "recLrVcU8K8sEqe08",
+    "en": {
+      "question": "Did the Jewish leaders try to release Jesus?",
+      "options": [
+        "Yes, they protected him",
+        "No, they pressured for his crucifixion",
+        "Only Pilate tried to release him",
+        "They made no decision"
+      ],
+      "reference": "Matthew 27:20 — the chief priests persuaded the crowd."
+    },
+    "kn": {
+      "question": "ಯೆಹೂದ್ಯ ನಾಯಕರು ಯೇಸುವನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದರೇ?",
+      "options": [
+        "ಹೌದು, ಆತನನ್ನು ಕಾಪಾಡಿದರು",
+        "ಇಲ್ಲ, ಶಿಲುಬೆಗೇರಿಸಲು ಒತ್ತಾಯಿಸಿದರು",
+        "ಪಿಲಾತನೊಬ್ಬನೇ ಬಿಡುಗಡೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿದನು",
+        "ಯಾವ ನಿರ್ಣಯವನ್ನೂ ತೆಗೆದುಕೊಳ್ಳಲಿಲ್ಲ"
+      ],
+      "reference": "ಮತ್ತಾಯ 27:20 — ಪ್ರಧಾನಯಾಜಕರು ಜನಸಮೂಹವನ್ನು ಒಪ್ಪಿಸಿದರು."
+    }
+  },
+  {
+    "id": "recMC0vBVvIPnEizx",
+    "en": {
+      "question": "How many brothers of Jesus are mentioned in the Bible?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "reference": "Mark 6:3 — James, Joses, Judas, and Simon."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಯೇಸುವಿನ ಎಷ್ಟು ಮಂದಿ ಸಹೋದರರ ಬಗ್ಗೆ ಉಲ್ಲೇಖವಿದೆ?",
+      "options": [
+        "ಇಬ್ಬರು",
+        "ಮೂವರು",
+        "ನಾಲ್ವರು",
+        "ಆರು ಮಂದಿ"
+      ],
+      "reference": "ಮಾರ್ಕ 6:3 — ಯಾಕೋಬ, ಯೋಸೆ, ಯೂದ, ಸೀಮೋನ."
+    }
+  },
+  {
+    "id": "recMI0xZtgZf38Z1s",
+    "en": {
+      "question": "How many loaves and fish did Jesus use to feed more than 5,000 people?",
+      "options": [
+        "Five loaves and two fish",
+        "Two loaves and five fish",
+        "Only seven loaves",
+        "Only twelve fish"
+      ],
+      "reference": "Matthew 14:17-19 — five loaves and two fish."
+    },
+    "kn": {
+      "question": "5,000ಕ್ಕಿಂತ ಹೆಚ್ಚು ಜನರಿಗೆ ಆಹಾರ ನೀಡಲು ಯೇಸು ಎಷ್ಟು ರೊಟ್ಟಿ, ಮೀನುಗಳನ್ನು ಬಳಸಿದನು?",
+      "options": [
+        "ಐದು ರೊಟ್ಟಿ ಎರಡು ಮೀನುಗಳು",
+        "ಎರಡು ರೊಟ್ಟಿ ಐದು ಮೀನುಗಳು",
+        "ಏಳು ರೊಟ್ಟಿ ಮಾತ್ರ",
+        "ಹನ್ನೆರಡು ಮೀನುಗಳು ಮಾತ್ರ"
+      ],
+      "reference": "ಮತ್ತಾಯ 14:17-19 — ಐದು ರೊಟ್ಟಿ ಎರಡು ಮೀನುಗಳು."
+    }
+  },
+  {
+    "id": "recMTDuiO2Oz0yA43",
+    "en": {
+      "question": "Which prophet's spirit did Saul ask to be brought up?",
+      "options": [
+        "Samuel",
+        "Nathan",
+        "Elijah",
+        "Gad"
+      ],
+      "reference": "1 Samuel 28:11 — he asked for Samuel to be brought up."
+    },
+    "kn": {
+      "question": "ಸೌಲನು ಯಾವ ಪ್ರವಾದಿಯ ಆತ್ಮವನ್ನು ಮೇಲಕ್ಕೆ ಬರಮಾಡುವಂತೆ ಕೇಳಿದನು?",
+      "options": [
+        "ಸಮುವೇಲನನ್ನು",
+        "ನಾತಾನನನ್ನು",
+        "ಎಲೀಯನನ್ನು",
+        "ಗಾದನನ್ನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 28:11 — ಸಮುವೇಲನನ್ನು ಮೇಲಕ್ಕೆ ಬರಮಾಡುವಂತೆ ಕೇಳಿದನು."
+    }
+  },
+  {
+    "id": "recMiP0Gtuu3cpZpn",
+    "en": {
+      "question": "What was another name for the apostle Paul?",
+      "options": [
+        "Saul of Tarsus",
+        "Simon of Cyrene",
+        "Barnabas",
+        "Silas"
+      ],
+      "reference": "Acts 9:11 — Saul of Tarsus, also called Paul (13:9)."
+    },
+    "kn": {
+      "question": "ಅಪೊಸ್ತಲನಾದ ಪೌಲನ ಇನ್ನೊಂದು ಹೆಸರೇನು?",
+      "options": [
+        "ತಾರ್ಸದ ಸೌಲ",
+        "ಕುರೇನ್ಯದ ಸೀಮೋನ",
+        "ಬರ್ನಬ",
+        "ಸೀಲ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 9:11 — ತಾರ್ಸದವನಾದ ಸೌಲ, ಪೌಲ ಎಂದೂ ಕರೆಯಲ್ಪಟ್ಟನು (13:9)."
+    }
+  },
+  {
+    "id": "recMiRjVCiyAK8299",
+    "en": {
+      "question": "Which books tell of David's reign as king?",
+      "options": [
+        "1, 2 Samuel",
+        "1, 2 Kings",
+        "1, 2 Chronicles only",
+        "Judges and Ruth"
+      ],
+      "reference": "1, 2 Samuel tell of David's rise and reign."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಅರಸನಾಗಿದ್ದ ಕಾಲವನ್ನು ಯಾವ ಗ್ರಂಥಗಳು ತಿಳಿಸುತ್ತವೆ?",
+      "options": [
+        "1, 2 ಸಮುವೇಲ",
+        "1, 2 ಅರಸುಗಳು",
+        "1, 2 ಪೂರ್ವಕಾಲವೃತ್ತಾಂತ ಮಾತ್ರ",
+        "ನ್ಯಾಯಸ್ಥಾಪಕರು, ರೂತಳು"
+      ],
+      "reference": "1, 2 ಸಮುವೇಲ ದಾವೀದನ ಏಳ್ಗೆ ಮತ್ತು ಆಳ್ವಿಕೆಯನ್ನು ತಿಳಿಸುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "recMissOypFLNvGdh",
+    "en": {
+      "question": "How did Esau provide food for the family?",
+      "options": [
+        "He farmed",
+        "He hunted",
+        "He fished",
+        "He herded sheep"
+      ],
+      "reference": "Genesis 25:27 — Esau was a skillful hunter."
+    },
+    "kn": {
+      "question": "ಏಸಾವನು ಕುಟುಂಬಕ್ಕಾಗಿ ಆಹಾರವನ್ನು ಹೇಗೆ ಸಂಪಾದಿಸುತ್ತಿದ್ದನು?",
+      "options": [
+        "ವ್ಯವಸಾಯ ಮಾಡುತ್ತಿದ್ದನು",
+        "ಬೇಟೆಯಾಡುತ್ತಿದ್ದನು",
+        "ಮೀನು ಹಿಡಿಯುತ್ತಿದ್ದನು",
+        "ಕುರಿ ಮೇಯಿಸುತ್ತಿದ್ದನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 25:27 — ಏಸಾವನು ನಿಪುಣ ಬೇಟೆಗಾರ."
+    }
+  },
+  {
+    "id": "recNEWCTimIsQmVVO",
+    "en": {
+      "question": "On which day of the week did Jesus rise again?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "reference": "Matthew 28:1 — on the first day of the week."
+    },
+    "kn": {
+      "question": "ವಾರದ ಯಾವ ದಿನದಂದು ಯೇಸು ಪುನಃ ಎದ್ದನು?",
+      "options": [
+        "ಶುಕ್ರವಾರ",
+        "ಶನಿವಾರ",
+        "ಭಾನುವಾರ",
+        "ಸೋಮವಾರ"
+      ],
+      "reference": "ಮತ್ತಾಯ 28:1 — ವಾರದ ಮೊದಲ ದಿನದಂದು."
+    }
+  },
+  {
+    "id": "recNINsccupIpcqoU",
+    "en": {
+      "question": "What was the name of Abram's wife?",
+      "options": [
+        "Sarai",
+        "Rebekah",
+        "Rachel",
+        "Hagar"
+      ],
+      "reference": "Genesis 11:29 — Abram's wife's name was Sarai."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಾಮನ ಹೆಂಡತಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಸಾರಯಿ",
+        "ರೆಬೆಕ್ಕಳು",
+        "ರಾಹೇಲಳು",
+        "ಹಾಗರಳು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 11:29 — ಅಬ್ರಾಮನ ಹೆಂಡತಿಯ ಹೆಸರು ಸಾರಯಿ."
+    }
+  },
+  {
+    "id": "recNMVB1CACT0FKAX",
+    "en": {
+      "question": "What did Jonathan do to protect David's life?",
+      "options": [
+        "He warned him that Saul intended to kill him",
+        "He fought Saul directly",
+        "He hid David permanently in his own house",
+        "He took David's place"
+      ],
+      "reference": "1 Samuel 20:41-42 — Jonathan sent David away in peace."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ಪ್ರಾಣವನ್ನು ಕಾಪಾಡಲು ಯೋನಾತಾನನು ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಸೌಲನು ಅವನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದಿದ್ದಾನೆಂದು ಎಚ್ಚರಿಸಿದನು",
+        "ಸೌಲನೊಂದಿಗೆ ನೇರವಾಗಿ ಹೋರಾಡಿದನು",
+        "ದಾವೀದನನ್ನು ತನ್ನ ಮನೆಯಲ್ಲಿ ಶಾಶ್ವತವಾಗಿ ಬಚ್ಚಿಟ್ಟನು",
+        "ದಾವೀದನ ಸ್ಥಾನದಲ್ಲಿ ನಿಂತನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 20:41-42 — ಯೋನಾತಾನನು ದಾವೀದನನ್ನು ಸಮಾಧಾನದಿಂದ ಕಳುಹಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recNPhGmgP2sjWkJU",
+    "en": {
+      "question": "What is the 3rd commandment?",
+      "options": [
+        "Do not steal",
+        "Keep the Sabbath day",
+        "Do not misuse the name of the Lord your God",
+        "Do not covet"
+      ],
+      "reference": "Exodus 20:7."
+    },
+    "kn": {
+      "question": "3ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕದಿಯಬೇಡ",
+        "ಸಬ್ಬತ್ ದಿನವನ್ನು ಆಚರಿಸು",
+        "ನಿನ್ನ ದೇವರಾದ ಯೆಹೋವನ ನಾಮವನ್ನು ವ್ಯರ್ಥವಾಗಿ ಎತ್ತಬೇಡ",
+        "ಆಶಿಸಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:7."
+    }
+  },
+  {
+    "id": "recNrF58NuyO1AHst",
+    "en": {
+      "question": "In which New Testament book is Jesus' Sermon on the Mount found?",
+      "options": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "reference": "The Sermon on the Mount is found in Matthew chapters 5-7."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಪರ್ವತ ಪ್ರಸಂಗ ಯಾವ ಹೊಸ ಒಡಂಬಡಿಕೆಯ ಗ್ರಂಥದಲ್ಲಿದೆ?",
+      "options": [
+        "ಮತ್ತಾಯ",
+        "ಮಾರ್ಕ",
+        "ಲೂಕ",
+        "ಯೋಹಾನ"
+      ],
+      "reference": "ಮತ್ತಾಯ 5-7ನೇ ಅಧ್ಯಾಯಗಳಲ್ಲಿ ಪರ್ವತ ಪ್ರಸಂಗವಿದೆ."
+    }
+  },
+  {
+    "id": "recO2dUdaAPc4efK3",
+    "en": {
+      "question": "How did Jesus' family initially respond to his ministry?",
+      "options": [
+        "They fully supported him",
+        "They tried to stop him, thinking he was out of his mind",
+        "They completely ignored it",
+        "They joined him immediately"
+      ],
+      "reference": "Mark 3:21 — his family said he was out of his mind."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಸೇವಾಕಾರ್ಯಕ್ಕೆ ಆತನ ಕುಟುಂಬ ಮೊದಲು ಹೇಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿತು?",
+      "options": [
+        "ಪೂರ್ಣವಾಗಿ ಬೆಂಬಲಿಸಿತು",
+        "ಬುದ್ಧಿಭ್ರಮೆಯಾಗಿದೆ ಎಂದು ಆತನನ್ನು ತಡೆಯಲು ಪ್ರಯತ್ನಿಸಿತು",
+        "ಸಂಪೂರ್ಣವಾಗಿ ಗಮನಿಸಲಿಲ್ಲ",
+        "ಕೂಡಲೇ ಸೇರಿಕೊಂಡಿತು"
+      ],
+      "reference": "ಮಾರ್ಕ 3:21 — ಈತನಿಗೆ ಬುದ್ಧಿಭ್ರಮೆಯಾಗಿದೆ ಎಂದು ಕುಟುಂಬ ಹೇಳಿತು."
+    }
+  },
+  {
+    "id": "recOOnr783hygnioQ",
+    "en": {
+      "question": "What happened to David and Bathsheba's first child?",
+      "options": [
+        "The child died",
+        "The child became king",
+        "The child was healed",
+        "The child was given up for adoption"
+      ],
+      "reference": "2 Samuel 12:18 — the child died on the seventh day."
+    },
+    "kn": {
+      "question": "ದಾವೀದನಿಗೆ ಬತ್ಷೆಬೆಯಿಂದ ಹುಟ್ಟಿದ ಮೊದಲ ಮಗುವಿಗೆ ಏನಾಯಿತು?",
+      "options": [
+        "ಮಗು ಮರಣಹೊಂದಿತು",
+        "ಮಗು ಅರಸನಾಯಿತು",
+        "ಮಗು ಗುಣಹೊಂದಿತು",
+        "ಮಗುವನ್ನು ದತ್ತು ಕೊಟ್ಟರು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 12:18 — ಏಳನೆಯ ದಿನದಂದು ಮಗು ಮರಣಹೊಂದಿತು."
+    }
+  },
+  {
+    "id": "recOQmRDPFKBDxUd8",
+    "en": {
+      "question": "Who accompanied Paul on his first missionary journey?",
+      "options": [
+        "Barnabas",
+        "Timothy only",
+        "Nicodemus",
+        "Nathanael"
+      ],
+      "reference": "Acts 13:2-3 — Barnabas and Saul were sent out."
+    },
+    "kn": {
+      "question": "ಪೌಲನ ಮೊದಲ ಮಿಷನರಿ ಪ್ರಯಾಣದಲ್ಲಿ ಆತನೊಂದಿಗೆ ಯಾರು ಹೋದರು?",
+      "options": [
+        "ಬರ್ನಬ",
+        "ತಿಮೊಥೆಯ ಮಾತ್ರ",
+        "ನಿಕೊದೇಮ",
+        "ನತನಯೇಲ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 13:2-3 — ಬರ್ನಬ ಮತ್ತು ಸೌಲ ಕಳುಹಿಸಲ್ಪಟ್ಟರು."
+    }
+  },
+  {
+    "id": "recOT6asvK2SBdcnG",
+    "en": {
+      "question": "In Babylon, whose dream did Daniel interpret?",
+      "options": [
+        "King Nebuchadnezzar's dream",
+        "King Darius's dream",
+        "King Cyrus's dream",
+        "King Belshazzar's dream"
+      ],
+      "reference": "Daniel 2:1,25-45 — Daniel interpreted the king's dream."
+    },
+    "kn": {
+      "question": "ಬಾಬೆಲಿನಲ್ಲಿ ದಾನಿಯೇಲನು ಯಾರ ಕನಸನ್ನು ಅರ್ಥ ಮಾಡಿ ಹೇಳಿದನು?",
+      "options": [
+        "ಅರಸನಾದ ನೆಬೂಕದ್ನೆಚ್ಚರನ ಕನಸನ್ನು",
+        "ಅರಸನಾದ ದಾರ್ಯಾವೆಷನ ಕನಸನ್ನು",
+        "ಅರಸನಾದ ಕೋರೆಷನ ಕನಸನ್ನು",
+        "ಅರಸನಾದ ಬೇಲ್ಶಚ್ಚರನ ಕನಸನ್ನು"
+      ],
+      "reference": "ದಾನಿಯೇಲ 2:1,25-45 — ದಾನಿಯೇಲನು ಅರಸನ ಕನಸನ್ನು ಅರ್ಥ ಮಾಡಿ ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "recOjLIeaKBONatNq",
+    "en": {
+      "question": "Which judge, a Nazirite from birth, fought against the Philistines?",
+      "options": [
+        "Samson",
+        "Gideon",
+        "Jephthah",
+        "Barak"
+      ],
+      "reference": "Judges 13:5 — the boy shall be a Nazirite to God."
+    },
+    "kn": {
+      "question": "ಹುಟ್ಟಿನಿಂದಲೇ ನಾಜೀರ್ ಪ್ರಮಾಣ ತೆಗೆದುಕೊಂಡು ಫಿಲಿಷ್ಟಿಯರೊಂದಿಗೆ ಹೋರಾಡಿದ ನ್ಯಾಯಾಧಿಪತಿ ಯಾರು?",
+      "options": [
+        "ಸಂಸೋನ",
+        "ಗಿದ್ಯೋನ",
+        "ಯೆಫ್ತಾ",
+        "ಬಾರಾಕ"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 13:5 — ಆ ಬಾಲಕನು ದೇವರಿಗೆ ನಾಜೀರನಾಗಿರುವನು."
+    }
+  },
+  {
+    "id": "recOmEw8X9dB56KM0",
+    "en": {
+      "question": "Did Jesus reject people who worshiped God incorrectly?",
+      "options": [
+        "Yes, he condemned them",
+        "No — he received everyone who came to him",
+        "Only the Samaritans",
+        "Only Gentiles"
+      ],
+      "reference": "John 4:7-26 — Jesus received the Samaritan woman."
+    },
+    "kn": {
+      "question": "ದೇವರನ್ನು ತಪ್ಪಾಗಿ ಆರಾಧಿಸುವವರನ್ನು ಯೇಸು ತಿರಸ್ಕರಿಸಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಅವರನ್ನು ಖಂಡಿಸಿದನು",
+        "ಇಲ್ಲ — ತನ್ನ ಬಳಿಗೆ ಬಂದವರೆಲ್ಲರನ್ನೂ ಸ್ವೀಕರಿಸಿದನು",
+        "ಸಮಾರ್ಯದವರನ್ನು ಮಾತ್ರ",
+        "ಅನ್ಯಜನರನ್ನು ಮಾತ್ರ"
+      ],
+      "reference": "ಯೋಹಾನ 4:7-26 — ಯೇಸು ಸಮಾರ್ಯದ ಸ್ತ್ರೀಯನ್ನು ಸ್ವೀಕರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recP3WRbio9o5W2lr",
+    "en": {
+      "question": "Did Jesus know beforehand that he would be seized and killed in Jerusalem?",
+      "options": [
+        "No, he was taken by surprise",
+        "Yes, he knew and told his disciples",
+        "He only suspected it",
+        "Only John knew"
+      ],
+      "reference": "Matthew 20:18-19 — the Son of Man will be handed over."
+    },
+    "kn": {
+      "question": "ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ತಾನು ಹಿಡಿಯಲ್ಪಟ್ಟು ಕೊಲ್ಲಲ್ಪಡುತ್ತೇನೆಂದು ಯೇಸುವಿಗೆ ಮೊದಲೇ ತಿಳಿದಿತ್ತೇ?",
+      "options": [
+        "ಇಲ್ಲ, ಆಶ್ಚರ್ಯಪಟ್ಟನು",
+        "ಹೌದು, ತಿಳಿದು ಶಿಷ್ಯರಿಗೆ ಹೇಳಿದನು",
+        "ಕೇವಲ ಸಂಶಯಪಟ್ಟನು",
+        "ಯೋಹಾನನಿಗೆ ಮಾತ್ರ ತಿಳಿದಿತ್ತು"
+      ],
+      "reference": "ಮತ್ತಾಯ 20:18-19 — ಮನುಷ್ಯಕುಮಾರನು ಒಪ್ಪಿಸಲ್ಪಡುವನು."
+    }
+  },
+  {
+    "id": "recPIjL14doHVvaFA",
+    "en": {
+      "question": "What happened to Saul on the road to Damascus?",
+      "options": [
+        "He had a life-changing encounter with Jesus",
+        "He was arrested by Roman soldiers",
+        "He met Peter for the first time",
+        "He was caught in a shipwreck"
+      ],
+      "reference": "Acts 9:3-6 — a light from heaven flashed around him."
+    },
+    "kn": {
+      "question": "ದಮಸ್ಕ ಮಾರ್ಗದಲ್ಲಿ ಸೌಲನಿಗೆ ಏನಾಯಿತು?",
+      "options": [
+        "ಯೇಸುವಿನೊಂದಿಗೆ ಜೀವಿತವನ್ನೇ ಬದಲಿಸುವ ಅನುಭವ ಆಯಿತು",
+        "ರೋಮ್ ಸೈನಿಕರಿಂದ ಬಂಧಿಸಲ್ಪಟ್ಟನು",
+        "ಮೊದಲ ಬಾರಿಗೆ ಪೇತ್ರನನ್ನು ಸಂಧಿಸಿದನು",
+        "ಹಡಗು ಅಪಘಾತದಲ್ಲಿ ಸಿಲುಕಿದನು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 9:3-6 — ಆಕಾಶದಿಂದ ಬೆಳಕು ಅವನ ಸುತ್ತಲೂ ಹೊಳೆಯಿತು."
+    }
+  },
+  {
+    "id": "recPqhlkOmSiU3LdJ",
+    "en": {
+      "question": "Who was the first king of Israel?",
+      "options": [
+        "David",
+        "Saul",
+        "Solomon",
+        "Samuel"
+      ],
+      "reference": "1 Samuel 10:1 — Samuel anointed Saul as king."
+    },
+    "kn": {
+      "question": "ಇಸ್ರಾಯೇಲಿನ ಮೊದಲ ಅರಸ ಯಾರು?",
+      "options": [
+        "ದಾವೀದ",
+        "ಸೌಲ",
+        "ಸೊಲೊಮೋನ",
+        "ಸಮುವೇಲ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 10:1 — ಸಮುವೇಲನು ಸೌಲನನ್ನು ಅರಸನಾಗಿ ಅಭಿಷೇಕಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recPtWGKJ2KudSXnf",
+    "en": {
+      "question": "What two things did Jesus do to raise Lazarus?",
+      "options": [
+        "He prayed, and then called Lazarus to come out",
+        "He touched his hand and sang a hymn",
+        "He anointed him with oil and left",
+        "He wept and walked away"
+      ],
+      "reference": "John 11:41-43 — Jesus prayed, then cried out, Lazarus, come out."
+    },
+    "kn": {
+      "question": "ಲಾಜರನನ್ನು ಬದುಕಿಸಲು ಯೇಸು ಮಾಡಿದ ಎರಡು ಕಾರ್ಯಗಳು ಯಾವುವು?",
+      "options": [
+        "ಪ್ರಾರ್ಥಿಸಿ ನಂತರ ಲಾಜರನೇ ಹೊರಗೆ ಬಾ ಎಂದನು",
+        "ಕೈಮುಟ್ಟಿ ಕೀರ್ತನೆ ಹಾಡಿದನು",
+        "ಎಣ್ಣೆಯಿಂದ ಅಭಿಷೇಕಿಸಿ ಹೊರಟುಹೋದನು",
+        "ಕಣ್ಣೀರು ಸುರಿಸಿ ನಡೆದುಹೋದನು"
+      ],
+      "reference": "ಯೋಹಾನ 11:41-43 — ಯೇಸು ಪ್ರಾರ್ಥಿಸಿ, ಲಾಜರನೇ ಹೊರಗೆ ಬಾ ಎಂದು ಕೂಗಿದನು."
+    }
+  },
+  {
+    "id": "recPuDRZEDsXpYdIv",
+    "en": {
+      "question": "Who was the king Samuel anointed after Saul?",
+      "options": [
+        "Jonathan",
+        "David",
+        "Solomon",
+        "Ish-Bosheth"
+      ],
+      "reference": "1 Samuel 16:13 — Samuel anointed David."
+    },
+    "kn": {
+      "question": "ಸೌಲನ ನಂತರ ಸಮುವೇಲನು ಅಭಿಷೇಕಿಸಿದ ಅರಸ ಯಾರು?",
+      "options": [
+        "ಯೋನಾತಾನ",
+        "ದಾವೀದ",
+        "ಸೊಲೊಮೋನ",
+        "ಈಷ್ಬೋಶೆತ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 16:13 — ಸಮುವೇಲನು ದಾವೀದನನ್ನು ಅಭಿಷೇಕಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recQfsOxTs0mY3XiM",
+    "en": {
+      "question": "Which book did Jesus personally write?",
+      "options": [
+        "Matthew",
+        "Revelation",
+        "John",
+        "None"
+      ],
+      "reference": "Jesus did not personally write any book; others wrote his words."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಸ್ವತಃ ಬರೆದ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": [
+        "ಮತ್ತಾಯ",
+        "ಪ್ರಕಟನೆ ಗ್ರಂಥ",
+        "ಯೋಹಾನ",
+        "ಯಾವುದೂ ಇಲ್ಲ"
+      ],
+      "reference": "ಯೇಸು ಯಾವ ಗ್ರಂಥವನ್ನೂ ಸ್ವತಃ ಬರೆಯಲಿಲ್ಲ; ಇತರರು ಆತನ ಮಾತುಗಳನ್ನು ಬರೆದರು."
+    }
+  },
+  {
+    "id": "recQqZwfkVf0pHkaB",
+    "en": {
+      "question": "Whom did the servant choose for Isaac?",
+      "options": [
+        "Rachel",
+        "Leah",
+        "Rebekah",
+        "Dinah"
+      ],
+      "reference": "Genesis 24:15 — Rebekah came out with her water jar."
+    },
+    "kn": {
+      "question": "ಇಸಾಕನಿಗಾಗಿ ಸೇವಕನು ಯಾರನ್ನು ಆರಿಸಿದನು?",
+      "options": [
+        "ರಾಹೇಲಳು",
+        "ಲೇಯಳು",
+        "ರೆಬೆಕ್ಕಳು",
+        "ದೀನಳು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 24:15 — ರೆಬೆಕ್ಕಳು ನೀರಿನ ಕೊಡದೊಂದಿಗೆ ಬಂದಳು."
+    }
+  },
+  {
+    "id": "recQxFjvhAOOeLprq",
+    "en": {
+      "question": "How many days had Lazarus been dead before Jesus arrived?",
+      "options": [
+        "One day",
+        "Two days",
+        "Four days",
+        "Seven days"
+      ],
+      "reference": "John 11:17 — Lazarus had been in the tomb four days."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಬರುವ ಮೊದಲು ಲಾಜರನು ಎಷ್ಟು ದಿನಗಳಿಂದ ಸತ್ತಿದ್ದನು?",
+      "options": [
+        "ಒಂದು ದಿನ",
+        "ಎರಡು ದಿನಗಳು",
+        "ನಾಲ್ಕು ದಿನಗಳು",
+        "ಏಳು ದಿನಗಳು"
+      ],
+      "reference": "ಯೋಹಾನ 11:17 — ಲಾಜರನು ನಾಲ್ಕು ದಿನಗಳಿಂದ ಸಮಾಧಿಯಲ್ಲಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recRRfXdzYkLORcwS",
+    "en": {
+      "question": "Which books did Solomon write?",
+      "options": [
+        "Song of Solomon, Proverbs, some Psalms",
+        "Genesis and Exodus",
+        "Isaiah and Jeremiah",
+        "Ruth and Esther"
+      ],
+      "reference": "Solomon is credited with writing Proverbs, Ecclesiastes, and the Song of Solomon."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನು ಯಾವ ಗ್ರಂಥಗಳನ್ನು ಬರೆದನು?",
+      "options": [
+        "ಪರಮಗೀತ, ಜ್ಞಾನೋಕ್ತಿಗಳು, ಕೆಲವು ಕೀರ್ತನೆಗಳು",
+        "ಆದಿಕಾಂಡ ವಿಮೋಚನಕಾಂಡ",
+        "ಯೆಶಾಯ ಯೆರೆಮೀಯ",
+        "ರೂತಳು ಎಸ್ತೇರಳು"
+      ],
+      "reference": "ಸೊಲೊಮೋನನು ಜ್ಞಾನೋಕ್ತಿಗಳು, ಪ್ರಸಂಗಿ, ಪರಮಗೀತವನ್ನು ಬರೆದನೆಂದು ಆರೋಪಿಸಲಾಗಿದೆ."
+    }
+  },
+  {
+    "id": "recRZYGco9ToxUoCp",
+    "en": {
+      "question": "What is the preamble or introduction to the Ten Commandments?",
+      "options": [
+        "I am the Lord your God who brought you out of Egypt",
+        "Honor your father and mother",
+        "Love the Lord your God",
+        "You shall have no other gods before me"
+      ],
+      "reference": "Exodus 20:2 — I am the Lord your God, who brought you out of Egypt."
+    },
+    "kn": {
+      "question": "ಹತ್ತು ಆಜ್ಞೆಗಳಿಗೆ ಪೀಠಿಕೆ ಅಥವಾ ಪರಿಚಯ ಏನು?",
+      "options": [
+        "ನಿನ್ನನ್ನು ಐಗುಪ್ತದಿಂದ ಬಿಡಿಸಿ ತಂದ ಯೆಹೋವನೇ ನಿನ್ನ ದೇವರು",
+        "ನಿನ್ನ ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸು",
+        "ನಿನ್ನ ದೇವರಾದ ಯೆಹೋವನನ್ನು ಪ್ರೀತಿಸು",
+        "ನನ್ನ ಮುಂದೆ ಬೇರೆ ದೇವರುಗಳು ನಿನಗೆ ಇರಬಾರದು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:2 — ನಿನ್ನನ್ನು ಐಗುಪ್ತ ದೇಶದಿಂದ ಬಿಡಿಸಿ ತಂದ ಯೆಹೋವನು ನಾನೇ."
+    }
+  },
+  {
+    "id": "recRkTSTXaqW3w6go",
+    "en": {
+      "question": "Which New Testament book was likely written last?",
+      "options": [
+        "Revelation",
+        "Jude",
+        "2 Peter",
+        "3 John"
+      ],
+      "reference": "Revelation is generally considered to be the last New Testament book written."
+    },
+    "kn": {
+      "question": "ಕೊನೆಯದಾಗಿ ಬರೆಯಲ್ಪಟ್ಟ ಹೊಸ ಒಡಂಬಡಿಕೆಯ ಗ್ರಂಥ ಯಾವುದಾಗಿರಬಹುದು?",
+      "options": [
+        "ಪ್ರಕಟನೆ ಗ್ರಂಥ",
+        "ಯೂದ",
+        "2 ಪೇತ್ರ",
+        "3 ಯೋಹಾನ"
+      ],
+      "reference": "ಪ್ರಕಟನೆ ಗ್ರಂಥವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕೊನೆಯ ಹೊಸ ಒಡಂಬಡಿಕೆಯ ಗ್ರಂಥವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "recRtaMfRl1mGpDOt",
+    "en": {
+      "question": "Which book did David write most of?",
+      "options": [
+        "Proverbs",
+        "The book of Psalms",
+        "Song of Solomon",
+        "Ecclesiastes"
+      ],
+      "reference": "Many Psalms are credited to David."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಯಾವ ಗ್ರಂಥದ ಹೆಚ್ಚಿನ ಭಾಗವನ್ನು ಬರೆದನು?",
+      "options": [
+        "ಜ್ಞಾನೋಕ್ತಿಗಳು",
+        "ಕೀರ್ತನೆಗಳ ಗ್ರಂಥ",
+        "ಪರಮಗೀತ",
+        "ಪ್ರಸಂಗಿ"
+      ],
+      "reference": "ಅನೇಕ ಕೀರ್ತನೆಗಳು ದಾವೀದನಿಗೆ ಆರೋಪಿಸಲ್ಪಟ್ಟಿವೆ."
+    }
+  },
+  {
+    "id": "recS04DelGGINptai",
+    "en": {
+      "question": "What was Matthew's occupation before he followed Jesus?",
+      "options": [
+        "Tax collector",
+        "Fisherman",
+        "Shepherd",
+        "Pharisee"
+      ],
+      "reference": "Matthew 9:9 — Matthew was sitting at the tax collector's booth."
+    },
+    "kn": {
+      "question": "ಯೇಸುವನ್ನು ಹಿಂಬಾಲಿಸುವ ಮೊದಲು ಮತ್ತಾಯನ ವೃತ್ತಿ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಸುಂಕವಸೂಲಿಗಾರ",
+        "ಬೆಸ್ತ",
+        "ಕುರುಬ",
+        "ಫರಿಸಾಯ"
+      ],
+      "reference": "ಮತ್ತಾಯ 9:9 — ಮತ್ತಾಯನು ಸುಂಕದ ಕಟ್ಟೆಯಲ್ಲಿ ಕುಳಿತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recS7k9yy5fE3K7rH",
+    "en": {
+      "question": "What position of authority did Pharaoh give Joseph?",
+      "options": [
+        "Chief priest",
+        "Second-in-command over Egypt",
+        "Army commander",
+        "Governor of Goshen only"
+      ],
+      "reference": "Genesis 41:40 — you shall be over my house."
+    },
+    "kn": {
+      "question": "ಫರೋಹನು ಯೋಸೇಫನಿಗೆ ಯಾವ ಅಧಿಕಾರ ಸ್ಥಾನ ಕೊಟ್ಟನು?",
+      "options": [
+        "ಪ್ರಧಾನ ಯಾಜಕ",
+        "ಐಗುಪ್ತದ ಎರಡನೆಯ ಅಧಿಕಾರಿ",
+        "ಸೇನಾಧಿಪತಿ",
+        "ಗೋಷೆನ್ ಪ್ರಾಂತ್ಯದ ಗವರ್ನರ್ ಮಾತ್ರ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 41:40 — ನನ್ನ ಮನೆಯ ಮೇಲೆ ನೀನು ಅಧಿಕಾರಿಯಾಗಿರುವಿ."
+    }
+  },
+  {
+    "id": "recSA807GvAtLMvfu",
+    "en": {
+      "question": "How many days did it rain during the flood?",
+      "options": [
+        "7",
+        "40",
+        "100",
+        "3"
+      ],
+      "reference": "Genesis 7:12 — rain fell on the earth forty days and forty nights."
+    },
+    "kn": {
+      "question": "ಜಲಪ್ರಳಯದ ಸಮಯದಲ್ಲಿ ಎಷ್ಟು ದಿನಗಳು ಮಳೆ ಸುರಿಯಿತು?",
+      "options": [
+        "7",
+        "40",
+        "100",
+        "3"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 7:12 — ನಲುವತ್ತು ಹಗಲು ನಲುವತ್ತು ರಾತ್ರಿ ಮಳೆ ಸುರಿಯಿತು."
+    }
+  },
+  {
+    "id": "recSOOrpTGF5RAcLA",
+    "en": {
+      "question": "Even though Abram and Sarai were old, what did God promise them?",
+      "options": [
+        "A son",
+        "A kingdom",
+        "A city",
+        "Great wealth"
+      ],
+      "reference": "Genesis 18:10 — your wife Sarah will have a son."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಾಮ ಸಾರಯಿ ವೃದ್ಧರಾಗಿದ್ದರೂ ದೇವರು ಅವರಿಗೆ ಏನು ವಾಗ್ದಾನ ಮಾಡಿದನು?",
+      "options": [
+        "ಒಬ್ಬ ಮಗ",
+        "ಒಂದು ರಾಜ್ಯ",
+        "ಒಂದು ಪಟ್ಟಣ",
+        "ಮಹಾ ಐಶ್ವರ್ಯ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 18:10 — ನಿನ್ನ ಹೆಂಡತಿ ಸಾರಳಿಗೆ ಮಗನಾಗುವನು."
+    }
+  },
+  {
+    "id": "recSR4xvleJmnciR2",
+    "en": {
+      "question": "Which son of Saul became David's friend?",
+      "options": [
+        "Jonathan",
+        "Ish-Bosheth",
+        "Abner",
+        "Mephibosheth"
+      ],
+      "reference": "1 Samuel 18:1 — Jonathan loved David as himself."
+    },
+    "kn": {
+      "question": "ದಾವೀದನೊಂದಿಗೆ ಸ್ನೇಹ ಬೆಳೆಸಿದ ಸೌಲನ ಮಗ ಯಾರು?",
+      "options": [
+        "ಯೋನಾತಾನ",
+        "ಈಷ್ಬೋಶೆತ",
+        "ಅಬ್ನೇರ",
+        "ಮೆಫೀಬೋಶೆತ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 18:1 — ಯೋನಾತಾನನು ದಾವೀದನನ್ನು ತನ್ನ ಪ್ರಾಣದಂತೆ ಪ್ರೀತಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recSRr8OhB3cBlkuV",
+    "en": {
+      "question": "Who killed Absalom?",
+      "options": [
+        "Joab",
+        "David",
+        "Ahithophel",
+        "Amasa"
+      ],
+      "reference": "2 Samuel 18:14-15 — Joab struck Absalom down."
+    },
+    "kn": {
+      "question": "ಅಬ್ಷಾಲೋಮನನ್ನು ಯಾರು ಕೊಂದರು?",
+      "options": [
+        "ಯೋವಾಬ",
+        "ದಾವೀದ",
+        "ಅಹೀತೋಫೆಲ",
+        "ಅಮಾಸ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 18:14-15 — ಯೋವಾಬನು ಅಬ್ಷಾಲೋಮನನ್ನು ಹೊಡೆದನು."
+    }
+  },
+  {
+    "id": "recSWsqySXdN4N5PH",
+    "en": {
+      "question": "Who was Abraham's second son?",
+      "options": [
+        "Ishmael",
+        "Isaac",
+        "Esau",
+        "Jacob"
+      ],
+      "reference": "Genesis 21:2-3 — Sarah bore Abraham a son, Isaac."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಹಾಮನಿಗೆ ಹುಟ್ಟಿದ ಎರಡನೆಯ ಮಗ ಯಾರು?",
+      "options": [
+        "ಇಷ್ಮಾಯೇಲ",
+        "ಇಸಾಕ",
+        "ಏಸಾವ",
+        "ಯಾಕೋಬ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 21:2-3 — ಸಾರಳು ಅಬ್ರಹಾಮನಿಗೆ ಇಸಾಕನನ್ನು ಹೆತ್ತಳು."
+    }
+  },
+  {
+    "id": "recSzSQ9hYJziGTLS",
+    "en": {
+      "question": "Which capital did David flee when Absalom's rebellion drew near?",
+      "options": [
+        "Jerusalem",
+        "Hebron",
+        "Bethlehem",
+        "Gibeah"
+      ],
+      "reference": "2 Samuel 15:14 — David fled from Jerusalem."
+    },
+    "kn": {
+      "question": "ಅಬ್ಷಾಲೋಮನ ದಂಗೆ ಸಮೀಪಿಸಿದಾಗ ದಾವೀದನು ಯಾವ ರಾಜಧಾನಿಯನ್ನು ಬಿಟ್ಟುಹೋದನು?",
+      "options": [
+        "ಯೆರೂಸಲೇಮ",
+        "ಹೆಬ್ರೋನ",
+        "ಬೇತ್ಲೆಹೇಮ್",
+        "ಗಿಬೆಯ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 15:14 — ದಾವೀದನು ಯೆರೂಸಲೇಮಿನಿಂದ ಓಡಿಹೋದನು."
+    }
+  },
+  {
+    "id": "recT1HAGtWUpNT86R",
+    "en": {
+      "question": "Was Jesus an only child?",
+      "options": [
+        "Yes, an only child",
+        "No, he had brothers and sisters",
+        "He only had sisters",
+        "He only had brothers"
+      ],
+      "reference": "Mark 6:3 — isn't this the brother of James and Joses?"
+    },
+    "kn": {
+      "question": "ಯೇಸು ಒಬ್ಬನೇ ಮಗುವಾಗಿದ್ದನೇ?",
+      "options": [
+        "ಹೌದು, ಒಬ್ಬನೇ ಮಗು",
+        "ಇಲ್ಲ, ಸಹೋದರರೂ ಸಹೋದರಿಯರೂ ಇದ್ದರು",
+        "ಸಹೋದರಿಯರು ಮಾತ್ರ ಇದ್ದರು",
+        "ಸಹೋದರರು ಮಾತ್ರ ಇದ್ದರು"
+      ],
+      "reference": "ಮಾರ್ಕ 6:3 — ಇವನು ಯಾಕೋಬ ಯೋಸೆಯರ ಸಹೋದರನಲ್ಲವೇ."
+    }
+  },
+  {
+    "id": "recTDfvaRQXAYUqWb",
+    "en": {
+      "question": "Where is the fruit of the Spirit found in the Bible?",
+      "options": [
+        "Galatians 5",
+        "Romans 8",
+        "1 Corinthians 13",
+        "Ephesians 5"
+      ],
+      "reference": "Galatians 5:22-23."
+    },
+    "kn": {
+      "question": "ಆತ್ಮನ ಫಲ ಬೈಬಲಿನಲ್ಲಿ ಎಲ್ಲಿ ಇದೆ?",
+      "options": [
+        "ಗಲಾತ್ಯದವರಿಗೆ 5",
+        "ರೋಮಾಪುರದವರಿಗೆ 8",
+        "1 ಕೊರಿಂಥದವರಿಗೆ 13",
+        "ಎಫೆಸದವರಿಗೆ 5"
+      ],
+      "reference": "ಗಲಾತ್ಯದವರಿಗೆ 5:22-23."
+    }
+  },
+  {
+    "id": "recTfATJffLpbOHdJ",
+    "en": {
+      "question": "Which Gospel was likely written first?",
+      "options": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "reference": "Most scholars believe Mark was the first Gospel written."
+    },
+    "kn": {
+      "question": "ಮೊದಲು ಬರೆಯಲ್ಪಟ್ಟ ಸುವಾರ್ತೆ ಗ್ರಂಥ ಯಾವುದಾಗಿರಬಹುದು?",
+      "options": [
+        "ಮತ್ತಾಯ",
+        "ಮಾರ್ಕ",
+        "ಲೂಕ",
+        "ಯೋಹಾನ"
+      ],
+      "reference": "ಹೆಚ್ಚಿನ ವಿದ್ವಾಂಸರ ಅಭಿಪ್ರಾಯದಲ್ಲಿ ಮಾರ್ಕನೇ ಮೊದಲ ಸುವಾರ್ತೆ."
+    }
+  },
+  {
+    "id": "recTg8FZD0zwsCi9z",
+    "en": {
+      "question": "Who received the Ten Commandments from God?",
+      "options": [
+        "Moses",
+        "Aaron",
+        "Joshua",
+        "Abraham"
+      ],
+      "reference": "Exodus 20:1; 31:18 — God gave Moses the tablets."
+    },
+    "kn": {
+      "question": "ಹತ್ತು ಆಜ್ಞೆಗಳನ್ನು ದೇವರಿಂದ ಯಾರು ಪಡೆದರು?",
+      "options": [
+        "ಮೋಶೆ",
+        "ಆರೋನ",
+        "ಯೆಹೋಶುವ",
+        "ಅಬ್ರಹಾಮ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:1; 31:18 — ದೇವರು ಮೋಶೆಗೆ ಹಲಗೆಗಳನ್ನು ಕೊಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recTmj43nD2YgIqKx",
+    "en": {
+      "question": "What happened to the idol next to the ark of the covenant?",
+      "options": [
+        "It fell and broke apart",
+        "It vanished",
+        "It began to speak",
+        "It turned to gold"
+      ],
+      "reference": "1 Samuel 5:3-4 — Dagon had fallen face down before the ark."
+    },
+    "kn": {
+      "question": "ಒಡಂಬಡಿಕೆಯ ಮಂಜೂಷದ ಪಕ್ಕದಲ್ಲಿದ್ದ ವಿಗ್ರಹಕ್ಕೆ ಏನಾಯಿತು?",
+      "options": [
+        "ಬಿದ್ದು ಒಡೆದುಹೋಯಿತು",
+        "ಮಾಯವಾಯಿತು",
+        "ಮಾತನಾಡತೊಡಗಿತು",
+        "ಚಿನ್ನವಾಗಿ ಮಾರ್ಪಟ್ಟಿತು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 5:3-4 — ದಾಗೋನನು ಮಂಜೂಷದ ಎದುರು ಬೋರಲು ಬಿದ್ದಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recTnQZIleN3E3U3E",
+    "en": {
+      "question": "What were Peter and Andrew doing when Jesus called them?",
+      "options": [
+        "Fishing",
+        "Farming",
+        "Collecting taxes",
+        "Praying in the temple"
+      ],
+      "reference": "Matthew 4:18-19 — they were casting a net into the sea."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಕರೆದಾಗ ಪೇತ್ರ ಅಂದ್ರೆಯ ಏನು ಮಾಡುತ್ತಿದ್ದರು?",
+      "options": [
+        "ಮೀನು ಹಿಡಿಯುತ್ತಿದ್ದರು",
+        "ವ್ಯವಸಾಯ ಮಾಡುತ್ತಿದ್ದರು",
+        "ಸುಂಕ ವಸೂಲಿ ಮಾಡುತ್ತಿದ್ದರು",
+        "ದೇವಾಲಯದಲ್ಲಿ ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದರು"
+      ],
+      "reference": "ಮತ್ತಾಯ 4:18-19 — ಅವರು ಸಮುದ್ರದಲ್ಲಿ ಬಲೆ ಬೀಸುತ್ತಿದ್ದರು."
+    }
+  },
+  {
+    "id": "recTrbQ6bB1sd6OYp",
+    "en": {
+      "question": "Which of the following was a brother of Jesus?",
+      "options": [
+        "James",
+        "Peter",
+        "Andrew",
+        "Thomas"
+      ],
+      "reference": "Mark 6:3 — James, Joses, Judas, and Simon."
+    },
+    "kn": {
+      "question": "ಈ ಕೆಳಗಿನವರಲ್ಲಿ ಯೇಸುವಿನ ಸಹೋದರ ಯಾರು?",
+      "options": [
+        "ಯಾಕೋಬ",
+        "ಪೇತ್ರ",
+        "ಅಂದ್ರೆಯ",
+        "ತೋಮ"
+      ],
+      "reference": "ಮಾರ್ಕ 6:3 — ಯಾಕೋಬ, ಯೋಸೆ, ಯೂದ, ಸೀಮೋನ."
+    }
+  },
+  {
+    "id": "recU9tVwJHazcLE3P",
+    "en": {
+      "question": "What did God do through Moses to rescue the slaves?",
+      "options": [
+        "He covered them with thick fog",
+        "He divided the Red Sea",
+        "He put the army to sleep",
+        "He blocked the path with fire"
+      ],
+      "reference": "Exodus 14:21 — the Lord drove the sea back with a strong wind."
+    },
+    "kn": {
+      "question": "ದಾಸರನ್ನು ರಕ್ಷಿಸಲು ದೇವರು ಮೋಶೆಯ ಮೂಲಕ ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ದಟ್ಟವಾದ ಮಂಜನ್ನು ಆವರಿಸಿದನು",
+        "ಕೆಂಪು ಸಮುದ್ರವನ್ನು ಇಬ್ಭಾಗಿಸಿದನು",
+        "ಸೈನ್ಯವನ್ನು ನಿದ್ರೆಗೆ ಒಳಪಡಿಸಿದನು",
+        "ಬೆಂಕಿಯಿಂದ ಮಾರ್ಗವನ್ನು ಮುಚ್ಚಿದನು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 14:21 — ಯೆಹೋವನು ಬಲವಾದ ಗಾಳಿಯಿಂದ ಸಮುದ್ರವನ್ನು ಹಿಂದಕ್ಕೆ ತಳ್ಳಿದನು."
+    }
+  },
+  {
+    "id": "recUOmN0HinoK77k6",
+    "en": {
+      "question": "What is the opposite of the fruit of the Spirit called?",
+      "options": [
+        "The acts of the flesh",
+        "The curse of Adam",
+        "The curse of the Law",
+        "The way of the world"
+      ],
+      "reference": "Galatians 5:19-21 — the acts of the flesh are obvious."
+    },
+    "kn": {
+      "question": "ಆತ್ಮನ ಫಲಕ್ಕೆ ವಿರುದ್ಧವಾದದ್ದನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": [
+        "ಶರೀರಭಾವದ ಕ್ರಿಯೆಗಳು",
+        "ಆದಾಮನ ಶಾಪ",
+        "ಧರ್ಮಶಾಸ್ತ್ರದ ಶಾಪ",
+        "ಲೋಕದ ಮಾರ್ಗ"
+      ],
+      "reference": "ಗಲಾತ್ಯದವರಿಗೆ 5:19-21 — ಶರೀರಭಾವದ ಕ್ರಿಯೆಗಳು ಸ್ಪಷ್ಟವಾಗಿ ಕಾಣುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "recUVK2zIVLFU0cPA",
+    "en": {
+      "question": "Which book has sold the most copies?",
+      "options": [
+        "The Bible",
+        "Don Quixote",
+        "A Tale of Two Cities",
+        "The Quran"
+      ],
+      "reference": "The Bible is the best-selling book in history."
+    },
+    "kn": {
+      "question": "ಅತಿ ಹೆಚ್ಚು ಪ್ರತಿಗಳು ಮಾರಾಟವಾದ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": [
+        "ಬೈಬಲ್",
+        "ಡಾನ್ ಕ್ವಿಕ್ಸೋಟ್",
+        "ಎ ಟೇಲ್ ಆಫ್ ಟು ಸಿಟೀಸ್",
+        "ಖುರಾನ್"
+      ],
+      "reference": "ಬೈಬಲ್ ಚರಿತ್ರೆಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಮಾರಾಟವಾದ ಗ್ರಂಥ."
+    }
+  },
+  {
+    "id": "recUrS8UEor6RYc3E",
+    "en": {
+      "question": "What happened to the kingdom after Solomon's reign?",
+      "options": [
+        "It split into two",
+        "It expanded further",
+        "It was destroyed",
+        "It remained united"
+      ],
+      "reference": "1 Kings 12:16-20 — the kingdom divided into Israel and Judah."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನ ಆಳ್ವಿಕೆಯ ನಂತರ ರಾಜ್ಯಕ್ಕೆ ಏನಾಯಿತು?",
+      "options": [
+        "ಎರಡಾಗಿ ವಿಭಜನೆಯಾಯಿತು",
+        "ಇನ್ನಷ್ಟು ವಿಸ್ತರಿಸಿತು",
+        "ನಾಶವಾಯಿತು",
+        "ಒಗ್ಗಟ್ಟಾಗಿ ಉಳಿಯಿತು"
+      ],
+      "reference": "1 ಅರಸುಗಳು 12:16-20 — ರಾಜ್ಯವು ಇಸ್ರಾಯೇಲ್ ಮತ್ತು ಯೆಹೂದ ಎಂದು ವಿಭಜನೆಯಾಯಿತು."
+    }
+  },
+  {
+    "id": "recUv6iw1cgGuNRAA",
+    "en": {
+      "question": "Who was the human mother of Jesus?",
+      "options": [
+        "Mary",
+        "Martha",
+        "Elizabeth",
+        "Anna"
+      ],
+      "reference": "Luke 1:27 — a virgin named Mary."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಮಾನವ ತಾಯಿ ಯಾರು?",
+      "options": [
+        "ಮರಿಯ",
+        "ಮಾರ್ಥ",
+        "ಎಲಿಸಬೇತ್",
+        "ಅನ್ನ"
+      ],
+      "reference": "ಲೂಕ 1:27 — ಮರಿಯ ಎಂಬ ಕನ್ನಿಕೆ."
+    }
+  },
+  {
+    "id": "recV91gWVivf2904w",
+    "en": {
+      "question": "According to Jesus, does saying many words make a prayer better?",
+      "options": [
+        "Yes, longer prayers are more fruitful",
+        "No — our Father already knows what we need before we ask",
+        "Only prayers in the temple should be long",
+        "This only applies to public prayers"
+      ],
+      "reference": "Matthew 6:7-8 — your Father knows what you need before you ask him."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಪ್ರಕಾರ, ಹೆಚ್ಚು ಮಾತುಗಳನ್ನು ಆಡುವುದು ಪ್ರಾರ್ಥನೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸುತ್ತದೆಯೇ?",
+      "options": [
+        "ಹೌದು, ಉದ್ದವಾದ ಪ್ರಾರ್ಥನೆಗಳು ಹೆಚ್ಚು ಫಲದಾಯಕ",
+        "ಇಲ್ಲ — ನಮಗೆ ಬೇಕಾದದ್ದು ದೇವರಿಗೆ ಮೊದಲೇ ತಿಳಿದಿದೆ",
+        "ದೇವಾಲಯದ ಪ್ರಾರ್ಥನೆಗಳು ಮಾತ್ರ ಉದ್ದವಾಗಿರಬೇಕು",
+        "ಇದು ಬಹಿರಂಗ ಪ್ರಾರ್ಥನೆಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:7-8 — ನೀವು ಕೇಳುವ ಮೊದಲೇ ನಿಮ್ಮ ತಂದೆಗೆ ನಿಮ್ಮ ಅಗತ್ಯಗಳು ತಿಳಿದಿವೆ."
+    }
+  },
+  {
+    "id": "recVk5HhDo7vidXGW",
+    "en": {
+      "question": "What was Paul's ultimate goal in his missionary journeys?",
+      "options": [
+        "To preach the gospel everywhere, ultimately reaching Rome",
+        "To settle permanently in Jerusalem",
+        "To build one large church",
+        "To reform Jewish law"
+      ],
+      "reference": "Acts 19:21; Romans 1:15 — Paul longed to preach in Rome."
+    },
+    "kn": {
+      "question": "ಪೌಲನ ಮಿಷನರಿ ಪ್ರಯಾಣಗಳ ಅಂತಿಮ ಗುರಿ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಸುವಾರ್ತೆಯನ್ನು ಎಲ್ಲೆಡೆ ಸಾರಿ, ಕೊನೆಗೆ ರೋಮಾದಲ್ಲಿ ಸಾರುವುದು",
+        "ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಶಾಶ್ವತವಾಗಿ ನೆಲೆಸುವುದು",
+        "ಒಂದೇ ದೊಡ್ಡ ಸಭೆಯನ್ನು ಕಟ್ಟುವುದು",
+        "ಯೆಹೂದ್ಯರ ಧರ್ಮಶಾಸ್ತ್ರವನ್ನು ಸುಧಾರಿಸುವುದು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 19:21; ರೋಮಾಪುರದವರಿಗೆ 1:15 — ಪೌಲನು ರೋಮಾದಲ್ಲಿ ಸಾರಲು ಬಯಸಿದನು."
+    }
+  },
+  {
+    "id": "recVrCNLadz5rt30G",
+    "en": {
+      "question": "Was Jesus always soft-spoken in the temple?",
+      "options": [
+        "Yes, always gentle",
+        "No — he drove out the money changers",
+        "He never went to the temple",
+        "He only whispered there"
+      ],
+      "reference": "Matthew 21:12 — Jesus drove out those who bought and sold."
+    },
+    "kn": {
+      "question": "ದೇವಾಲಯದಲ್ಲಿ ಯೇಸು ಯಾವಾಗಲೂ ಮೃದುವಾದ ಧ್ವನಿಯಲ್ಲಿ ಇರುತ್ತಿದ್ದನೇ?",
+      "options": [
+        "ಹೌದು, ಯಾವಾಗಲೂ ಮೃದುವಾಗಿ ಇರುತ್ತಿದ್ದನು",
+        "ಇಲ್ಲ — ರೂಕ ಬದಲಾಯಿಸುವವರನ್ನು ಹೊರಗಟ್ಟಿದನು",
+        "ದೇವಾಲಯಕ್ಕೆ ಎಂದೂ ಹೋಗಲಿಲ್ಲ",
+        "ಅಲ್ಲಿ ಮಾತ್ರ ಪಿಸುಮಾತಿನಲ್ಲಿ ಮಾತನಾಡುತ್ತಿದ್ದನು"
+      ],
+      "reference": "ಮತ್ತಾಯ 21:12 — ಯೇಸು ಮಾರುವವರನ್ನೂ ಕೊಳ್ಳುವವರನ್ನೂ ಹೊರಗಟ್ಟಿದನು."
+    }
+  },
+  {
+    "id": "recVxifVJvFhn6hsC",
+    "en": {
+      "question": "What happened to Absalom's hair when the two armies fought?",
+      "options": [
+        "It got caught in a tree",
+        "It was cut off in shame",
+        "It turned white",
+        "Nothing happened"
+      ],
+      "reference": "2 Samuel 18:9 — his head got caught fast in the terebinth tree."
+    },
+    "kn": {
+      "question": "ಎರಡು ಸೈನ್ಯಗಳು ಹೋರಾಡಿದಾಗ ಅಬ್ಷಾಲೋಮನ ಕೂದಲಿಗೆ ಏನಾಯಿತು?",
+      "options": [
+        "ಮರಕ್ಕೆ ಸಿಕ್ಕಿಕೊಂಡಿತು",
+        "ಅವಮಾನದಿಂದ ಕತ್ತರಿಸಲ್ಪಟ್ಟಿತು",
+        "ಬಿಳಿಯಾಯಿತು",
+        "ಏನೂ ಆಗಲಿಲ್ಲ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 18:9 — ಅವನ ತಲೆ ಮರದ ಕೊಂಬೆಗೆ ಸಿಕ್ಕಿಕೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "recW3EOL7BpfT3uBE",
+    "en": {
+      "question": "What courageous act did Esther take to speak with the king?",
+      "options": [
+        "She approached the king without being summoned",
+        "She sent a letter through Mordecai",
+        "She disguised herself as a servant",
+        "She refused to attend the banquet"
+      ],
+      "reference": "Esther 4:16; 5:1-2 — Esther went to the king without being called."
+    },
+    "kn": {
+      "question": "ಅರಸನೊಂದಿಗೆ ಮಾತನಾಡಲು ಎಸ್ತೇರಳು ಮಾಡಿದ ಧೈರ್ಯದ ಕಾರ್ಯ ಏನು?",
+      "options": [
+        "ಕರೆಯದೆಯೇ ಅರಸನ ಬಳಿಗೆ ಹೋದಳು",
+        "ಮೊರ್ದೆಕೈಯ ಮೂಲಕ ಪತ್ರ ಕಳುಹಿಸಿದಳು",
+        "ದಾಸಿಯಂತೆ ವೇಷ ಹಾಕಿದಳು",
+        "ಔತಣಕ್ಕೆ ಹಾಜರಾಗಲಿಲ್ಲ"
+      ],
+      "reference": "ಎಸ್ತೇರಳು 4:16; 5:1-2 — ಎಸ್ತೇರಳು ಕರೆಯದೆಯೇ ಅರಸನ ಬಳಿಗೆ ಹೋದಳು."
+    }
+  },
+  {
+    "id": "recWBx5eZsChPCiDg",
+    "en": {
+      "question": "When Bathsheba became pregnant, what did David arrange for Uriah?",
+      "options": [
+        "He sent him home",
+        "He had him killed in battle",
+        "He banished him",
+        "He gave him a promotion"
+      ],
+      "reference": "2 Samuel 11:15 — David put Uriah in the front line to die."
+    },
+    "kn": {
+      "question": "ಬತ್ಷೆಬೆ ಗರ್ಭಿಣಿಯಾದಾಗ ದಾವೀದನು ಊರೀಯನಿಗೆ ಏನು ಮಾಡಿಸಿದನು?",
+      "options": [
+        "ಮನೆಗೆ ಕಳುಹಿಸಿದನು",
+        "ಯುದ್ಧದಲ್ಲಿ ಸಾಯುವಂತೆ ಮಾಡಿದನು",
+        "ಬಹಿಷ್ಕರಿಸಿದನು",
+        "ಹುದ್ದೆ ಹೆಚ್ಚಿಸಿದನು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 11:15 — ಊರೀಯನನ್ನು ಮುಂದಿನ ಸಾಲಿನಲ್ಲಿ ಇಟ್ಟು ಸಾಯುವಂತೆ ಮಾಡಿದನು."
+    }
+  },
+  {
+    "id": "recWILVshF0WRPskO",
+    "en": {
+      "question": "What work did David do for his father?",
+      "options": [
+        "Farmer",
+        "Shepherd",
+        "Carpenter",
+        "Soldier"
+      ],
+      "reference": "1 Samuel 16:11 — David was tending the sheep."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ತನ್ನ ತಂದೆಗಾಗಿ ಏನು ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು?",
+      "options": [
+        "ರೈತನಾಗಿ",
+        "ಕುರಿ ಕಾಯುವವನಾಗಿ",
+        "ಬಡಗಿಯಾಗಿ",
+        "ಸೈನಿಕನಾಗಿ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 16:11 — ದಾವೀದನು ಕುರಿಗಳನ್ನು ಮೇಯಿಸುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recWWiE7TLzuiuNbJ",
+    "en": {
+      "question": "How many kings did the kingdom of Israel have?",
+      "options": [
+        "12",
+        "19",
+        "20",
+        "24"
+      ],
+      "reference": "The books of Kings record 19 kings of Israel."
+    },
+    "kn": {
+      "question": "ಇಸ್ರಾಯೇಲ್ ರಾಜ್ಯಕ್ಕೆ ಎಷ್ಟು ಮಂದಿ ಅರಸರು ಇದ್ದರು?",
+      "options": [
+        "12",
+        "19",
+        "20",
+        "24"
+      ],
+      "reference": "ಅರಸುಗಳ ಗ್ರಂಥಗಳು ಇಸ್ರಾಯೇಲಿಗೆ 19 ಅರಸರನ್ನು ತಿಳಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "recWcwzsItrnrCIsN",
+    "en": {
+      "question": "Which prophet came to confront David?",
+      "options": [
+        "Nathan",
+        "Gad",
+        "Samuel",
+        "Elijah"
+      ],
+      "reference": "2 Samuel 12:1 — the Lord sent Nathan to David."
+    },
+    "kn": {
+      "question": "ದಾವೀದನನ್ನು ಗದರಿಸಲು ಬಂದ ಪ್ರವಾದಿ ಯಾರು?",
+      "options": [
+        "ನಾತಾನ",
+        "ಗಾದ",
+        "ಸಮುವೇಲ",
+        "ಎಲೀಯ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 12:1 — ಯೆಹೋವನು ನಾತಾನನನ್ನು ದಾವೀದನ ಬಳಿಗೆ ಕಳುಹಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recWzbxFDJhxghg4N",
+    "en": {
+      "question": "What is the 10th commandment?",
+      "options": [
+        "Do not steal",
+        "Do not murder",
+        "Do not covet",
+        "Do not commit adultery"
+      ],
+      "reference": "Exodus 20:17."
+    },
+    "kn": {
+      "question": "10ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕದಿಯಬೇಡ",
+        "ಕೊಲೆ ಮಾಡಬೇಡ",
+        "ಆಶಿಸಬೇಡ",
+        "ವ್ಯಭಿಚಾರ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:17."
+    }
+  },
+  {
+    "id": "recX98rQUbawERtAB",
+    "en": {
+      "question": "In which garden did Jesus pray after the Last Supper?",
+      "options": [
+        "The garden of Gethsemane",
+        "The garden of Eden",
+        "The Mount of Olives only",
+        "The garden of sorrow"
+      ],
+      "reference": "Matthew 26:36 — Jesus came to Gethsemane."
+    },
+    "kn": {
+      "question": "ಕಡೆಯ ಭೋಜನದ ನಂತರ ಯೇಸು ಯಾವ ತೋಟದಲ್ಲಿ ಪ್ರಾರ್ಥಿಸಿದನು?",
+      "options": [
+        "ಗೆತ್ಸೇಮನೆ ತೋಟ",
+        "ಏದೆನ್ ತೋಟ",
+        "ಒಲೀವ್ ಬೆಟ್ಟ ಮಾತ್ರ",
+        "ದುಃಖದ ತೋಟ"
+      ],
+      "reference": "ಮತ್ತಾಯ 26:36 — ಯೇಸು ಗೆತ್ಸೇಮನೆಗೆ ಬಂದನು."
+    }
+  },
+  {
+    "id": "recXaTxzI94ZEtMM5",
+    "en": {
+      "question": "How did God scatter the people at Babel?",
+      "options": [
+        "He sent a flood",
+        "He confused their languages",
+        "He sent a famine",
+        "He sent an earthquake"
+      ],
+      "reference": "Genesis 11:7-9 — God confused their language."
+    },
+    "kn": {
+      "question": "ಬಾಬೆಲಿನಲ್ಲಿ ದೇವರು ಜನರನ್ನು ಹೇಗೆ ಚದುರಿಸಿದನು?",
+      "options": [
+        "ಜಲಪ್ರಳಯ ಕಳುಹಿಸಿದನು",
+        "ಅವರ ಭಾಷೆಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸಿದನು",
+        "ಬರಗಾಲ ಕಳುಹಿಸಿದನು",
+        "ಭೂಕಂಪ ಕಳುಹಿಸಿದನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 11:7-9 — ದೇವರು ಅವರ ಭಾಷೆಯನ್ನು ಗೊಂದಲಗೊಳಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recXnvLBmcuxHkbeN",
+    "en": {
+      "question": "Who was Jesus' earthly adoptive father?",
+      "options": [
+        "Joseph",
+        "Zechariah",
+        "Simeon",
+        "Cleopas"
+      ],
+      "reference": "Matthew 1:20 — Joseph, son of David, married Mary."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯಲ್ಲಿ ಯೇಸುವಿನ ದತ್ತು ತಂದೆ ಯಾರು?",
+      "options": [
+        "ಯೋಸೇಫ",
+        "ಜೆಕರ್ಯ",
+        "ಸಿಮೆಯೋನ",
+        "ಕ್ಲೆಯೋಪ"
+      ],
+      "reference": "ಮತ್ತಾಯ 1:20 — ದಾವೀದನ ಕುಮಾರನಾದ ಯೋಸೇಫನು ಮರಿಯಳನ್ನು ವಿವಾಹವಾದನು."
+    }
+  },
+  {
+    "id": "recYK3Dme7kLmGc0g",
+    "en": {
+      "question": "Where did David spare Saul's life the second time?",
+      "options": [
+        "In a cave",
+        "In the camp where Saul was sleeping",
+        "On the road",
+        "In Ziklag"
+      ],
+      "reference": "1 Samuel 26:7 — David found Saul asleep in the camp."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಎರಡನೆಯ ಬಾರಿಗೆ ಸೌಲನ ಪ್ರಾಣವನ್ನು ಎಲ್ಲಿ ಉಳಿಸಿದನು?",
+      "options": [
+        "ಗುಹೆಯಲ್ಲಿ",
+        "ಸೌಲನು ನಿದ್ರಿಸುತ್ತಿದ್ದ ಪಾಳೆಯದಲ್ಲಿ",
+        "ದಾರಿಯಲ್ಲಿ",
+        "ಚಿಕ್ಲಗಿನಲ್ಲಿ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 26:7 — ಸೌಲನು ಪಾಳೆಯದಲ್ಲಿ ನಿದ್ರಿಸುತ್ತಿರುವಾಗ ದಾವೀದನು ಕಂಡುಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "recYKYu3GexIcEE4K",
+    "en": {
+      "question": "How many of Saul's sons died in the same battle as Saul?",
+      "options": [
+        "One",
+        "Two",
+        "All three sons",
+        "None"
+      ],
+      "reference": "1 Samuel 31:6 — Saul died together with his three sons."
+    },
+    "kn": {
+      "question": "ಸೌಲನೊಂದಿಗೆ ಅದೇ ಯುದ್ಧದಲ್ಲಿ ಎಷ್ಟು ಮಂದಿ ಮಕ್ಕಳು ಮರಣಹೊಂದಿದರು?",
+      "options": [
+        "ಒಬ್ಬ",
+        "ಇಬ್ಬರು",
+        "ಮೂವರು ಮಕ್ಕಳೂ",
+        "ಯಾರೂ ಇಲ್ಲ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 31:6 — ಸೌಲನು ತನ್ನ ಮೂವರು ಮಕ್ಕಳೊಂದಿಗೆ ಮರಣಹೊಂದಿದನು."
+    }
+  },
+  {
+    "id": "recYLO2VwMJJuI5eA",
+    "en": {
+      "question": "What did Samson use to kill 1,000 Philistines?",
+      "options": [
+        "A sword",
+        "The jawbone of a donkey",
+        "A sling",
+        "His bare hands only"
+      ],
+      "reference": "Judges 15:15 — he struck them down with the jawbone of a donkey."
+    },
+    "kn": {
+      "question": "ಸಂಸೋನನು ಯಾವುದರಿಂದ 1,000 ಮಂದಿ ಫಿಲಿಷ್ಟಿಯರನ್ನು ಕೊಂದನು?",
+      "options": [
+        "ಕತ್ತಿಯಿಂದ",
+        "ಕತ್ತೆಯ ದವಡೆಯ ಎಲುಬಿನಿಂದ",
+        "ಕವಣೆಯಿಂದ",
+        "ಕೇವಲ ಬರಿಗೈಗಳಿಂದ"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 15:15 — ಕತ್ತೆಯ ದವಡೆಯ ಎಲುಬಿನಿಂದ ಅವರನ್ನು ಸಂಹರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recYLyWajm1yJ1g97",
+    "en": {
+      "question": "What was the final plague that convinced Pharaoh to release the slaves?",
+      "options": [
+        "The Nile turning to blood",
+        "Three days of darkness",
+        "The death of every Egyptian firstborn son",
+        "The plague of locusts"
+      ],
+      "reference": "Exodus 12:29 — the Lord struck down every firstborn."
+    },
+    "kn": {
+      "question": "ದಾಸರನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ಫರೋಹನನ್ನು ಒಪ್ಪಿಸಿದ ಕೊನೆಯ ಬಾಧೆ ಏನು?",
+      "options": [
+        "ನೈಲ್ ನದಿ ರಕ್ತವಾಗಿ ಮಾರ್ಪಟ್ಟಿದ್ದು",
+        "ಮೂರು ದಿನಗಳ ಕತ್ತಲೆ",
+        "ಪ್ರತಿ ಐಗುಪ್ತ್ಯನ ಚೊಚ್ಚಲ ಮಗನ ಮರಣ",
+        "ಮಿಡತೆಗಳ ಬಾಧೆ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 12:29 — ಯೆಹೋವನು ಪ್ರತಿ ಚೊಚ್ಚಲ ಮಗನನ್ನು ಸಂಹರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recYPDE9PhjFX6g27",
+    "en": {
+      "question": "How many wives did Solomon have?",
+      "options": [
+        "100",
+        "300",
+        "700",
+        "1,000"
+      ],
+      "reference": "1 Kings 11:3 — he had 700 wives of royal birth."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನಿಗೆ ಎಷ್ಟು ಮಂದಿ ಹೆಂಡತಿಯರಿದ್ದರು?",
+      "options": [
+        "100",
+        "300",
+        "700",
+        "1,000"
+      ],
+      "reference": "1 ಅರಸುಗಳು 11:3 — ಅವನಿಗೆ 700 ಮಂದಿ ರಾಜಕುಮಾರಿಯರು ಹೆಂಡತಿಯರಾಗಿದ್ದರು."
+    }
+  },
+  {
+    "id": "recYZDRyn8vILcS0q",
+    "en": {
+      "question": "Who bought Joseph?",
+      "options": [
+        "Pharaoh himself",
+        "Potiphar, captain of the royal guard",
+        "A merchant",
+        "The chief priest"
+      ],
+      "reference": "Genesis 39:1 — Potiphar bought Joseph."
+    },
+    "kn": {
+      "question": "ಯೋಸೇಫನನ್ನು ಯಾರು ಕೊಂಡುಕೊಂಡರು?",
+      "options": [
+        "ಫರೋಹನೇ",
+        "ರಾಜರಕ್ಷಕ ಸೇನಾಧಿಪತಿಯಾದ ಪೋಟೀಫರ್",
+        "ಒಬ್ಬ ವರ್ತಕ",
+        "ಪ್ರಧಾನ ಯಾಜಕ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 39:1 — ಪೋಟೀಫರನು ಯೋಸೇಫನನ್ನು ಕೊಂಡುಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "recZ5IMeFrc2im6ql",
+    "en": {
+      "question": "How many brothers did Joseph have?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "7"
+      ],
+      "reference": "Genesis 35:22-26 — Jacob had twelve sons in all."
+    },
+    "kn": {
+      "question": "ಯೋಸೇಫನಿಗೆ ಎಷ್ಟು ಮಂದಿ ಸಹೋದರರಿದ್ದರು?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "7"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 35:22-26 — ಯಾಕೋಬನಿಗೆ ಒಟ್ಟು ಹನ್ನೆರಡು ಮಂದಿ ಗಂಡುಮಕ್ಕಳು."
+    }
+  },
+  {
+    "id": "recZbq5BJ1MBLSunv",
+    "en": {
+      "question": "Who placed the crown of thorns on Jesus?",
+      "options": [
+        "Roman soldiers",
+        "The Pharisees",
+        "Pilate himself",
+        "The crowd"
+      ],
+      "reference": "Matthew 27:29 — they wove a crown of thorns."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿಗೆ ಮುಳ್ಳಿನ ಕಿರೀಟವನ್ನು ಯಾರು ಇಟ್ಟರು?",
+      "options": [
+        "ರೋಮ್ ಸೈನಿಕರು",
+        "ಫರಿಸಾಯರು",
+        "ಪಿಲಾತನೇ",
+        "ಜನಸಮೂಹ"
+      ],
+      "reference": "ಮತ್ತಾಯ 27:29 — ಮುಳ್ಳಿನಿಂದ ಕಿರೀಟ ಹೆಣೆದರು."
+    }
+  },
+  {
+    "id": "recaB7HmHKm2Jh3CA",
+    "en": {
+      "question": "When David went into the wilderness, did Saul stop pursuing him?",
+      "options": [
+        "Yes, immediately",
+        "No, he kept pursuing him",
+        "Only for one year",
+        "He sent Jonathan instead"
+      ],
+      "reference": "1 Samuel 23:14 — Saul searched for him every day."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಅರಣ್ಯಕ್ಕೆ ಹೋದಾಗ ಸೌಲನು ಅವನನ್ನು ಬೆನ್ನಟ್ಟುವುದನ್ನು ನಿಲ್ಲಿಸಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಕೂಡಲೇ",
+        "ಇಲ್ಲ, ಬೆನ್ನಟ್ಟುತ್ತಲೇ ಇದ್ದನು",
+        "ಒಂದು ವರ್ಷ ಮಾತ್ರ",
+        "ಯೋನಾತಾನನನ್ನು ಕಳುಹಿಸಿದನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 23:14 — ಸೌಲನು ಅವನನ್ನು ಪ್ರತಿದಿನ ಹುಡುಕುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recaQuRBPvvYJ4tyg",
+    "en": {
+      "question": "When Pharaoh changed his mind and sent his army, where did they catch up with the Israelites?",
+      "options": [
+        "At the Jordan river",
+        "At the Red Sea",
+        "At Mount Sinai",
+        "In the wilderness of Sin"
+      ],
+      "reference": "Exodus 14:9 — Pharaoh's army overtook them by the sea."
+    },
+    "kn": {
+      "question": "ಫರೋಹನು ಮನಸ್ಸು ಬದಲಾಯಿಸಿ ಸೈನ್ಯವನ್ನು ಕಳುಹಿಸಿದಾಗ ಅವರು ಎಲ್ಲಿ ಸಂಧಿಸಿದರು?",
+      "options": [
+        "ಯೊರ್ದಾನ್ ನದಿಯ ಬಳಿ",
+        "ಕೆಂಪು ಸಮುದ್ರದ ಬಳಿ",
+        "ಸೀನಾಯಿ ಬೆಟ್ಟದ ಬಳಿ",
+        "ಸೀನ್ ಅರಣ್ಯದಲ್ಲಿ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 14:9 — ಫರೋಹನ ಸೈನ್ಯವು ಅವರನ್ನು ಸಮುದ್ರದ ಬಳಿ ಸಂಧಿಸಿತು."
+    }
+  },
+  {
+    "id": "recaXHw3KkPJDcTlD",
+    "en": {
+      "question": "When the brothers returned to Canaan, what did Joseph tell them?",
+      "options": [
+        "Bring your families and father to Egypt",
+        "Stay in Canaan",
+        "Sell the land",
+        "Warn Pharaoh"
+      ],
+      "reference": "Genesis 45:9-13 — come down to me without delay."
+    },
+    "kn": {
+      "question": "ಸಹೋದರರು ಕಾನಾನಿಗೆ ಹಿಂತಿರುಗಿ ಹೋದಾಗ ಯೋಸೇಫನು ಅವರಿಗೆ ಏನು ಹೇಳಿದನು?",
+      "options": [
+        "ಕುಟುಂಬಗಳನ್ನೂ ತಂದೆಯನ್ನೂ ಐಗುಪ್ತಕ್ಕೆ ಕರೆತನ್ನಿ",
+        "ಕಾನಾನಿನಲ್ಲಿಯೇ ಇರಿ",
+        "ಭೂಮಿಯನ್ನು ಮಾರಿಬಿಡಿ",
+        "ಫರೋಹನನ್ನು ಎಚ್ಚರಿಸಿ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 45:9-13 — ತಡಮಾಡದೆ ನನ್ನ ಬಳಿಗೆ ಇಳಿದು ಬನ್ನಿ."
+    }
+  },
+  {
+    "id": "recaYdBvnaawI8bwV",
+    "en": {
+      "question": "How many ministers were chosen to distribute food to the widows?",
+      "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Twelve"
+      ],
+      "reference": "Acts 6:3-5 — seven were chosen."
+    },
+    "kn": {
+      "question": "ವಿಧವೆಯರಿಗೆ ಆಹಾರ ಹಂಚಲು ಎಷ್ಟು ಮಂದಿ ಸೇವಕರು ಆರಿಸಲ್ಪಟ್ಟರು?",
+      "options": [
+        "ಮೂವರು",
+        "ಐವರು",
+        "ಏಳು ಮಂದಿ",
+        "ಹನ್ನೆರಡು ಮಂದಿ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 6:3-5 — ಏಳು ಮಂದಿ ಆರಿಸಲ್ಪಟ್ಟರು."
+    }
+  },
+  {
+    "id": "recangJ8roRKGr06C",
+    "en": {
+      "question": "Who was in prison with Joseph?",
+      "options": [
+        "Pharaoh's cupbearer and baker",
+        "Two Egyptian soldiers",
+        "Potiphar's wife",
+        "Two Hebrew slaves"
+      ],
+      "reference": "Genesis 40:2-3 — the cupbearer and baker were with him in prison."
+    },
+    "kn": {
+      "question": "ಸೆರೆಮನೆಯಲ್ಲಿ ಯೋಸೇಫನೊಂದಿಗೆ ಯಾರಿದ್ದರು?",
+      "options": [
+        "ಫರೋಹನ ಪಾನದಾಯಕ ಮತ್ತು ರೊಟ್ಟಿಗಾರ",
+        "ಇಬ್ಬರು ಐಗುಪ್ತ ಸೈನಿಕರು",
+        "ಪೋಟೀಫರನ ಹೆಂಡತಿ",
+        "ಇಬ್ಬರು ಹಿಬ್ರೂ ದಾಸರು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 40:2-3 — ಪಾನದಾಯಕ ಮತ್ತು ರೊಟ್ಟಿಗಾರ ಅವನೊಂದಿಗೆ ಸೆರೆಯಲ್ಲಿದ್ದರು."
+    }
+  },
+  {
+    "id": "recayIgA1zbjaMhl5",
+    "en": {
+      "question": "Who did Jesus say his true family was?",
+      "options": [
+        "Only blood relatives",
+        "Whoever does the will of God",
+        "Only the twelve disciples",
+        "Only the Pharisees"
+      ],
+      "reference": "Mark 3:34-35 — whoever does God's will is my brother."
+    },
+    "kn": {
+      "question": "ಯೇಸು ತನ್ನ ನಿಜವಾದ ಕುಟುಂಬ ಯಾರೆಂದು ಹೇಳಿದನು?",
+      "options": [
+        "ರಕ್ತಸಂಬಂಧಿಗಳು ಮಾತ್ರ",
+        "ದೇವರ ಚಿತ್ತವನ್ನು ಮಾಡುವ ಪ್ರತಿಯೊಬ್ಬರು",
+        "ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರು ಮಾತ್ರ",
+        "ಫರಿಸಾಯರು ಮಾತ್ರ"
+      ],
+      "reference": "ಮಾರ್ಕ 3:34-35 — ದೇವರ ಚಿತ್ತವನ್ನು ಮಾಡುವವನೇ ನನ್ನ ಸಹೋದರ."
+    }
+  },
+  {
+    "id": "recbQNX3ZY6xPx2sm",
+    "en": {
+      "question": "When Bathsheba had another child, what was he named?",
+      "options": [
+        "Solomon",
+        "Absalom",
+        "Nathan",
+        "Amnon"
+      ],
+      "reference": "2 Samuel 12:24 — she bore a son and named him Solomon."
+    },
+    "kn": {
+      "question": "ಬತ್ಷೆಬೆಗೆ ಇನ್ನೊಂದು ಮಗು ಹುಟ್ಟಿದಾಗ ಅವನಿಗೆ ಏನು ಹೆಸರಿಟ್ಟರು?",
+      "options": [
+        "ಸೊಲೊಮೋನ",
+        "ಅಬ್ಷಾಲೋಮ",
+        "ನಾತಾನ",
+        "ಅಮ್ನೋನ"
+      ],
+      "reference": "2 ಸಮುವೇಲ 12:24 — ಆಕೆ ಮಗನನ್ನು ಹೆತ್ತು ಸೊಲೊಮೋನ ಎಂದು ಹೆಸರಿಟ್ಟಳು."
+    }
+  },
+  {
+    "id": "recbRkYLtxg2kpJJ7",
+    "en": {
+      "question": "How did Saul die?",
+      "options": [
+        "He fell on his own sword",
+        "In one-on-one combat during battle",
+        "Of old age",
+        "Poisoned by an enemy"
+      ],
+      "reference": "1 Samuel 31:4 — Saul fell on his sword."
+    },
+    "kn": {
+      "question": "ಸೌಲನು ಹೇಗೆ ಮರಣಹೊಂದಿದನು?",
+      "options": [
+        "ತನ್ನ ಸ್ವಂತ ಕತ್ತಿಯ ಮೇಲೆ ಬಿದ್ದು",
+        "ಯುದ್ಧದಲ್ಲಿ ಏಕಾಂಗಿ ಹೋರಾಟದಲ್ಲಿ",
+        "ವೃದ್ಧಾಪ್ಯದಿಂದ",
+        "ಶತ್ರುವಿನಿಂದ ವಿಷ ಕುಡಿಸಲ್ಪಟ್ಟು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 31:4 — ಸೌಲನು ತನ್ನ ಕತ್ತಿಯ ಮೇಲೆ ಬಿದ್ದನು."
+    }
+  },
+  {
+    "id": "reccFVfEBePqQD6QJ",
+    "en": {
+      "question": "Was Jesus obedient to his parents in his childhood?",
+      "options": [
+        "Yes, he was obedient to them",
+        "No, he was above their rules",
+        "Only when it suited him",
+        "The Bible does not say"
+      ],
+      "reference": "Luke 2:51 — he went with them and was obedient to them."
+    },
+    "kn": {
+      "question": "ಬಾಲ್ಯದಲ್ಲಿ ಯೇಸು ತನ್ನ ತಂದೆತಾಯಿಗಳಿಗೆ ವಿಧೇಯನಾಗಿದ್ದನೇ?",
+      "options": [
+        "ಹೌದು, ಅವರಿಗೆ ವಿಧೇಯನಾಗಿದ್ದನು",
+        "ಇಲ್ಲ, ಅವರ ನಿಯಮಗಳಿಗೆ ಅತೀತನಾಗಿದ್ದನು",
+        "ತನಗೆ ಅನುಕೂಲವಾದಾಗ ಮಾತ್ರ",
+        "ಬೈಬಲ್ ಹೇಳುವುದಿಲ್ಲ"
+      ],
+      "reference": "ಲೂಕ 2:51 — ಅವರೊಂದಿಗೆ ಹೋಗಿ ಅವರಿಗೆ ವಿಧೇಯನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "reccjoFlo7Bnzmdfi",
+    "en": {
+      "question": "What were the Babylonian names given to Daniel's three friends?",
+      "options": [
+        "Shadrach, Meshach, Abednego",
+        "Hananiah, Mishael, Azariah",
+        "Gabriel, Michael, Raphael",
+        "Zerubbabel, Ezra, Nehemiah"
+      ],
+      "reference": "Daniel 1:7 — they were renamed Shadrach, Meshach, and Abednego."
+    },
+    "kn": {
+      "question": "ದಾನಿಯೇಲನ ಮೂವರು ಸ್ನೇಹಿತರಿಗೆ ಇಟ್ಟ ಬಾಬೆಲಿನ ಹೆಸರುಗಳೇನು?",
+      "options": [
+        "ಶದ್ರಕ್, ಮೇಶಕ್, ಅಬೇದ್ನೆಗೋ",
+        "ಹನನ್ಯ, ಮೀಶಾಯೇಲ, ಅಜರ್ಯ",
+        "ಗಬ್ರಿಯೇಲ, ಮೀಖಾಯೇಲ, ರಫಾಯೇಲ",
+        "ಜೆರುಬ್ಬಾಬೆಲ, ಎಜ್ರಾ, ನೆಹೆಮೀಯ"
+      ],
+      "reference": "ದಾನಿಯೇಲ 1:7 — ಶದ್ರಕ್, ಮೇಶಕ್, ಅಬೇದ್ನೆಗೋ ಎಂದು ಹೆಸರು ಬದಲಾಯಿಸಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "recdJjleTWKc8JgnY",
+    "en": {
+      "question": "Did Jesus tell people to keep children away while he taught important matters to adults?",
+      "options": [
+        "Yes, he told the children to wait outside",
+        "No, he welcomed the children",
+        "He only allowed boys",
+        "He only allowed the disciples' children"
+      ],
+      "reference": "Matthew 19:14 — let the little children come to me."
+    },
+    "kn": {
+      "question": "ದೊಡ್ಡವರಿಗೆ ಮುಖ್ಯ ವಿಷಯಗಳನ್ನು ಬೋಧಿಸುತ್ತಿರುವಾಗ ಮಕ್ಕಳನ್ನು ದೂರ ಇರಿಸಬೇಕೆಂದು ಯೇಸು ಹೇಳಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಮಕ್ಕಳನ್ನು ಹೊರಗೆ ಕಾಯುವಂತೆ ಹೇಳಿದನು",
+        "ಇಲ್ಲ, ಮಕ್ಕಳನ್ನು ಸ್ವಾಗತಿಸಿದನು",
+        "ಗಂಡುಮಕ್ಕಳನ್ನು ಮಾತ್ರ ಅನುಮತಿಸಿದನು",
+        "ಶಿಷ್ಯರ ಮಕ್ಕಳನ್ನು ಮಾತ್ರ ಅನುಮತಿಸಿದನು"
+      ],
+      "reference": "ಮತ್ತಾಯ 19:14 — ಮಕ್ಕಳು ನನ್ನ ಬಳಿಗೆ ಬರಲಿ."
+    }
+  },
+  {
+    "id": "recdX5ZXNbj1AlkVw",
+    "en": {
+      "question": "Who was the first martyr, stoned to death?",
+      "options": [
+        "Stephen",
+        "James",
+        "Philip",
+        "Timothy"
+      ],
+      "reference": "Acts 7:58-60 — they stoned Stephen."
+    },
+    "kn": {
+      "question": "ಕಲ್ಲೆಸೆದು ಕೊಲ್ಲಲ್ಪಟ್ಟ ಮೊದಲ ಹುತಾತ್ಮ ಯಾರು?",
+      "options": [
+        "ಸ್ತೆಫನ",
+        "ಯಾಕೋಬ",
+        "ಫಿಲಿಪ್ಪ",
+        "ತಿಮೊಥೆಯ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 7:58-60 — ಅವರು ಸ್ತೆಫನನಿಗೆ ಕಲ್ಲೆಸೆದರು."
+    }
+  },
+  {
+    "id": "rece3HUO9hFrR83Ml",
+    "en": {
+      "question": "What were John the Baptist's clothes made of?",
+      "options": [
+        "Goat hair",
+        "Camel hair",
+        "Linen",
+        "Wool"
+      ],
+      "reference": "Matthew 3:4 — John wore clothing of camel's hair."
+    },
+    "kn": {
+      "question": "ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ವಸ್ತ್ರಗಳು ಯಾವುದರಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದ್ದವು?",
+      "options": [
+        "ಮೇಕೆ ಕೂದಲಿನಿಂದ",
+        "ಒಂಟೆ ಕೂದಲಿನಿಂದ",
+        "ನಾರುಬಟ್ಟೆಯಿಂದ",
+        "ಉಣ್ಣೆಯಿಂದ"
+      ],
+      "reference": "ಮತ್ತಾಯ 3:4 — ಯೋಹಾನನು ಒಂಟೆ ಕೂದಲಿನ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದ್ದನು."
+    }
+  },
+  {
+    "id": "rece6LHuHfLxLK3Ad",
+    "en": {
+      "question": "Through whom did Abraham have his second son?",
+      "options": [
+        "Hagar",
+        "Sarah",
+        "Keturah",
+        "Rebekah"
+      ],
+      "reference": "Genesis 21:2-3 — Sarah bore Isaac."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಹಾಮನಿಗೆ ಎರಡನೆಯ ಮಗ ಯಾರ ಮೂಲಕ ಹುಟ್ಟಿದನು?",
+      "options": [
+        "ಹಾಗರಳು",
+        "ಸಾರಳು",
+        "ಕೆತೂರಾ",
+        "ರೆಬೆಕ್ಕಳು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 21:2-3 — ಸಾರಳು ಇಸಾಕನನ್ನು ಹೆತ್ತಳು."
+    }
+  },
+  {
+    "id": "receFBLbaPO4X3tck",
+    "en": {
+      "question": "What were the names of Noah's three sons?",
+      "options": [
+        "Shem, Ham, Japheth",
+        "Cain, Abel, Seth",
+        "Ham, Canaan, Cush",
+        "Jacob, Esau, Isaac"
+      ],
+      "reference": "Genesis 6:10 — Shem, Ham, and Japheth."
+    },
+    "kn": {
+      "question": "ನೋಹನ ಮೂವರು ಗಂಡುಮಕ್ಕಳ ಹೆಸರುಗಳೇನು?",
+      "options": [
+        "ಶೇಮ, ಹಾಮ, ಯೆಫೆತ",
+        "ಕಾಯಿನ, ಹೇಬೆಲ, ಸೇತ",
+        "ಹಾಮ, ಕಾನಾನ, ಕೂಷ",
+        "ಯಾಕೋಬ, ಏಸಾವ, ಇಸಾಕ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 6:10 — ಶೇಮ, ಹಾಮ, ಯೆಫೆತ."
+    }
+  },
+  {
+    "id": "receeMhL9YUiLdDV6",
+    "en": {
+      "question": "How did Paul and Silas answer the jailer's question?",
+      "options": [
+        "Believe in the Lord Jesus, and you will be saved",
+        "Offer a sacrifice at the temple",
+        "Pay a fine for release",
+        "Seek forgiveness from Rome"
+      ],
+      "reference": "Acts 16:31 — believe in the Lord Jesus."
+    },
+    "kn": {
+      "question": "ಸೆರೆಮನೆಯ ಅಧಿಕಾರಿಯ ಪ್ರಶ್ನೆಗೆ ಪೌಲ ಸೀಲರು ಹೇಗೆ ಉತ್ತರಿಸಿದರು?",
+      "options": [
+        "ಕರ್ತನಾದ ಯೇಸುವಿನಲ್ಲಿ ನಂಬಿಕೆ ಇಡು, ರಕ್ಷಣೆ ಹೊಂದುವೆ",
+        "ದೇವಾಲಯದಲ್ಲಿ ಬಲಿ ಅರ್ಪಿಸು",
+        "ಬಿಡುಗಡೆಗಾಗಿ ದಂಡ ಕಟ್ಟು",
+        "ರೋಮಾದಿಂದ ಕ್ಷಮೆ ಕೇಳು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 16:31 — ಕರ್ತನಾದ ಯೇಸುವಿನಲ್ಲಿ ನಂಬಿಕೆ ಇಡು."
+    }
+  },
+  {
+    "id": "receg668C3jJ3Y0Xa",
+    "en": {
+      "question": "How did Jesus go from earth to heaven?",
+      "options": [
+        "He was taken up into the clouds",
+        "He suddenly vanished",
+        "He walked into the wilderness",
+        "He was carried by angels"
+      ],
+      "reference": "Acts 1:9 — he was taken up, and a cloud hid him from their sight."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಭೂಮಿಯಿಂದ ಪರಲೋಕಕ್ಕೆ ಹೇಗೆ ಹೋದನು?",
+      "options": [
+        "ಮೇಘಗಳೊಳಗೆ ಮೇಲಕ್ಕೆ ಎತ್ತಲ್ಪಟ್ಟನು",
+        "ಇದ್ದಕ್ಕಿದ್ದಂತೆ ಮಾಯವಾದನು",
+        "ಅರಣ್ಯದೊಳಗೆ ನಡೆದುಹೋದನು",
+        "ದೂತರಿಂದ ಹೊರಲ್ಪಟ್ಟನು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 1:9 — ಮೇಲಕ್ಕೆ ಎತ್ತಲ್ಪಡಲು ಮೇಘವು ಆತನನ್ನು ಕಾಣದಂತೆ ಮಾಡಿತು."
+    }
+  },
+  {
+    "id": "recepLyDuAcZX4vzB",
+    "en": {
+      "question": "What were the names of Isaac's sons?",
+      "options": [
+        "Jacob, Esau",
+        "Cain, Abel",
+        "Ishmael, Isaac",
+        "Reuben, Simeon"
+      ],
+      "reference": "Genesis 25:25-26 — Esau and Jacob were born to Isaac."
+    },
+    "kn": {
+      "question": "ಇಸಾಕನ ಗಂಡುಮಕ್ಕಳ ಹೆಸರುಗಳೇನು?",
+      "options": [
+        "ಯಾಕೋಬ, ಏಸಾವ",
+        "ಕಾಯಿನ, ಹೇಬೆಲ",
+        "ಇಷ್ಮಾಯೇಲ, ಇಸಾಕ",
+        "ರೂಬೇನ, ಸಿಮೆಯೋನ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 25:25-26 — ಏಸಾವ ಮತ್ತು ಯಾಕೋಬ ಇಸಾಕನಿಗೆ ಹುಟ್ಟಿದರು."
+    }
+  },
+  {
+    "id": "recepcvaIOxGmHT0Z",
+    "en": {
+      "question": "Which human author wrote the most books?",
+      "options": [
+        "Moses",
+        "Paul",
+        "David",
+        "Luke"
+      ],
+      "reference": "Paul wrote 13 letters in the New Testament."
+    },
+    "kn": {
+      "question": "ಯಾವ ಮಾನವ ಲೇಖಕನು ಅತಿ ಹೆಚ್ಚು ಗ್ರಂಥಗಳನ್ನು ಬರೆದನು?",
+      "options": [
+        "ಮೋಶೆ",
+        "ಪೌಲ",
+        "ದಾವೀದ",
+        "ಲೂಕ"
+      ],
+      "reference": "ಪೌಲನು ಹೊಸ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ 13 ಪತ್ರಿಕೆಗಳನ್ನು ಬರೆದನು."
+    }
+  },
+  {
+    "id": "recfGQLQGMfg05ZEJ",
+    "en": {
+      "question": "Which enemy captured the ark of the covenant?",
+      "options": [
+        "The Philistines",
+        "The Egyptians",
+        "The Amalekites",
+        "The Assyrians"
+      ],
+      "reference": "1 Samuel 4:11 — the ark of God was captured."
+    },
+    "kn": {
+      "question": "ಒಡಂಬಡಿಕೆಯ ಮಂಜೂಷವನ್ನು ವಶಪಡಿಸಿಕೊಂಡ ಶತ್ರುಗಳು ಯಾರು?",
+      "options": [
+        "ಫಿಲಿಷ್ಟಿಯರು",
+        "ಐಗುಪ್ತ್ಯರು",
+        "ಅಮಾಲೇಕ್ಯರು",
+        "ಅಶ್ಶೂರ್ಯರು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 4:11 — ದೇವರ ಮಂಜೂಷವು ವಶಪಡಿಸಲ್ಪಟ್ಟಿತು."
+    }
+  },
+  {
+    "id": "recfH3gc2A2vtar9y",
+    "en": {
+      "question": "What was Jesus' common occupation before he began his ministry?",
+      "options": [
+        "Fisherman",
+        "Carpenter",
+        "Shepherd",
+        "Scribe"
+      ],
+      "reference": "Mark 6:3 — isn't this the carpenter?"
+    },
+    "kn": {
+      "question": "ಸೇವಾಕಾರ್ಯ ಆರಂಭಿಸುವ ಮೊದಲು ಯೇಸುವಿನ ಸಾಮಾನ್ಯ ವೃತ್ತಿ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಬೆಸ್ತ",
+        "ಬಡಗಿ",
+        "ಕುರುಬ",
+        "ಶಾಸ್ತ್ರಿ"
+      ],
+      "reference": "ಮಾರ್ಕ 6:3 — ಇವನು ಬಡಗಿಯಲ್ಲವೇ."
+    }
+  },
+  {
+    "id": "recfRAaVtiY5bCkMb",
+    "en": {
+      "question": "Which famous queen visited Solomon?",
+      "options": [
+        "The Queen of Sheba",
+        "Queen Esther",
+        "Queen Jezebel",
+        "Queen Vashti"
+      ],
+      "reference": "1 Kings 10:1 — the Queen of Sheba heard of Solomon's fame and came."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನನ್ನು ಭೇಟಿ ಮಾಡಿದ ಪ್ರಸಿದ್ಧ ರಾಣಿ ಯಾರು?",
+      "options": [
+        "ಶೇಬ ರಾಣಿ",
+        "ಎಸ್ತೇರ್ ರಾಣಿ",
+        "ಈಜೆಬೆಲ್ ರಾಣಿ",
+        "ವಷ್ಟಿ ರಾಣಿ"
+      ],
+      "reference": "1 ಅರಸುಗಳು 10:1 — ಶೇಬ ರಾಣಿ ಸೊಲೊಮೋನನ ಕೀರ್ತಿ ಕೇಳಿ ಬಂದಳು."
+    }
+  },
+  {
+    "id": "recfdTvOwc0mL8QlR",
+    "en": {
+      "question": "In which town was Jesus born?",
+      "options": [
+        "Nazareth",
+        "Bethlehem",
+        "Jerusalem",
+        "Capernaum"
+      ],
+      "reference": "Matthew 2:1 — Jesus was born in Bethlehem."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಯಾವ ಪಟ್ಟಣದಲ್ಲಿ ಜನಿಸಿದನು?",
+      "options": [
+        "ನಜರೇತ್",
+        "ಬೇತ್ಲೆಹೇಮ್",
+        "ಯೆರೂಸಲೇಮ್",
+        "ಕಪೆರ್ನೌಮ್"
+      ],
+      "reference": "ಮತ್ತಾಯ 2:1 — ಯೇಸು ಬೇತ್ಲೆಹೇಮಿನಲ್ಲಿ ಹುಟ್ಟಿದನು."
+    }
+  },
+  {
+    "id": "recfeAVLJY9ujrPb1",
+    "en": {
+      "question": "In which languages was the Bible originally written?",
+      "options": [
+        "In English",
+        "In Latin",
+        "In Hebrew and Greek",
+        "In German"
+      ],
+      "reference": "The Bible was not originally written in English."
+    },
+    "kn": {
+      "question": "ಬೈಬಲ್ ಮೂಲತಃ ಯಾವ ಭಾಷೆಗಳಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಇಂಗ್ಲಿಷ್ ನಲ್ಲಿ",
+        "ಲ್ಯಾಟಿನ್ ನಲ್ಲಿ",
+        "ಹಿಬ್ರೂ ಮತ್ತು ಗ್ರೀಕ್ ಭಾಷೆಗಳಲ್ಲಿ",
+        "ಜರ್ಮನ್ ನಲ್ಲಿ"
+      ],
+      "reference": "ಬೈಬಲ್ ಮೊದಲು ಇಂಗ್ಲಿಷ್ ನಲ್ಲಿ ಬರೆಯಲ್ಪಡಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "recffPDbGc4POq84W",
+    "en": {
+      "question": "How did the brothers get rid of Joseph?",
+      "options": [
+        "They sold him to slave traders",
+        "They sent him far away",
+        "They put him in prison",
+        "They exiled him to Egypt"
+      ],
+      "reference": "Genesis 37:28 — they sold Joseph to the Ishmaelites."
+    },
+    "kn": {
+      "question": "ಸಹೋದರರು ಯೋಸೇಫನನ್ನು ಹೇಗೆ ತೊಲಗಿಸಿಕೊಂಡರು?",
+      "options": [
+        "ಗುಲಾಮ ವರ್ತಕರಿಗೆ ಮಾರಿದರು",
+        "ದೂರಕ್ಕೆ ಕಳುಹಿಸಿದರು",
+        "ಸೆರೆಮನೆಗೆ ಹಾಕಿದರು",
+        "ಐಗುಪ್ತಕ್ಕೆ ಬಹಿಷ್ಕರಿಸಿದರು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 37:28 — ಇಷ್ಮಾಯೇಲ್ಯರಿಗೆ ಯೋಸೇಫನನ್ನು ಮಾರಿದರು."
+    }
+  },
+  {
+    "id": "recfjPe3ySDaCgHMD",
+    "en": {
+      "question": "What did Laban make Jacob do in order to marry Rachel?",
+      "options": [
+        "Pay a large dowry",
+        "Serve seven more years",
+        "Fight in battle",
+        "Free his family"
+      ],
+      "reference": "Genesis 29:27 — serve me for another seven years."
+    },
+    "kn": {
+      "question": "ರಾಹೇಲಳನ್ನು ಮದುವೆಯಾಗಲು ಲಾಬಾನನು ಯಾಕೋಬನ ಕೈಯಿಂದ ಏನು ಮಾಡಿಸಿದನು?",
+      "options": [
+        "ದೊಡ್ಡ ಕಟ್ಣ ಕೊಡಿಸಿದನು",
+        "ಇನ್ನೂ ಏಳು ವರ್ಷ ಸೇವೆ ಮಾಡಿಸಿದನು",
+        "ಹೋರಾಡಿಸಿದನು",
+        "ಕುಟುಂಬವನ್ನು ಬಿಡಿಸಿದನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 29:27 — ಇನ್ನೂ ಏಳು ವರ್ಷ ನನಗೆ ದಾಸನಾಗಿರು."
+    }
+  },
+  {
+    "id": "recfySYueq6ss4lJV",
+    "en": {
+      "question": "When God showed Abram the stars of the sky, what did he promise?",
+      "options": [
+        "A great harvest",
+        "Descendants as numerous as the stars",
+        "Victory in battle",
+        "A new land"
+      ],
+      "reference": "Genesis 15:5 — so shall your offspring be."
+    },
+    "kn": {
+      "question": "ದೇವರು ಅಬ್ರಾಮನಿಗೆ ಆಕಾಶದ ನಕ್ಷತ್ರಗಳನ್ನು ತೋರಿಸಿದಾಗ ಏನು ವಾಗ್ದಾನ ಮಾಡಿದನು?",
+      "options": [
+        "ಮಹಾ ಬೆಳೆ",
+        "ನಕ್ಷತ್ರಗಳಷ್ಟು ಸಂತಾನ",
+        "ಯುದ್ಧದಲ್ಲಿ ಜಯ",
+        "ಹೊಸ ದೇಶ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 15:5 — ನಿನ್ನ ಸಂತಾನವು ಹಾಗೆಯೇ ಇರುವುದು."
+    }
+  },
+  {
+    "id": "recg3sChDzGl1hRNH",
+    "en": {
+      "question": "In which town were Jesus' followers first called 'Christians'?",
+      "options": [
+        "Antioch",
+        "Jerusalem",
+        "Rome",
+        "Ephesus"
+      ],
+      "reference": "Acts 11:26 — the disciples were first called Christians at Antioch."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಹಿಂಬಾಲಕರು ಮೊದಲು 'ಕ್ರೈಸ್ತರು' ಎಂದು ಯಾವ ಪಟ್ಟಣದಲ್ಲಿ ಕರೆಯಲ್ಪಟ್ಟರು?",
+      "options": [
+        "ಅಂತಿಯೋಕ್ಯ",
+        "ಯೆರೂಸಲೇಮ್",
+        "ರೋಮಾ",
+        "ಎಫೆಸ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 11:26 — ಶಿಷ್ಯರು ಮೊದಲು ಅಂತಿಯೋಕ್ಯದಲ್ಲಿ ಕ್ರೈಸ್ತರೆಂದು ಕರೆಯಲ್ಪಟ್ಟರು."
+    }
+  },
+  {
+    "id": "recgSyJLUBXfxqntB",
+    "en": {
+      "question": "Who was the last king Daniel served under?",
+      "options": [
+        "Nebuchadnezzar",
+        "Belshazzar",
+        "Darius",
+        "Cyrus"
+      ],
+      "reference": "Daniel 6:1-3,28 — Daniel prospered during the reign of Darius."
+    },
+    "kn": {
+      "question": "ದಾನಿಯೇಲನು ಸೇವೆ ಸಲ್ಲಿಸಿದ ಕೊನೆಯ ಅರಸ ಯಾರು?",
+      "options": [
+        "ನೆಬೂಕದ್ನೆಚ್ಚರ",
+        "ಬೇಲ್ಶಚ್ಚರ",
+        "ದಾರ್ಯಾವೆಷ",
+        "ಕೋರೆಷ್"
+      ],
+      "reference": "ದಾನಿಯೇಲ 6:1-3,28 — ದಾರ್ಯಾವೆಷನ ಆಳ್ವಿಕೆಯ ಕಾಲದಲ್ಲಿ ದಾನಿಯೇಲನು ವೃದ್ಧಿಗೊಂಡನು."
+    }
+  },
+  {
+    "id": "recgVQLDz2YTcC4Sy",
+    "en": {
+      "question": "Who influenced Solomon to turn away from God?",
+      "options": [
+        "His wives",
+        "His advisors",
+        "Foreign kings",
+        "His sons"
+      ],
+      "reference": "1 Kings 11:4 — his foreign wives turned his heart away."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನು ದೇವರನ್ನು ಬಿಟ್ಟುಬಿಡುವಂತೆ ಯಾರು ಪ್ರೇರೇಪಿಸಿದರು?",
+      "options": [
+        "ಅವನ ಹೆಂಡತಿಯರು",
+        "ಅವನ ಸಲಹೆಗಾರರು",
+        "ಪರದೇಶ ರಾಜರು",
+        "ಅವನ ಮಕ್ಕಳು"
+      ],
+      "reference": "1 ಅರಸುಗಳು 11:4 — ಪರದೇಶದ ಹೆಂಡತಿಯರು ಅವನ ಹೃದಯವನ್ನು ತಿರುಗಿಸಿದರು."
+    }
+  },
+  {
+    "id": "recgVScXSVayF6zlq",
+    "en": {
+      "question": "Which woman judge led Israel to victory?",
+      "options": [
+        "Deborah",
+        "Miriam",
+        "Ruth",
+        "Naomi"
+      ],
+      "reference": "Judges 4:4-5 — Deborah was judging Israel."
+    },
+    "kn": {
+      "question": "ಇಸ್ರಾಯೇಲನ್ನು ಜಯದತ್ತ ನಡೆಸಿದ ಸ್ತ್ರೀ ನ್ಯಾಯಾಧಿಪತಿ ಯಾರು?",
+      "options": [
+        "ದೆಬೋರಳು",
+        "ಮಿರ್ಯಾಮಳು",
+        "ರೂತಳು",
+        "ನೊವೊಮಿಯಳು"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 4:4-5 — ದೆಬೋರಳು ಇಸ್ರಾಯೇಲಿಗೆ ನ್ಯಾಯ ತೀರಿಸುತ್ತಿದ್ದಳು."
+    }
+  },
+  {
+    "id": "recgwYBj6QlMKu3cB",
+    "en": {
+      "question": "Where are the Ten Commandments found in the Bible?",
+      "options": [
+        "Exodus 20, Deuteronomy 5",
+        "Genesis 1, 2",
+        "Leviticus 19 only",
+        "Numbers 10, 11"
+      ],
+      "reference": "Exodus 20:1-17; Deuteronomy 5:6-21."
+    },
+    "kn": {
+      "question": "ಹತ್ತು ಆಜ್ಞೆಗಳು ಬೈಬಲಿನಲ್ಲಿ ಎಲ್ಲಿ ಇವೆ?",
+      "options": [
+        "ವಿಮೋಚನಕಾಂಡ 20, ಧರ್ಮೋಪದೇಶಕಾಂಡ 5",
+        "ಆದಿಕಾಂಡ 1, 2",
+        "ಯಾಜಕಕಾಂಡ 19 ಮಾತ್ರ",
+        "ಅರಣ್ಯಕಾಂಡ 10, 11"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:1-17; ಧರ್ಮೋಪದೇಶಕಾಂಡ 5:6-21."
+    }
+  },
+  {
+    "id": "rechDnQRNYOi0SkEt",
+    "en": {
+      "question": "Who spoke from heaven when Jesus was baptized?",
+      "options": [
+        "God",
+        "An angel",
+        "Moses",
+        "Elijah"
+      ],
+      "reference": "Matthew 3:17 — a voice from heaven was heard."
+    },
+    "kn": {
+      "question": "ಯೇಸು ದೀಕ್ಷಾಸ್ನಾನ ಪಡೆದಾಗ ಆಕಾಶದಿಂದ ಯಾರು ಮಾತನಾಡಿದರು?",
+      "options": [
+        "ದೇವರು",
+        "ಒಬ್ಬ ದೂತ",
+        "ಮೋಶೆ",
+        "ಎಲೀಯ"
+      ],
+      "reference": "ಮತ್ತಾಯ 3:17 — ಆಕಾಶದಿಂದ ಒಂದು ಧ್ವನಿ ಕೇಳಿಬಂದಿತು."
+    }
+  },
+  {
+    "id": "reciDF54sZn9Pml1Z",
+    "en": {
+      "question": "What is the shortest verse in the Bible?",
+      "options": [
+        "John 11:35",
+        "Genesis 1:1",
+        "1 Thessalonians 5:16",
+        "Psalm 117:1"
+      ],
+      "reference": "John 11:35 — Jesus wept."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಅತ್ಯಂತ ಚಿಕ್ಕ ವಚನ ಯಾವುದು?",
+      "options": [
+        "ಯೋಹಾನ 11:35",
+        "ಆದಿಕಾಂಡ 1:1",
+        "1 ಥೆಸಲೋನಿಕದವರಿಗೆ 5:16",
+        "ಕೀರ್ತನೆ 117:1"
+      ],
+      "reference": "ಯೋಹಾನ 11:35 — ಯೇಸು ಕಣ್ಣೀರುಬಿಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recieLGndItuZnwsg",
+    "en": {
+      "question": "What sign did God give that he would never again destroy the earth by flood?",
+      "options": [
+        "A rainbow",
+        "A star",
+        "A dove",
+        "An acacia tree"
+      ],
+      "reference": "Genesis 9:13 — I have set my rainbow in the clouds."
+    },
+    "kn": {
+      "question": "ಇನ್ನೊಮ್ಮೆ ಭೂಮಿಯನ್ನು ನಾಶ ಮಾಡುವುದಿಲ್ಲವೆಂದು ದೇವರು ಕೊಟ್ಟ ಸೂಚನೆ ಏನು?",
+      "options": [
+        "ಕಾಮನಬಿಲ್ಲು",
+        "ನಕ್ಷತ್ರ",
+        "ಪಾರಿವಾಳ",
+        "ಜಾಲಿ ಮರ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 9:13 — ನನ್ನ ಕಾಮನಬಿಲ್ಲನ್ನು ಮೇಘದಲ್ಲಿ ಇಡುತ್ತೇನೆ."
+    }
+  },
+  {
+    "id": "recilterZTukYfi0D",
+    "en": {
+      "question": "To which foreign land did David flee to escape Saul?",
+      "options": [
+        "Egypt",
+        "The land of the Philistines",
+        "Moab only",
+        "Babylon"
+      ],
+      "reference": "1 Samuel 27:1 — David fled to Achish, king of Gath."
+    },
+    "kn": {
+      "question": "ಸೌಲನಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ದಾವೀದನು ಯಾವ ಪರದೇಶಕ್ಕೆ ಓಡಿಹೋದನು?",
+      "options": [
+        "ಐಗುಪ್ತಕ್ಕೆ",
+        "ಫಿಲಿಷ್ಟಿಯರ ದೇಶಕ್ಕೆ",
+        "ಮೋವಾಬಿಗೆ ಮಾತ್ರ",
+        "ಬಾಬೆಲಿಗೆ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 27:1 — ದಾವೀದನು ಗತ್ ಊರಿನ ಅರಸನಾದ ಆಕೀಷನ ಬಳಿಗೆ ಓಡಿಹೋದನು."
+    }
+  },
+  {
+    "id": "recj0fMEtmwH0FC0L",
+    "en": {
+      "question": "What was the name of the Roman governor who tried Jesus?",
+      "options": [
+        "Pilate",
+        "Herod",
+        "Felix",
+        "Festus"
+      ],
+      "reference": "Matthew 27:2 — they handed him over to Governor Pilate."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ವಿಚಾರಣೆ ನಡೆಸಿದ ರೋಮ್ ಅಧಿಪತಿಯ ಹೆಸರೇನು?",
+      "options": [
+        "ಪಿಲಾತ",
+        "ಹೆರೋದ",
+        "ಫೇಲಿಕ್ಸ್",
+        "ಫೆಸ್ತ"
+      ],
+      "reference": "ಮತ್ತಾಯ 27:2 — ಅಧಿಪತಿಯಾದ ಪಿಲಾತನಿಗೆ ಒಪ್ಪಿಸಿದರು."
+    }
+  },
+  {
+    "id": "recj8sVgyW9HcsD9U",
+    "en": {
+      "question": "What was David's second major sin?",
+      "options": [
+        "Taking a census of the people",
+        "Marrying too many wives",
+        "Making an idol",
+        "Breaking the covenant"
+      ],
+      "reference": "2 Samuel 24:1-10 — after counting the people, David's heart was troubled."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ಎರಡನೆಯ ಪ್ರಮುಖ ಪಾಪ ಏನು?",
+      "options": [
+        "ಜನಗಣತಿ ತೆಗೆದುಕೊಂಡಿದ್ದು",
+        "ಹೆಚ್ಚು ಹೆಂಡತಿಯರನ್ನು ಮದುವೆಯಾಗಿದ್ದು",
+        "ವಿಗ್ರಹ ಮಾಡಿಸಿದ್ದು",
+        "ಒಡಂಬಡಿಕೆ ಮೀರಿದ್ದು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 24:1-10 — ಜನರನ್ನು ಲೆಕ್ಕಿಸಿದ ನಂತರ ದಾವೀದನ ಹೃದಯ ವ್ಯಾಕುಲಗೊಂಡಿತು."
+    }
+  },
+  {
+    "id": "recjA37DEDbcl5DK6",
+    "en": {
+      "question": "What was the name of the demon Jesus cast out in the region of the Gerasenes?",
+      "options": [
+        "Legion",
+        "Beelzebul",
+        "Mammon",
+        "Asmodeus"
+      ],
+      "reference": "Mark 5:9 — my name is Legion, for we are many."
+    },
+    "kn": {
+      "question": "ಗೆರಸೇನ್ಯರ ಪ್ರಾಂತ್ಯದಲ್ಲಿ ಯೇಸು ಓಡಿಸಿದ ದೆವ್ವದ ಹೆಸರೇನು?",
+      "options": [
+        "ಸೈನ್ಯ (ಲೀಜನ್)",
+        "ಬೆಲ್ಜೆಬೂಲ",
+        "ಮಮ್ಮೋನ",
+        "ಅಸ್ಮೋದೆಯ"
+      ],
+      "reference": "ಮಾರ್ಕ 5:9 — ನನ್ನ ಹೆಸರು ಸೈನ್ಯ (ಲೀಜನ್), ನಾವು ಅನೇಕರು."
+    }
+  },
+  {
+    "id": "recjRIlwKuhyfgdrW",
+    "en": {
+      "question": "Did Paul have a vision of a man calling him to the city of Carthage?",
+      "options": [
+        "Yes, to Carthage",
+        "No, a vision of a man of Macedonia",
+        "No, a vision of a man of Rome",
+        "There was no vision at all"
+      ],
+      "reference": "Acts 16:9 — a man of Macedonia was pleading with him."
+    },
+    "kn": {
+      "question": "ಕರ್ತಾಗ್ ಪಟ್ಟಣಕ್ಕೆ ಬರುವಂತೆ ಕರೆಯುವ ಒಬ್ಬ ಮನುಷ್ಯನ ದರ್ಶನ ಪೌಲನಿಗೆ ಆಯಿತೇ?",
+      "options": [
+        "ಹೌದು, ಕರ್ತಾಗಿಗೆ",
+        "ಇಲ್ಲ, ಮಕೆದೋನ್ಯದ ಮನುಷ್ಯನ ದರ್ಶನ",
+        "ಇಲ್ಲ, ರೋಮಾದ ಮನುಷ್ಯನ ದರ್ಶನ",
+        "ಯಾವ ದರ್ಶನವೂ ಆಗಲಿಲ್ಲ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 16:9 — ಮಕೆದೋನ್ಯದ ಮನುಷ್ಯನೊಬ್ಬನು ಬೇಡಿಕೊಳ್ಳುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recjRsoG7S3tquAKP",
+    "en": {
+      "question": "What golden image did the Israelites make at Sinai?",
+      "options": [
+        "A golden calf",
+        "A golden lamp",
+        "A golden serpent",
+        "A golden throne"
+      ],
+      "reference": "Exodus 32:4 — they made a golden calf."
+    },
+    "kn": {
+      "question": "ಸೀನಾಯಿಯ ಬಳಿ ಇಸ್ರಾಯೇಲ್ಯರು ಯಾವ ಚಿನ್ನದ ಪ್ರತಿಮೆ ಮಾಡಿದರು?",
+      "options": [
+        "ಚಿನ್ನದ ಕರು",
+        "ಚಿನ್ನದ ದೀಪ",
+        "ಚಿನ್ನದ ಸರ್ಪ",
+        "ಚಿನ್ನದ ಸಿಂಹಾಸನ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 32:4 — ಅವರು ಚಿನ್ನದ ಕರುವನ್ನು ಮಾಡಿದರು."
+    }
+  },
+  {
+    "id": "recjyS9SJB7mbIXjT",
+    "en": {
+      "question": "Where did Jesus walk on water?",
+      "options": [
+        "The Sea of Galilee",
+        "The Jordan River",
+        "The Dead Sea",
+        "The Red Sea"
+      ],
+      "reference": "Matthew 14:25 — he went out to them, walking on the sea."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಎಲ್ಲಿ ನೀರಿನ ಮೇಲೆ ನಡೆದನು?",
+      "options": [
+        "ಗಲಿಲಾಯ ಸಮುದ್ರ",
+        "ಯೊರ್ದಾನ್ ನದಿ",
+        "ಮೃತ ಸಮುದ್ರ",
+        "ಕೆಂಪು ಸಮುದ್ರ"
+      ],
+      "reference": "ಮತ್ತಾಯ 14:25 — ಸಮುದ್ರದ ಮೇಲೆ ನಡೆಯುತ್ತಾ ಅವರ ಬಳಿಗೆ ಬಂದನು."
+    }
+  },
+  {
+    "id": "reck3icMwRZ4V6ep2",
+    "en": {
+      "question": "How many kings did the kingdom of Judah have?",
+      "options": [
+        "12",
+        "19",
+        "20",
+        "27"
+      ],
+      "reference": "The books of Kings record 20 kings of Judah."
+    },
+    "kn": {
+      "question": "ಯೆಹೂದ ರಾಜ್ಯಕ್ಕೆ ಎಷ್ಟು ಮಂದಿ ಅರಸರು ಇದ್ದರು?",
+      "options": [
+        "12",
+        "19",
+        "20",
+        "27"
+      ],
+      "reference": "ಅರಸುಗಳ ಗ್ರಂಥಗಳು ಯೆಹೂದಕ್ಕೆ 20 ಅರಸರನ್ನು ತಿಳಿಸುತ್ತವೆ."
+    }
+  },
+  {
+    "id": "reckIiXFV8ZaCGJzL",
+    "en": {
+      "question": "What did Jacob spend most of his youth doing?",
+      "options": [
+        "Staying in the tent with his mother",
+        "Traveling with merchants",
+        "Working in the fields",
+        "Serving in the temple"
+      ],
+      "reference": "Genesis 25:27 — Jacob was content to stay at home among the tents."
+    },
+    "kn": {
+      "question": "ಯುವಕನಾಗಿದ್ದಾಗ ಯಾಕೋಬನು ಹೆಚ್ಚಿನ ಸಮಯ ಏನು ಮಾಡುತ್ತಿದ್ದನು?",
+      "options": [
+        "ತಾಯಿಯೊಂದಿಗೆ ಗುಡಾರದಲ್ಲಿ ಇರುತ್ತಿದ್ದನು",
+        "ವರ್ತಕರೊಂದಿಗೆ ಪ್ರಯಾಣಿಸುತ್ತಿದ್ದನು",
+        "ಹೊಲಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದನು",
+        "ದೇವಾಲಯದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 25:27 — ಯಾಕೋಬನು ಗುಡಾರಗಳಲ್ಲಿ ವಾಸಿಸುವವನಾಗಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recl2tge7RnIDCasJ",
+    "en": {
+      "question": "Who baptized Jesus?",
+      "options": [
+        "John the Baptist",
+        "Peter",
+        "Andrew",
+        "Nicodemus"
+      ],
+      "reference": "Matthew 3:13-16 — Jesus came to John."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿಗೆ ದೀಕ್ಷಾಸ್ನಾನ ಕೊಟ್ಟವರು ಯಾರು?",
+      "options": [
+        "ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ",
+        "ಪೇತ್ರ",
+        "ಅಂದ್ರೆಯ",
+        "ನಿಕೊದೇಮ"
+      ],
+      "reference": "ಮತ್ತಾಯ 3:13-16 — ಯೇಸು ಯೋಹಾನನ ಬಳಿಗೆ ಬಂದನು."
+    }
+  },
+  {
+    "id": "recl3njzwf1I0nX41",
+    "en": {
+      "question": "What happened when the Egyptians pursued through the Red Sea?",
+      "options": [
+        "They returned safely",
+        "The water fell on them and killed them",
+        "They were struck by lightning and died",
+        "They were lost in a storm"
+      ],
+      "reference": "Exodus 14:28 — the water came back and covered the army."
+    },
+    "kn": {
+      "question": "ಐಗುಪ್ತ್ಯರು ಕೆಂಪು ಸಮುದ್ರದ ಮೂಲಕ ಬೆನ್ನಟ್ಟಿದಾಗ ಏನಾಯಿತು?",
+      "options": [
+        "ಸುರಕ್ಷಿತವಾಗಿ ಹಿಂತಿರುಗಿದರು",
+        "ನೀರು ಅವರ ಮೇಲೆ ಬಿದ್ದು ಕೊಂದಿತು",
+        "ಸಿಡಿಲು ಬಡಿದು ಸತ್ತರು",
+        "ಬಿರುಗಾಳಿಯಲ್ಲಿ ಕಳೆದುಹೋದರು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 14:28 — ನೀರು ಹಿಂತಿರುಗಿ ಬಂದು ಸೈನ್ಯವನ್ನು ಮುಚ್ಚಿತು."
+    }
+  },
+  {
+    "id": "reclGhSyfqPVRTwgW",
+    "en": {
+      "question": "After hearing the gospel, what did the Philippian jailer say to Paul?",
+      "options": [
+        "What must I do to be saved?",
+        "Why haven't you left this place?",
+        "Take my sword and kill me",
+        "Leave this town"
+      ],
+      "reference": "Acts 16:30 — sirs, what must I do to be saved?"
+    },
+    "kn": {
+      "question": "ಸುವಾರ್ತೆ ಕೇಳಿದ ನಂತರ ಫಿಲಿಪ್ಪಿಯ ಸೆರೆಮನೆಯ ಅಧಿಕಾರಿ ಪೌಲನಿಗೆ ಏನೆಂದನು?",
+      "options": [
+        "ರಕ್ಷಣೆ ಹೊಂದಲು ನಾನೇನು ಮಾಡಬೇಕು",
+        "ನೀವು ಇಲ್ಲಿಂದ ಏಕೆ ಹೋಗಲಿಲ್ಲ",
+        "ನನ್ನ ಕತ್ತಿ ತೆಗೆದುಕೊಂಡು ನನ್ನನ್ನು ಕೊಲ್ಲಿ",
+        "ಈ ಪಟ್ಟಣದಿಂದ ಹೊರಟುಹೋಗಿ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 16:30 — ಅಯ್ಯಗಳಿರಾ, ರಕ್ಷಣೆ ಹೊಂದಲು ನಾನೇನು ಮಾಡಬೇಕು."
+    }
+  },
+  {
+    "id": "reclNejT3EN6YWqsv",
+    "en": {
+      "question": "How many plagues did God send upon Egypt?",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "12"
+      ],
+      "reference": "Exodus chapters 7-12 record ten plagues."
+    },
+    "kn": {
+      "question": "ದೇವರು ಐಗುಪ್ತದ ಮೇಲೆ ಎಷ್ಟು ಬಾಧೆಗಳನ್ನು ಕಳುಹಿಸಿದನು?",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "12"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 7-12ನೇ ಅಧ್ಯಾಯಗಳಲ್ಲಿ ಹತ್ತು ಬಾಧೆಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "reclPE4rk6amN9d8y",
+    "en": {
+      "question": "What is the 6th commandment?",
+      "options": [
+        "Do not murder",
+        "Do not steal",
+        "Do not covet",
+        "Do not commit adultery"
+      ],
+      "reference": "Exodus 20:13."
+    },
+    "kn": {
+      "question": "6ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕೊಲೆ ಮಾಡಬೇಡ",
+        "ಕದಿಯಬೇಡ",
+        "ಆಶಿಸಬೇಡ",
+        "ವ್ಯಭಿಚಾರ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:13."
+    }
+  },
+  {
+    "id": "recllWoCjV7W1knNm",
+    "en": {
+      "question": "Through what did God speak to Moses in the wilderness?",
+      "options": [
+        "A burning bush",
+        "A pillar of cloud",
+        "A dream",
+        "An angel in human form"
+      ],
+      "reference": "Exodus 3:2-4 — God called to him from within the bush."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯದಲ್ಲಿ ದೇವರು ಮೋಶೆಯೊಂದಿಗೆ ಯಾವುದರ ಮೂಲಕ ಮಾತನಾಡಿದನು?",
+      "options": [
+        "ಉರಿಯುತ್ತಿರುವ ಪೊದೆಯ ಮೂಲಕ",
+        "ಮೇಘಸ್ತಂಭದ ಮೂಲಕ",
+        "ಕನಸಿನಲ್ಲಿ",
+        "ಮಾನವ ರೂಪದ ದೂತನ ಮೂಲಕ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 3:2-4 — ದೇವರು ಪೊದೆಯ ಮಧ್ಯದಿಂದ ಕರೆದನು."
+    }
+  },
+  {
+    "id": "reclzY8Q073rXhAtG",
+    "en": {
+      "question": "How many lepers did Jesus heal when only one returned to thank him?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "12"
+      ],
+      "reference": "Luke 17:12-17 — ten lepers were cleansed."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬನೇ ಹಿಂತಿರುಗಿ ಬಂದಾಗ ಯೇಸು ಎಷ್ಟು ಮಂದಿ ಕುಷ್ಠರೋಗಿಗಳನ್ನು ಗುಣಪಡಿಸಿದ್ದನು?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "12"
+      ],
+      "reference": "ಲೂಕ 17:12-17 — ಹತ್ತು ಕುಷ್ಠರೋಗಿಗಳು ಶುದ್ಧರಾದರು."
+    }
+  },
+  {
+    "id": "recm0dFz3HmuwQduS",
+    "en": {
+      "question": "How did Samson die?",
+      "options": [
+        "By the sword in battle",
+        "He pulled down the temple pillars, killing himself and the Philistines",
+        "Delilah poisoned him",
+        "He was thrown off a cliff"
+      ],
+      "reference": "Judges 16:29-30 — Samson pushed against the pillars with all his might."
+    },
+    "kn": {
+      "question": "ಸಂಸೋನನು ಹೇಗೆ ಮರಣಹೊಂದಿದನು?",
+      "options": [
+        "ಯುದ್ಧದಲ್ಲಿ ಕತ್ತಿಯಿಂದ",
+        "ದೇವಾಲಯದ ಸ್ತಂಭಗಳನ್ನು ಕೆಡವಿ ತಾನೂ ಫಿಲಿಷ್ಟಿಯರೂ ಸತ್ತರು",
+        "ದೆಲೀಲಳು ವಿಷ ಕುಡಿಸಿದಳು",
+        "ಬೆಟ್ಟದಿಂದ ತಳ್ಳಲ್ಪಟ್ಟನು"
+      ],
+      "reference": "ನ್ಯಾಯಸ್ಥಾಪಕರು 16:29-30 — ಸಂಸೋನನು ತನ್ನ ಸರ್ವಶಕ್ತಿಯಿಂದ ಸ್ತಂಭಗಳನ್ನು ಒತ್ತಿದನು."
+    }
+  },
+  {
+    "id": "recmEVBgQO7jlpBes",
+    "en": {
+      "question": "What did the woman pour on Jesus' feet at Simon the leper's house?",
+      "options": [
+        "A jar of expensive perfume",
+        "A jar of wine",
+        "Pure olive oil",
+        "Plain water only"
+      ],
+      "reference": "Mark 14:3 — she broke the jar and poured it."
+    },
+    "kn": {
+      "question": "ಕುಷ್ಠರೋಗಿಯಾದ ಸೀಮೋನನ ಮನೆಯಲ್ಲಿ ಸ್ತ್ರೀಯೊಬ್ಬಳು ಯೇಸುವಿನ ಪಾದಗಳ ಮೇಲೆ ಏನು ಸುರಿದಳು?",
+      "options": [
+        "ಬೆಲೆಬಾಳುವ ಅತ್ತರಿನ ಪಾತ್ರೆ",
+        "ದ್ರಾಕ್ಷಾರಸದ ಪಾತ್ರೆ",
+        "ಶುದ್ಧ ಎಣ್ಣೆ",
+        "ಶುದ್ಧ ನೀರು ಮಾತ್ರ"
+      ],
+      "reference": "ಮಾರ್ಕ 14:3 — ಆಕೆ ಪಾತ್ರೆಯನ್ನು ಒಡೆದು ಸುರಿದಳು."
+    }
+  },
+  {
+    "id": "recmGJ0MiPykWMmHC",
+    "en": {
+      "question": "When Jacob met Laban, which daughter did he wish to marry?",
+      "options": [
+        "Leah",
+        "Rachel",
+        "Dinah",
+        "Zilpah"
+      ],
+      "reference": "Genesis 29:18 — Jacob loved Rachel."
+    },
+    "kn": {
+      "question": "ಯಾಕೋಬನು ಲಾಬಾನನನ್ನು ಸಂಧಿಸಿದಾಗ ಯಾವ ಮಗಳನ್ನು ಮದುವೆಯಾಗಲು ಬಯಸಿದನು?",
+      "options": [
+        "ಲೇಯಳನ್ನು",
+        "ರಾಹೇಲಳನ್ನು",
+        "ದೀನಳನ್ನು",
+        "ಜಿಲ್ಪಾಳನ್ನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 29:18 — ಯಾಕೋಬನು ರಾಹೇಲಳನ್ನು ಪ್ರೀತಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recmGb6N7lYkfaMXV",
+    "en": {
+      "question": "What did God change Jacob's name to?",
+      "options": [
+        "Israel",
+        "Isaac",
+        "Judah",
+        "Abraham"
+      ],
+      "reference": "Genesis 32:28 — your name will no longer be Jacob, but Israel."
+    },
+    "kn": {
+      "question": "ದೇವರು ಯಾಕೋಬನ ಹೆಸರನ್ನು ಯಾವುದಕ್ಕೆ ಬದಲಾಯಿಸಿದನು?",
+      "options": [
+        "ಇಸ್ರಾಯೇಲ್",
+        "ಇಸಾಕ",
+        "ಯೆಹೂದ",
+        "ಅಬ್ರಹಾಮ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 32:28 — ನಿನ್ನ ಹೆಸರು ಇನ್ನು ಯಾಕೋಬನಲ್ಲ, ಇಸ್ರಾಯೇಲ್."
+    }
+  },
+  {
+    "id": "recmGlXRDYGJZZkwJ",
+    "en": {
+      "question": "When Jesus was being arrested, who cut off a soldier's ear?",
+      "options": [
+        "Peter",
+        "Judas",
+        "John",
+        "Thomas"
+      ],
+      "reference": "John 18:10 — Peter cut off his right ear."
+    },
+    "kn": {
+      "question": "ಯೇಸುವನ್ನು ಹಿಡಿಯುತ್ತಿದ್ದಾಗ ಒಬ್ಬ ಸೈನಿಕನ ಕಿವಿಯನ್ನು ಯಾರು ಕತ್ತರಿಸಿದರು?",
+      "options": [
+        "ಪೇತ್ರ",
+        "ಯೂದ",
+        "ಯೋಹಾನ",
+        "ತೋಮ"
+      ],
+      "reference": "ಯೋಹಾನ 18:10 — ಪೇತ್ರನು ಬಲಗಿವಿಯನ್ನು ಕತ್ತರಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recmJGAikxDpe6Mov",
+    "en": {
+      "question": "When Moses threw down his staff before Pharaoh, what did it turn into?",
+      "options": [
+        "A snake",
+        "A rod of fire",
+        "A river of blood",
+        "A swarm of locusts"
+      ],
+      "reference": "Exodus 7:10 — Aaron's staff became a serpent."
+    },
+    "kn": {
+      "question": "ಮೋಶೆ ಫರೋಹನ ಎದುರು ತನ್ನ ಕೋಲನ್ನು ನೆಲದ ಮೇಲೆ ಎಸೆದಾಗ ಅದು ಯಾವುದಾಗಿ ಮಾರ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಹಾವಾಗಿ",
+        "ಬೆಂಕಿಯ ಕೋಲಾಗಿ",
+        "ರಕ್ತದ ನದಿಯಾಗಿ",
+        "ಮಿಡತೆಗಳ ಗುಂಪಾಗಿ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 7:10 — ಆರೋನನ ಕೋಲು ಸರ್ಪವಾಯಿತು."
+    }
+  },
+  {
+    "id": "recmNCSuSxImw7fcC",
+    "en": {
+      "question": "Did Peter raise a woman named Dorcas from the dead?",
+      "options": [
+        "Yes",
+        "No, someone else raised her",
+        "Dorcas was never sick",
+        "This is not in the Bible"
+      ],
+      "reference": "Acts 9:40 — Peter said, Tabitha, get up."
+    },
+    "kn": {
+      "question": "ಪೇತ್ರನು ದೊರ್ಕಳೆಂಬ ಸ್ತ್ರೀಯನ್ನು ಸತ್ತವರೊಳಗಿಂದ ಎಬ್ಬಿಸಿದನೇ?",
+      "options": [
+        "ಹೌದು",
+        "ಇಲ್ಲ, ಬೇರೆಯವರು ಎಬ್ಬಿಸಿದರು",
+        "ದೊರ್ಕಳಿಗೆ ಎಂದೂ ಕಾಯಿಲೆ ಬಂದಿರಲಿಲ್ಲ",
+        "ಇದು ಬೈಬಲಿನಲ್ಲಿ ಇಲ್ಲ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 9:40 — ತಬಿತಾ, ಎದ್ದೇಳು ಎಂದು ಪೇತ್ರನು ಹೇಳಿದನು."
+    }
+  },
+  {
+    "id": "recmPB61crWSKP1g9",
+    "en": {
+      "question": "What did Solomon build for the Lord?",
+      "options": [
+        "The temple",
+        "Only a royal palace",
+        "The city wall",
+        "An altar in the wilderness"
+      ],
+      "reference": "1 Kings 6:1 — Solomon began to build the temple of the Lord."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನು ಯೆಹೋವನಿಗಾಗಿ ಏನು ಕಟ್ಟಿದನು?",
+      "options": [
+        "ದೇವಾಲಯ",
+        "ರಾಜಭವನ ಮಾತ್ರ",
+        "ಪಟ್ಟಣದ ಗೋಡೆ",
+        "ಅರಣ್ಯದಲ್ಲಿ ಬಲಿಪೀಠ"
+      ],
+      "reference": "1 ಅರಸುಗಳು 6:1 — ಸೊಲೊಮೋನನು ಯೆಹೋವನ ಆಲಯವನ್ನು ಕಟ್ಟತೊಡಗಿದನು."
+    }
+  },
+  {
+    "id": "recmYt1LIBHu840t3",
+    "en": {
+      "question": "Who was Jacob's second son through Rachel?",
+      "options": [
+        "Reuben",
+        "Judah",
+        "Benjamin",
+        "Levi"
+      ],
+      "reference": "Genesis 35:18 — Rachel named him Benjamin."
+    },
+    "kn": {
+      "question": "ರಾಹೇಲಳ ಮೂಲಕ ಯಾಕೋಬನಿಗೆ ಹುಟ್ಟಿದ ಎರಡನೆಯ ಮಗ ಯಾರು?",
+      "options": [
+        "ರೂಬೇನ",
+        "ಯೆಹೂದ",
+        "ಬೆನ್ಯಾಮೀನ",
+        "ಲೇವಿ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 35:18 — ರಾಹೇಲಳು ಅವನಿಗೆ ಬೆನ್ಯಾಮೀನ ಎಂದು ಹೆಸರಿಟ್ಟಳು."
+    }
+  },
+  {
+    "id": "recmgTewUSqgXS7dT",
+    "en": {
+      "question": "Which Israelite woman became a king's wife and saved her people from destruction?",
+      "options": [
+        "Esther",
+        "Ruth",
+        "Deborah",
+        "Rahab"
+      ],
+      "reference": "Esther 7:3 — grant me my life, this is my petition."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬ ಅರಸನ ಹೆಂಡತಿಯಾಗಿ ತನ್ನ ಜನರನ್ನು ನಾಶನದಿಂದ ಕಾಪಾಡಿದ ಇಸ್ರಾಯೇಲ್ ಸ್ತ್ರೀ ಯಾರು?",
+      "options": [
+        "ಎಸ್ತೇರಳು",
+        "ರೂತಳು",
+        "ದೆಬೋರಳು",
+        "ರಾಹಾಬಳು"
+      ],
+      "reference": "ಎಸ್ತೇರಳು 7:3 — ನನ್ನ ಬಿನ್ನಹದ ಪ್ರಕಾರ ನನ್ನ ಪ್ರಾಣವನ್ನು ದಯಪಾಲಿಸಿ."
+    }
+  },
+  {
+    "id": "recn3h1KrnqLHYa9x",
+    "en": {
+      "question": "Did everyone Jesus met love and believe in him?",
+      "options": [
+        "Yes, everyone believed",
+        "No, he was often rejected",
+        "Only in his hometown",
+        "Only the religious leaders believed"
+      ],
+      "reference": "John 1:11 — his own people did not receive him."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಸಂಧಿಸಿದ ಪ್ರತಿಯೊಬ್ಬರೂ ಆತನನ್ನು ಪ್ರೀತಿಸಿ ನಂಬಿದರೇ?",
+      "options": [
+        "ಹೌದು, ಎಲ್ಲರೂ ನಂಬಿದರು",
+        "ಇಲ್ಲ, ಆಗಾಗ್ಗೆ ತಿರಸ್ಕರಿಸಲ್ಪಟ್ಟನು",
+        "ಸ್ವಗ್ರಾಮದಲ್ಲಿ ಮಾತ್ರ",
+        "ಧರ್ಮನಾಯಕರು ಮಾತ್ರ ನಂಬಿದರು"
+      ],
+      "reference": "ಯೋಹಾನ 1:11 — ಸ್ವಂತದವರು ಆತನನ್ನು ಅಂಗೀಕರಿಸಲಿಲ್ಲ."
+    }
+  },
+  {
+    "id": "recn4YYKe857SOzi3",
+    "en": {
+      "question": "When David went to fight Goliath, what did Saul try to give him?",
+      "options": [
+        "His own armor",
+        "A sword",
+        "Chariots",
+        "Soldiers"
+      ],
+      "reference": "1 Samuel 17:38 — Saul dressed David in his own tunic and armor."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಗೊಲ್ಯಾತನೊಂದಿಗೆ ಹೋರಾಡಲು ಹೋಗುತ್ತಿದ್ದಾಗ ಸೌಲನು ಅವನಿಗೆ ಏನು ಕೊಡಲು ಪ್ರಯತ್ನಿಸಿದನು?",
+      "options": [
+        "ತನ್ನ ಕವಚವನ್ನು",
+        "ಒಂದು ಕತ್ತಿಯನ್ನು",
+        "ರಥಗಳನ್ನು",
+        "ಸೈನಿಕರನ್ನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 17:38 — ಸೌಲನು ದಾವೀದನಿಗೆ ತನ್ನ ಕವಚವನ್ನು ತೊಡಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recnG4rcUtT6pKFnN",
+    "en": {
+      "question": "What did Moses tell Pharaoh God had commanded through him?",
+      "options": [
+        "To set the Israelites free",
+        "To give Israel more grain",
+        "To build a temple for the Lord",
+        "To release only Joseph's descendants"
+      ],
+      "reference": "Exodus 5:1 — let my people go."
+    },
+    "kn": {
+      "question": "ಮೋಶೆಯ ಮೂಲಕ ದೇವರು ಫರೋಹನಿಗೆ ಆಜ್ಞಾಪಿಸಿದ್ದೇನೆಂದು ಮೋಶೆ ಹೇಳಿದನು?",
+      "options": [
+        "ಇಸ್ರಾಯೇಲ್ಯರನ್ನು ಸ್ವತಂತ್ರಗೊಳಿಸಬೇಕೆಂದು",
+        "ಇಸ್ರಾಯೇಲಿಗೆ ಹೆಚ್ಚು ಧಾನ್ಯ ಕೊಡಬೇಕೆಂದು",
+        "ಯೆಹೋವನಿಗೆ ದೇವಾಲಯ ಕಟ್ಟಬೇಕೆಂದು",
+        "ಯೋಸೇಫನ ಸಂತತಿಯನ್ನು ಮಾತ್ರ ಬಿಡಬೇಕೆಂದು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 5:1 — ನನ್ನ ಜನರನ್ನು ಬಿಡು."
+    }
+  },
+  {
+    "id": "recnTOgT5zx6hu0UT",
+    "en": {
+      "question": "After killing an Egyptian, what did Moses do?",
+      "options": [
+        "He surrendered",
+        "He fled to the wilderness",
+        "He hid in Pharaoh's city",
+        "He returned to Goshen"
+      ],
+      "reference": "Exodus 2:15 — Moses fled from Pharaoh and went to live in Midian."
+    },
+    "kn": {
+      "question": "ಒಬ್ಬ ಐಗುಪ್ತ್ಯನನ್ನು ಕೊಂದ ನಂತರ ಮೋಶೆ ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಶರಣಾದನು",
+        "ಅರಣ್ಯಕ್ಕೆ ಓಡಿಹೋದನು",
+        "ಫರೋಹನ ಪಟ್ಟಣದಲ್ಲಿ ಬಚ್ಚಿಟ್ಟುಕೊಂಡನು",
+        "ಗೋಷೆನಿಗೆ ಹಿಂತಿರುಗಿದನು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 2:15 — ಮೋಶೆ ಫರೋಹನ ಎದುರಿನಿಂದ ಓಡಿಹೋಗಿ ಮಿದ್ಯಾನಿನಲ್ಲಿ ವಾಸಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recnxXRg3SUtHBIuP",
+    "en": {
+      "question": "What was Sarai's name changed to?",
+      "options": [
+        "Sarah",
+        "Rebekah",
+        "Rachel",
+        "Deborah"
+      ],
+      "reference": "Genesis 17:15 — her name will be Sarah."
+    },
+    "kn": {
+      "question": "ಸಾರಯಳ ಹೆಸರು ಯಾವುದಕ್ಕೆ ಬದಲಾಯಿಸಲ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಸಾರಳು",
+        "ರೆಬೆಕ್ಕಳು",
+        "ರಾಹೇಲಳು",
+        "ದೆಬೋರಳು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 17:15 — ಆಕೆಯ ಹೆಸರು ಸಾರಳು ಎಂದು ಕರೆಯಲ್ಪಡುವುದು."
+    }
+  },
+  {
+    "id": "recoytjEM5vTcCha7",
+    "en": {
+      "question": "What is the last book in the Bible?",
+      "options": [
+        "Malachi",
+        "Acts",
+        "Revelation",
+        "Jude"
+      ],
+      "reference": "Revelation 1:1 — the revelation of Jesus Christ."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಕೊನೆಯ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": [
+        "ಮಲಾಕಿ",
+        "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು",
+        "ಪ್ರಕಟನೆ ಗ್ರಂಥ",
+        "ಯೂದ"
+      ],
+      "reference": "ಪ್ರಕಟನೆ 1:1 — ಯೇಸು ಕ್ರಿಸ್ತನ ಪ್ರಕಟನೆ."
+    }
+  },
+  {
+    "id": "recpMF9Nxa1sAVpir",
+    "en": {
+      "question": "When Herod sought to harm the infant Jesus, where did the family flee?",
+      "options": [
+        "Egypt",
+        "Samaria",
+        "Damascus",
+        "Cyprus"
+      ],
+      "reference": "Matthew 2:13-14 — flee to Egypt."
+    },
+    "kn": {
+      "question": "ಹೆರೋದನು ಶಿಶುವಾದ ಯೇಸುವಿಗೆ ಹಾನಿ ಮಾಡಲು ಬಯಸಿದಾಗ ಕುಟುಂಬ ಎಲ್ಲಿಗೆ ಓಡಿಹೋಯಿತು?",
+      "options": [
+        "ಐಗುಪ್ತಕ್ಕೆ",
+        "ಸಮಾರ್ಯಕ್ಕೆ",
+        "ದಮಸ್ಕಕ್ಕೆ",
+        "ಸೈಪ್ರಸ್ ಗೆ"
+      ],
+      "reference": "ಮತ್ತಾಯ 2:13-14 — ಐಗುಪ್ತಕ್ಕೆ ಓಡಿಹೋಗಿರಿ."
+    }
+  },
+  {
+    "id": "recpyMMTI1LTrQiA7",
+    "en": {
+      "question": "How many books are in the New Testament?",
+      "options": [
+        "39",
+        "66",
+        "27",
+        "21"
+      ],
+      "reference": "The New Testament contains 27 books."
+    },
+    "kn": {
+      "question": "ಹೊಸ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ ಎಷ್ಟು ಗ್ರಂಥಗಳಿವೆ?",
+      "options": [
+        "39",
+        "66",
+        "27",
+        "21"
+      ],
+      "reference": "ಹೊಸ ಒಡಂಬಡಿಕೆಯಲ್ಲಿ 27 ಗ್ರಂಥಗಳಿವೆ."
+    }
+  },
+  {
+    "id": "recq0dQ2V16VX9kie",
+    "en": {
+      "question": "What is the longest book in the Bible?",
+      "options": [
+        "The book of Psalms",
+        "Isaiah",
+        "Genesis",
+        "Jeremiah"
+      ],
+      "reference": "The book of Psalms has 150 chapters, the largest in the Bible."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಅತ್ಯಂತ ಉದ್ದವಾದ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": [
+        "ಕೀರ್ತನೆಗಳ ಗ್ರಂಥ",
+        "ಯೆಶಾಯ",
+        "ಆದಿಕಾಂಡ",
+        "ಯೆರೆಮೀಯ"
+      ],
+      "reference": "ಕೀರ್ತನೆಗಳ ಗ್ರಂಥದಲ್ಲಿ 150 ಅಧ್ಯಾಯಗಳಿವೆ, ಇದು ಅತ್ಯಂತ ದೊಡ್ಡದು."
+    }
+  },
+  {
+    "id": "recqDXvAiBE1lA3EG",
+    "en": {
+      "question": "Between Jacob and Esau, who was born first?",
+      "options": [
+        "Jacob",
+        "Esau",
+        "They were not twins",
+        "The Bible does not say"
+      ],
+      "reference": "Genesis 25:25-26 — Esau came out first, then Jacob."
+    },
+    "kn": {
+      "question": "ಯಾಕೋಬ ಏಸಾವರಲ್ಲಿ ಯಾರು ಮೊದಲು ಹುಟ್ಟಿದರು?",
+      "options": [
+        "ಯಾಕೋಬ",
+        "ಏಸಾವ",
+        "ಅವರು ಅವಳಿಗಳಲ್ಲ",
+        "ಬೈಬಲ್ ಹೇಳುವುದಿಲ್ಲ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 25:25-26 — ಏಸಾವನು ಮೊದಲು, ನಂತರ ಯಾಕೋಬನು ಹುಟ್ಟಿದನು."
+    }
+  },
+  {
+    "id": "recqFYKYr5wxWOfxi",
+    "en": {
+      "question": "Which son of David became king after him?",
+      "options": [
+        "Absalom",
+        "Solomon",
+        "Adonijah",
+        "Nathan"
+      ],
+      "reference": "1 Kings 1:39 — Solomon was anointed king."
+    },
+    "kn": {
+      "question": "ದಾವೀದನ ನಂತರ ಅರಸನಾದ ಅವನ ಮಗ ಯಾರು?",
+      "options": [
+        "ಅಬ್ಷಾಲೋಮ",
+        "ಸೊಲೊಮೋನ",
+        "ಅದೋನೀಯ",
+        "ನಾತಾನ"
+      ],
+      "reference": "1 ಅರಸುಗಳು 1:39 — ಸೊಲೊಮೋನನು ಅರಸನಾಗಿ ಅಭಿಷೇಕಿಸಲ್ಪಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recqpkSDCe0VoSd2b",
+    "en": {
+      "question": "Which two Old Testament figures appeared with Jesus at the transfiguration?",
+      "options": [
+        "Elijah and Moses",
+        "Abraham and Isaac",
+        "David and Solomon",
+        "Isaiah and Jeremiah"
+      ],
+      "reference": "Matthew 17:3 — Moses and Elijah appeared with him."
+    },
+    "kn": {
+      "question": "ರೂಪಾಂತರದ ಸಮಯದಲ್ಲಿ ಯೇಸುವಿನೊಂದಿಗೆ ಕಾಣಿಸಿಕೊಂಡ ಇಬ್ಬರು ಹಳೆಯ ಒಡಂಬಡಿಕೆಯ ವ್ಯಕ್ತಿಗಳು ಯಾರು?",
+      "options": [
+        "ಎಲೀಯ ಮೋಶೆ",
+        "ಅಬ್ರಹಾಮ ಇಸಾಕ",
+        "ದಾವೀದ ಸೊಲೊಮೋನ",
+        "ಯೆಶಾಯ ಯೆರೆಮೀಯ"
+      ],
+      "reference": "ಮತ್ತಾಯ 17:3 — ಮೋಶೆ ಎಲೀಯ ಆತನೊಂದಿಗೆ ಕಾಣಿಸಿಕೊಂಡರು."
+    }
+  },
+  {
+    "id": "recqwFKirKTOebRgA",
+    "en": {
+      "question": "Who was Abram's firstborn son?",
+      "options": [
+        "Isaac",
+        "Ishmael",
+        "Esau",
+        "Jacob"
+      ],
+      "reference": "Genesis 16:15 — Hagar bore Abram a son, Ishmael."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಾಮನಿಗೆ ಹುಟ್ಟಿದ ಚೊಚ್ಚಲ ಮಗ ಯಾರು?",
+      "options": [
+        "ಇಸಾಕ",
+        "ಇಷ್ಮಾಯೇಲ",
+        "ಏಸಾವ",
+        "ಯಾಕೋಬ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 16:15 — ಹಾಗರಳು ಅಬ್ರಾಮನಿಗೆ ಇಷ್ಮಾಯೇಲನನ್ನು ಹೆತ್ತಳು."
+    }
+  },
+  {
+    "id": "recqwmYwJ1HnyM24k",
+    "en": {
+      "question": "While David was in Jerusalem, with which woman did he commit adultery?",
+      "options": [
+        "Bathsheba",
+        "Abigail",
+        "Michal",
+        "Tamar"
+      ],
+      "reference": "2 Samuel 11:2-4 — David saw Bathsheba bathing."
+    },
+    "kn": {
+      "question": "ದಾವೀದನು ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಇದ್ದಾಗ ಯಾವ ಸ್ತ್ರೀಯೊಂದಿಗೆ ವ್ಯಭಿಚಾರ ಮಾಡಿದನು?",
+      "options": [
+        "ಬತ್ಷೆಬೆ",
+        "ಅಬೀಗೈಲ್",
+        "ಮೀಕಲಳು",
+        "ತಾಮಾರಳು"
+      ],
+      "reference": "2 ಸಮುವೇಲ 11:2-4 — ದಾವೀದನು ಬತ್ಷೆಬೆ ಸ್ನಾನ ಮಾಡುವುದನ್ನು ಕಂಡನು."
+    }
+  },
+  {
+    "id": "recrEFUSZII5Cjzq3",
+    "en": {
+      "question": "Which apostle shared the gospel with the Ethiopian official on the road to Gaza?",
+      "options": [
+        "Philip",
+        "Peter",
+        "John",
+        "Andrew"
+      ],
+      "reference": "Acts 8:26-27 — Philip met the Ethiopian eunuch."
+    },
+    "kn": {
+      "question": "ಗಾಜಾ ಮಾರ್ಗದಲ್ಲಿ ಇಥಿಯೋಪ್ಯದ ಅಧಿಕಾರಿಯೊಂದಿಗೆ ಸುವಾರ್ತೆ ಹಂಚಿಕೊಂಡ ಅಪೊಸ್ತಲ ಯಾರು?",
+      "options": [
+        "ಫಿಲಿಪ್ಪ",
+        "ಪೇತ್ರ",
+        "ಯೋಹಾನ",
+        "ಅಂದ್ರೆಯ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 8:26-27 — ಫಿಲಿಪ್ಪನು ಇಥಿಯೋಪ್ಯದ ಕಂಚುಕಿಯನ್ನು ಸಂಧಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recrNMC2GUH3lLJer",
+    "en": {
+      "question": "Besides preaching, what else did Jesus do in Galilee?",
+      "options": [
+        "Healed the sick and cast out demons",
+        "Built boats",
+        "Collected taxes",
+        "Farmed the land"
+      ],
+      "reference": "Matthew 4:23-24 — he healed every disease."
+    },
+    "kn": {
+      "question": "ಪ್ರಸಂಗಿಸುವುದಲ್ಲದೆ ಗಲಿಲಾಯದಲ್ಲಿ ಯೇಸು ಇನ್ನೇನು ಮಾಡಿದನು?",
+      "options": [
+        "ರೋಗಿಗಳನ್ನು ಗುಣಪಡಿಸಿ, ದೆವ್ವಗಳನ್ನು ಓಡಿಸಿದನು",
+        "ದೋಣಿಗಳನ್ನು ಕಟ್ಟಿದನು",
+        "ಸುಂಕ ವಸೂಲಿ ಮಾಡಿದನು",
+        "ವ್ಯವಸಾಯ ಮಾಡಿದನು"
+      ],
+      "reference": "ಮತ್ತಾಯ 4:23-24 — ಪ್ರತಿ ರೋಗವನ್ನು ಗುಣಪಡಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recrOeWbT7Us7YQfI",
+    "en": {
+      "question": "What did Saul throw at David to kill him?",
+      "options": [
+        "A spear",
+        "A stone",
+        "A sword",
+        "A torch"
+      ],
+      "reference": "1 Samuel 18:11 — Saul hurled his spear at David."
+    },
+    "kn": {
+      "question": "ದಾವೀದನನ್ನು ಕೊಲ್ಲಲು ಸೌಲನು ಏನನ್ನು ಎಸೆದನು?",
+      "options": [
+        "ಈಟಿಯನ್ನು",
+        "ಕಲ್ಲನ್ನು",
+        "ಕತ್ತಿಯನ್ನು",
+        "ಪಂಜನ್ನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 18:11 — ಸೌಲನು ದಾವೀದನ ಮೇಲೆ ಈಟಿಯನ್ನು ಎಸೆದನು."
+    }
+  },
+  {
+    "id": "recrdXyO90bJ7J0Vi",
+    "en": {
+      "question": "What food did God send the Israelites in the wilderness?",
+      "options": [
+        "Quail and manna",
+        "Bread and wine",
+        "Fish and bread",
+        "Milk and honey"
+      ],
+      "reference": "Exodus 16:13-15 — quail in the evening, manna in the morning."
+    },
+    "kn": {
+      "question": "ಅರಣ್ಯದಲ್ಲಿ ಇಸ್ರಾಯೇಲ್ಯರಿಗೆ ಆಹಾರವಾಗಿ ದೇವರು ಏನನ್ನು ಕಳುಹಿಸಿದನು?",
+      "options": [
+        "ಲಾವಕ್ಕಿ ಪಕ್ಷಿಗಳು ಮತ್ತು ಮನ್ನ",
+        "ರೊಟ್ಟಿ ಮತ್ತು ದ್ರಾಕ್ಷಾರಸ",
+        "ಮೀನುಗಳು ಮತ್ತು ರೊಟ್ಟಿ",
+        "ಹಾಲು ಮತ್ತು ಜೇನುತುಪ್ಪ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 16:13-15 — ಸಾಯಂಕಾಲ ಲಾವಕ್ಕಿ ಪಕ್ಷಿಗಳು, ಬೆಳಿಗ್ಗೆ ಮನ್ನ."
+    }
+  },
+  {
+    "id": "recrg9HsV2QCWW18R",
+    "en": {
+      "question": "Did Ananias and Sapphira die after lying to the apostles about their offering?",
+      "options": [
+        "Yes, both of them died",
+        "No, they were only rebuked",
+        "Only Ananias died",
+        "They were forgiven and lived"
+      ],
+      "reference": "Acts 5:5,10 — both Ananias and Sapphira fell down and died."
+    },
+    "kn": {
+      "question": "ಅನನೀಯ ಸಫೈರಳು ತಮ್ಮ ಕಾಣಿಕೆಯ ಬಗ್ಗೆ ಅಪೊಸ್ತಲರಿಗೆ ಸುಳ್ಳು ಹೇಳಿದ ನಂತರ ಮರಣಹೊಂದಿದರೇ?",
+      "options": [
+        "ಹೌದು, ಇಬ್ಬರೂ ಮರಣಹೊಂದಿದರು",
+        "ಇಲ್ಲ, ಗದರಿಸಲ್ಪಟ್ಟರು ಮಾತ್ರ",
+        "ಅನನೀಯನೊಬ್ಬನೇ ಮರಣಹೊಂದಿದನು",
+        "ಕ್ಷಮಿಸಲ್ಪಟ್ಟು ಬದುಕಿದರು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 5:5,10 — ಅನನೀಯ ಸಫೈರಳು ಇಬ್ಬರೂ ಬಿದ್ದು ಮರಣಹೊಂದಿದರು."
+    }
+  },
+  {
+    "id": "recrgfGQvmdR8nN09",
+    "en": {
+      "question": "While on earth, did Jesus have the power to raise the dead?",
+      "options": [
+        "Yes, on several occasions",
+        "No, only God the Father could",
+        "Only for Lazarus",
+        "Only for infants"
+      ],
+      "reference": "Luke 7:14-15; 8:54-55; John 11:43-44 — Jesus raised the dead."
+    },
+    "kn": {
+      "question": "ಭೂಮಿಯಲ್ಲಿ ಇದ್ದಾಗ ಯೇಸುವಿಗೆ ಸತ್ತವರನ್ನು ಪುನಃ ಬದುಕಿಸುವ ಶಕ್ತಿ ಇತ್ತೇ?",
+      "options": [
+        "ಹೌದು, ಅನೇಕ ಬಾರಿ",
+        "ಇಲ್ಲ, ತಂದೆಯಾದ ದೇವರಿಗೆ ಮಾತ್ರ",
+        "ಲಾಜರನಿಗಾಗಿ ಮಾತ್ರ",
+        "ಶಿಶುಗಳಿಗಾಗಿ ಮಾತ್ರ"
+      ],
+      "reference": "ಲೂಕ 7:14-15; 8:54-55; ಯೋಹಾನ 11:43-44 — ಯೇಸು ಸತ್ತವರನ್ನು ಎಬ್ಬಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recrhNLp6www5mTsD",
+    "en": {
+      "question": "Which letter did Paul likely write first?",
+      "options": [
+        "Romans",
+        "1 Thessalonians",
+        "Galatians",
+        "1 Corinthians"
+      ],
+      "reference": "1 Thessalonians is generally considered Paul's earliest letter."
+    },
+    "kn": {
+      "question": "ಪೌಲನು ಬರೆದ ಮೊದಲ ಪತ್ರಿಕೆ ಯಾವುದಾಗಿರಬಹುದು?",
+      "options": [
+        "ರೋಮಾಪುರದವರಿಗೆ",
+        "1 ಥೆಸಲೋನಿಕದವರಿಗೆ",
+        "ಗಲಾತ್ಯದವರಿಗೆ",
+        "1 ಕೊರಿಂಥದವರಿಗೆ"
+      ],
+      "reference": "1 ಥೆಸಲೋನಿಕದವರಿಗೆ ಪತ್ರಿಕೆಯನ್ನು ಪೌಲನ ಮೊದಲ ಪತ್ರಿಕೆಯೆಂದು ಸಾಮಾನ್ಯವಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ."
+    }
+  },
+  {
+    "id": "recs0cH6qYeu9hPMf",
+    "en": {
+      "question": "What happened to the temple curtain when Jesus died?",
+      "options": [
+        "It tore in two",
+        "It burned up",
+        "It fell to the ground",
+        "Nothing happened"
+      ],
+      "reference": "Matthew 27:51 — the curtain of the temple was torn in two."
+    },
+    "kn": {
+      "question": "ಯೇಸು ಮರಣಹೊಂದಿದಾಗ ದೇವಾಲಯದ ಪರದೆಗೆ ಏನಾಯಿತು?",
+      "options": [
+        "ಎರಡಾಗಿ ಹರಿಯಿತು",
+        "ಸುಟ್ಟುಹೋಯಿತು",
+        "ನೆಲದ ಮೇಲೆ ಬಿದ್ದಿತು",
+        "ಏನೂ ಆಗಲಿಲ್ಲ"
+      ],
+      "reference": "ಮತ್ತಾಯ 27:51 — ದೇವಾಲಯದ ಪರದೆ ಎರಡಾಗಿ ಹರಿಯಿತು."
+    }
+  },
+  {
+    "id": "recs7fx106lrGrVPS",
+    "en": {
+      "question": "What was the miracle of tongues at Pentecost?",
+      "options": [
+        "Everyone heard the message in their own language",
+        "Everyone became silent",
+        "Everyone spoke only Hebrew",
+        "Everyone lost the power of speech"
+      ],
+      "reference": "Acts 2:6 — each one heard them speaking in his own language."
+    },
+    "kn": {
+      "question": "ಪಂಚಾಶತ್ತಮದಲ್ಲಿ ಭಾಷೆಗಳ ಅದ್ಭುತ ಏನಾಗಿತ್ತು?",
+      "options": [
+        "ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ತಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಸಂದೇಶ ಕೇಳಿದರು",
+        "ಎಲ್ಲರೂ ಮೌನವಾದರು",
+        "ಎಲ್ಲರೂ ಹಿಬ್ರೂ ಮಾತ್ರ ಮಾತನಾಡಿದರು",
+        "ಎಲ್ಲರೂ ಮಾತನಾಡುವ ಶಕ್ತಿ ಕಳೆದುಕೊಂಡರು"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 2:6 — ಪ್ರತಿಯೊಬ್ಬನೂ ತನ್ನ ಸ್ವಂತ ಭಾಷೆಯಲ್ಲಿ ಕೇಳುತ್ತಿದ್ದನು."
+    }
+  },
+  {
+    "id": "recsBkRg4GCyJVHwe",
+    "en": {
+      "question": "Where did Adam and Eve first live?",
+      "options": [
+        "The Garden of Eden",
+        "The land of Nod",
+        "Mount Sinai",
+        "Ur"
+      ],
+      "reference": "Genesis 2:8 — God planted a garden in Eden."
+    },
+    "kn": {
+      "question": "ಆದಾಮ ಹವ್ವರು ಮೊದಲು ಎಲ್ಲಿ ವಾಸಿಸಿದರು?",
+      "options": [
+        "ಏದೆನ್ ತೋಟ",
+        "ನೋದ್ ದೇಶ",
+        "ಸೀನಾಯಿ ಬೆಟ್ಟ",
+        "ಊರ್"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 2:8 — ದೇವರು ಏದೆನಿನಲ್ಲಿ ಒಂದು ತೋಟ ನೆಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recsQtychXPUnCnFJ",
+    "en": {
+      "question": "Whom did Laban trick Jacob into marrying first?",
+      "options": [
+        "Rachel",
+        "Leah",
+        "Dinah",
+        "Bilhah"
+      ],
+      "reference": "Genesis 29:23-25 — Laban gave him Leah."
+    },
+    "kn": {
+      "question": "ಲಾಬಾನನು ಯಾಕೋಬನನ್ನು ಮೋಸಗೊಳಿಸಿ ಮೊದಲು ಯಾರನ್ನು ಮದುವೆ ಮಾಡಿಸಿದನು?",
+      "options": [
+        "ರಾಹೇಲಳನ್ನು",
+        "ಲೇಯಳನ್ನು",
+        "ದೀನಳನ್ನು",
+        "ಬಿಲ್ಹಳನ್ನು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 29:23-25 — ಲಾಬಾನನು ಲೇಯಳನ್ನು ಕೊಟ್ಟನು."
+    }
+  },
+  {
+    "id": "recseAxxFwXbl1PEl",
+    "en": {
+      "question": "Did Jesus say the Old Testament law was no longer needed?",
+      "options": [
+        "Yes, he abolished it",
+        "No — he said he came not to abolish it but to fulfill it",
+        "Only the Ten Commandments still mattered, he said",
+        "He never spoke about this"
+      ],
+      "reference": "Matthew 5:17 — I have not come to abolish them but to fulfill them."
+    },
+    "kn": {
+      "question": "ಹಳೆಯ ಒಡಂಬಡಿಕೆಯ ನಿಯಮಗಳು ಇನ್ನು ಬೇಕಾಗಿಲ್ಲವೆಂದು ಯೇಸು ಹೇಳಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಅವುಗಳನ್ನು ರದ್ದುಗೊಳಿಸಿದನು",
+        "ಇಲ್ಲ — ರದ್ದುಗೊಳಿಸಲು ಅಲ್ಲ, ನೆರವೇರಿಸಲು ಬಂದೆನೆಂದನು",
+        "ಹತ್ತು ಆಜ್ಞೆಗಳು ಮಾತ್ರ ಇನ್ನೂ ಮುಖ್ಯವೆಂದನು",
+        "ಈ ವಿಷಯದ ಬಗ್ಗೆ ಎಂದೂ ಮಾತನಾಡಲಿಲ್ಲ"
+      ],
+      "reference": "ಮತ್ತಾಯ 5:17 — ನಾನು ನಾಶಮಾಡಲು ಬರಲಿಲ್ಲ, ನೆರವೇರಿಸಲು ಬಂದೆನು."
+    }
+  },
+  {
+    "id": "recspLz7hGGS5NTJE",
+    "en": {
+      "question": "How many books named John are there in the Bible?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "reference": "John, 1 John, 2 John, 3 John."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಯೋಹಾನ ಎಂಬ ಹೆಸರಿನ ಎಷ್ಟು ಗ್ರಂಥಗಳಿವೆ?",
+      "options": [
+        "ಎರಡು",
+        "ಮೂರು",
+        "ನಾಲ್ಕು",
+        "ಐದು"
+      ],
+      "reference": "ಯೋಹಾನ, 1 ಯೋಹಾನ, 2 ಯೋಹಾನ, 3 ಯೋಹಾನ."
+    }
+  },
+  {
+    "id": "recsw5s73xlGZ7g2E",
+    "en": {
+      "question": "What is the 1st commandment?",
+      "options": [
+        "You shall have no other gods before me",
+        "Do not make idols",
+        "Do not steal",
+        "Honor your father and mother"
+      ],
+      "reference": "Exodus 20:3."
+    },
+    "kn": {
+      "question": "1ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ನನ್ನ ಮುಂದೆ ಬೇರೆ ದೇವರುಗಳು ನಿನಗೆ ಇರಬಾರದು",
+        "ವಿಗ್ರಹಗಳನ್ನು ಮಾಡಿಕೊಳ್ಳಬೇಡ",
+        "ಕದಿಯಬೇಡ",
+        "ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸು"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:3."
+    }
+  },
+  {
+    "id": "recsxDMxojxsvwbXw",
+    "en": {
+      "question": "Which apostle brought the gospel to the city of Samaria?",
+      "options": [
+        "Philip",
+        "Thomas",
+        "Bartholomew",
+        "James"
+      ],
+      "reference": "Acts 8:5 — Philip went down to the city of Samaria."
+    },
+    "kn": {
+      "question": "ಸಮಾರ್ಯ ಪಟ್ಟಣಕ್ಕೆ ಸುವಾರ್ತೆಯನ್ನು ಯಾವ ಅಪೊಸ್ತಲ ತೆಗೆದುಕೊಂಡು ಹೋದನು?",
+      "options": [
+        "ಫಿಲಿಪ್ಪ",
+        "ತೋಮ",
+        "ಬರ್ತೊಲೊಮಾಯ",
+        "ಯಾಕೋಬ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 8:5 — ಫಿಲಿಪ್ಪನು ಸಮಾರ್ಯ ಪಟ್ಟಣಕ್ಕೆ ಹೋದನು."
+    }
+  },
+  {
+    "id": "rectIMX4O39kFhBBz",
+    "en": {
+      "question": "What is the 5th petition in the Lord's Prayer?",
+      "options": [
+        "Forgive us our debts",
+        "Give us our daily bread",
+        "Lead us not into temptation",
+        "Hallowed be your name"
+      ],
+      "reference": "Matthew 6:12."
+    },
+    "kn": {
+      "question": "ಕರ್ತನ ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ 5ನೆಯ ವಿಜ್ಞಾಪನೆ ಏನು?",
+      "options": [
+        "ನಮ್ಮ ಸಾಲಗಳನ್ನು ಕ್ಷಮಿಸು",
+        "ನಮ್ಮ ಅನುದಿನದ ಆಹಾರವನ್ನು ಕೊಡು",
+        "ನಮ್ಮನ್ನು ಶೋಧನೆಗೆ ನಡೆಸಬೇಡ",
+        "ನಿನ್ನ ನಾಮ ಪರಿಶುದ್ಧವಾಗಲಿ"
+      ],
+      "reference": "ಮತ್ತಾಯ 6:12."
+    }
+  },
+  {
+    "id": "rectIWgo21WfKaoT4",
+    "en": {
+      "question": "When the people demanded a sacrifice that only priests should offer, what did Saul do?",
+      "options": [
+        "He waited for Samuel",
+        "He offered the sacrifice himself",
+        "He asked Samuel's permission",
+        "He sent for a priest from Jerusalem"
+      ],
+      "reference": "1 Samuel 13:9-13 — Saul offered the burnt offering himself."
+    },
+    "kn": {
+      "question": "ಯಾಜಕರು ಮಾತ್ರ ಅರ್ಪಿಸಬೇಕಾದ ಬಲಿಯನ್ನು ಜನರು ಕೇಳಿದಾಗ ಸೌಲನು ಏನು ಮಾಡಿದನು?",
+      "options": [
+        "ಸಮುವೇಲನಿಗಾಗಿ ಕಾಯುತ್ತಿದ್ದನು",
+        "ತಾನೇ ಬಲಿ ಅರ್ಪಿಸಿದನು",
+        "ಸಮುವೇಲನ ಅನುಮತಿ ಕೇಳಿದನು",
+        "ಯೆರೂಸಲೇಮಿನಿಂದ ಯಾಜಕನನ್ನು ಕರೆಸಿದನು"
+      ],
+      "reference": "1 ಸಮುವೇಲ 13:9-13 — ಸೌಲನು ಸ್ವತಃ ದಹನಬಲಿ ಅರ್ಪಿಸಿದನು."
+    }
+  },
+  {
+    "id": "rectRetkMyWWUABq2",
+    "en": {
+      "question": "Whose city walls did God knock down for Joshua to conquer?",
+      "options": [
+        "Jericho",
+        "Ai",
+        "Hebron",
+        "Bethel"
+      ],
+      "reference": "Joshua 6:20 — the wall collapsed."
+    },
+    "kn": {
+      "question": "ಯೆಹೋಶುವನು ಜಯಿಸುವಂತೆ ದೇವರು ಯಾವ ಪಟ್ಟಣದ ಗೋಡೆಗಳನ್ನು ಕೆಡವಿದನು?",
+      "options": [
+        "ಯೆರಿಕೋ",
+        "ಆಯಿ",
+        "ಹೆಬ್ರೋನ",
+        "ಬೇತೇಲ"
+      ],
+      "reference": "ಯೆಹೋಶುವ 6:20 — ಗೋಡೆ ಕುಸಿದುಬಿತ್ತು."
+    }
+  },
+  {
+    "id": "rectjglogVcQ3OxMY",
+    "en": {
+      "question": "What was the meaning of Peter's vision about the unclean animals?",
+      "options": [
+        "Through Jesus, everyone can be made clean",
+        "Israelites should not eat meat",
+        "Gentiles were forbidden in the church",
+        "This has no special meaning"
+      ],
+      "reference": "Acts 10:28,34-35 — God does not show favoritism."
+    },
+    "kn": {
+      "question": "ಅಶುದ್ಧ ಪ್ರಾಣಿಗಳ ಬಗ್ಗೆ ಪೇತ್ರನ ದರ್ಶನದ ಅರ್ಥವೇನು?",
+      "options": [
+        "ಯೇಸುವಿನ ಮೂಲಕ ಎಲ್ಲರೂ ಶುದ್ಧರಾಗಬಹುದು",
+        "ಇಸ್ರಾಯೇಲ್ಯರು ಮಾಂಸ ತಿನ್ನಬಾರದು",
+        "ಅನ್ಯಜನರು ಸಭೆಯಲ್ಲಿ ನಿಷೇಧಿಸಲ್ಪಟ್ಟಿದ್ದರು",
+        "ಇದಕ್ಕೆ ವಿಶೇಷ ಅರ್ಥವಿಲ್ಲ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 10:28,34-35 — ದೇವರು ಪಕ್ಷಪಾತಿಯಲ್ಲ."
+    }
+  },
+  {
+    "id": "recuf1pkXQtpHc2RI",
+    "en": {
+      "question": "How many books are there in the whole Bible?",
+      "options": [
+        "39",
+        "66",
+        "73",
+        "27"
+      ],
+      "reference": "There are 66 books in total: 39 Old Testament, 27 New Testament."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನಲ್ಲಿ ಒಟ್ಟು ಎಷ್ಟು ಗ್ರಂಥಗಳಿವೆ?",
+      "options": [
+        "39",
+        "66",
+        "73",
+        "27"
+      ],
+      "reference": "ಒಟ್ಟು 66 ಗ್ರಂಥಗಳು: 39 ಹಳೆಯ ಒಡಂಬಡಿಕೆ, 27 ಹೊಸ ಒಡಂಬಡಿಕೆ."
+    }
+  },
+  {
+    "id": "recvMDP4aEyoRmWDT",
+    "en": {
+      "question": "What quality did Solomon pray to God for?",
+      "options": [
+        "Wealth",
+        "Wisdom",
+        "Long life",
+        "Military strength"
+      ],
+      "reference": "1 Kings 3:9 — give me a discerning heart."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನು ದೇವರ ಬಳಿ ಯಾವ ಗುಣಕ್ಕಾಗಿ ಪ್ರಾರ್ಥಿಸಿದನು?",
+      "options": [
+        "ಐಶ್ವರ್ಯ",
+        "ಜ್ಞಾನ",
+        "ದೀರ್ಘಾಯುಷ್ಯ",
+        "ಸೈನಿಕ ಬಲ"
+      ],
+      "reference": "1 ಅರಸುಗಳು 3:9 — ವಿವೇಕವುಳ್ಳ ಹೃದಯವನ್ನು ದಯಪಾಲಿಸು."
+    }
+  },
+  {
+    "id": "recvMfoKS0JfhmT1V",
+    "en": {
+      "question": "What did the brothers tell their father had happened to Joseph?",
+      "options": [
+        "He had run away",
+        "A wild animal had devoured him",
+        "He had drowned in a river",
+        "Soldiers had captured him"
+      ],
+      "reference": "Genesis 37:33 — they assumed a wild animal had devoured him."
+    },
+    "kn": {
+      "question": "ಯೋಸೇಫನಿಗೆ ಏನಾಯಿತೆಂದು ಸಹೋದರರು ತಂದೆಗೆ ಹೇಳಿದರು?",
+      "options": [
+        "ಓಡಿಹೋದನೆಂದು",
+        "ಕ್ರೂರ ಮೃಗ ತಿಂದುಬಿಟ್ಟಿತೆಂದು",
+        "ನದಿಯಲ್ಲಿ ಮುಳುಗಿದನೆಂದು",
+        "ಸೈನಿಕರು ಹಿಡಿದುಕೊಂಡರೆಂದು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 37:33 — ಕ್ರೂರ ಮೃಗ ಅವನನ್ನು ತಿಂದುಬಿಟ್ಟಿತೆಂದು ಭಾವಿಸಿದರು."
+    }
+  },
+  {
+    "id": "recvY6UwKPppBIWhd",
+    "en": {
+      "question": "Where was Daniel thrown for praying to God despite the ban?",
+      "options": [
+        "Into a lions' den",
+        "Into a fiery furnace",
+        "Into prison",
+        "Into a pit"
+      ],
+      "reference": "Daniel 6:16 — Daniel was thrown into the lions' den."
+    },
+    "kn": {
+      "question": "ನಿಷೇಧವಿದ್ದರೂ ದೇವರಿಗೆ ಪ್ರಾರ್ಥಿಸಿದ್ದಕ್ಕಾಗಿ ದಾನಿಯೇಲನನ್ನು ಎಲ್ಲಿಗೆ ಎಸೆಯಲಾಯಿತು?",
+      "options": [
+        "ಸಿಂಹದ ಗವಿಯೊಳಗೆ",
+        "ಬೆಂಕಿಯ ಆವಿಗೆಯೊಳಗೆ",
+        "ಸೆರೆಮನೆಯೊಳಗೆ",
+        "ಗುಂಡಿಯೊಳಗೆ"
+      ],
+      "reference": "ದಾನಿಯೇಲ 6:16 — ದಾನಿಯೇಲನನ್ನು ಸಿಂಹದ ಗವಿಯೊಳಗೆ ಎಸೆಯಲಾಯಿತು."
+    }
+  },
+  {
+    "id": "recwFfmKNoACro0gl",
+    "en": {
+      "question": "Who returned to Israel to rebuild the walls of Jerusalem?",
+      "options": [
+        "Ezra",
+        "Nehemiah",
+        "Zerubbabel",
+        "Mordecai"
+      ],
+      "reference": "Nehemiah 2:17 — come, let us rebuild the wall of Jerusalem."
+    },
+    "kn": {
+      "question": "ಯೆರೂಸಲೇಮಿನ ಗೋಡೆಗಳನ್ನು ಪುನಃ ಕಟ್ಟಲು ಇಸ್ರಾಯೇಲಿಗೆ ಹಿಂತಿರುಗಿ ಬಂದವರು ಯಾರು?",
+      "options": [
+        "ಎಜ್ರಾ",
+        "ನೆಹೆಮೀಯ",
+        "ಜೆರುಬ್ಬಾಬೆಲ",
+        "ಮೊರ್ದೆಕೈ"
+      ],
+      "reference": "ನೆಹೆಮೀಯ 2:17 — ಯೆರೂಸಲೇಮಿನ ಗೋಡೆಯನ್ನು ಕಟ್ಟೋಣ ಬನ್ನಿ."
+    }
+  },
+  {
+    "id": "recwHPCdsc64G762s",
+    "en": {
+      "question": "What was Saul's name changed to?",
+      "options": [
+        "Paul",
+        "Silas",
+        "Barnabas",
+        "Stephen"
+      ],
+      "reference": "Acts 13:9 — Saul, who was also called Paul."
+    },
+    "kn": {
+      "question": "ಸೌಲನ ಹೆಸರು ಯಾವುದಕ್ಕೆ ಬದಲಾಯಿಸಲ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಪೌಲ",
+        "ಸೀಲ",
+        "ಬರ್ನಬ",
+        "ಸ್ತೆಫನ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 13:9 — ಪೌಲನೆನಿಸಿಕೊಂಡ ಸೌಲನು."
+    }
+  },
+  {
+    "id": "recwqcdKXeLs4RJSc",
+    "en": {
+      "question": "Did Solomon follow the Lord faithfully throughout his life?",
+      "options": [
+        "Yes, his whole life",
+        "No, he later turned away from God",
+        "Only in his youth",
+        "He never worshiped God"
+      ],
+      "reference": "1 Kings 11:4 — his wives turned his heart away."
+    },
+    "kn": {
+      "question": "ಸೊಲೊಮೋನನು ತನ್ನ ಜೀವನಪೂರ್ತಿ ಯೆಹೋವನನ್ನು ನಂಬಿಗಸ್ತಿಕೆಯಿಂದ ಅನುಸರಿಸಿದನೇ?",
+      "options": [
+        "ಹೌದು, ಜೀವಿತ ಪೂರ್ತಿ",
+        "ಇಲ್ಲ, ನಂತರ ದೇವರನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು",
+        "ಯುವಕನಾಗಿದ್ದಾಗ ಮಾತ್ರ",
+        "ಎಂದೂ ಆರಾಧಿಸಲಿಲ್ಲ"
+      ],
+      "reference": "1 ಅರಸುಗಳು 11:4 — ಅವನ ಹೆಂಡತಿಯರು ಅವನ ಹೃದಯವನ್ನು ತಿರುಗಿಸಿದರು."
+    }
+  },
+  {
+    "id": "recx4Ozn06TjOVQ5F",
+    "en": {
+      "question": "What did Joseph's dreams signify to his brothers?",
+      "options": [
+        "That he would become great and rule over them",
+        "That he would leave the family",
+        "That he would become a slave",
+        "That he would die young"
+      ],
+      "reference": "Genesis 37:5-9 — Joseph's sheaves and stars bowed down to him."
+    },
+    "kn": {
+      "question": "ಯೋಸೇಫನ ಕನಸುಗಳು ಅವನ ಸಹೋದರರಿಗೆ ಏನನ್ನು ಸೂಚಿಸಿದವು?",
+      "options": [
+        "ಅವನು ಮಹಾನಾಗಿ ಅವರ ಮೇಲೆ ಆಳುತ್ತಾನೆಂದು",
+        "ಅವನು ಕುಟುಂಬವನ್ನು ಬಿಟ್ಟುಹೋಗುತ್ತಾನೆಂದು",
+        "ಅವನು ದಾಸನಾಗುತ್ತಾನೆಂದು",
+        "ಅವನು ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲಿ ಸಾಯುತ್ತಾನೆಂದು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 37:5-9 — ಯೋಸೇಫನ ಸಿವುಡುಗಳಿಗೂ ನಕ್ಷತ್ರಗಳಿಗೂ ಅವನಿಗೆ ಅಡ್ಡಬಿದ್ದವು."
+    }
+  },
+  {
+    "id": "recxEVFHxLBkdG6wE",
+    "en": {
+      "question": "In which language was most of the New Testament written?",
+      "options": [
+        "Hebrew",
+        "Greek",
+        "Latin",
+        "Aramaic"
+      ],
+      "reference": "The New Testament was written mostly in Greek."
+    },
+    "kn": {
+      "question": "ಹೊಸ ಒಡಂಬಡಿಕೆಯ ಬಹುಭಾಗ ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿತು?",
+      "options": [
+        "ಹಿಬ್ರೂ",
+        "ಗ್ರೀಕ್",
+        "ಲ್ಯಾಟಿನ್",
+        "ಅರಾಮಿಕ್"
+      ],
+      "reference": "ಹೊಸ ಒಡಂಬಡಿಕೆ ಹೆಚ್ಚಾಗಿ ಗ್ರೀಕ್ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿತು."
+    }
+  },
+  {
+    "id": "recxP3H9yv5oZjpxU",
+    "en": {
+      "question": "What did David take from the stream to fight Goliath?",
+      "options": [
+        "Five smooth stones",
+        "A spear",
+        "A shield",
+        "A sword"
+      ],
+      "reference": "1 Samuel 17:40 — he chose five smooth stones."
+    },
+    "kn": {
+      "question": "ಗೊಲ್ಯಾತನೊಂದಿಗೆ ಹೋರಾಡಲು ದಾವೀದನು ಹಳ್ಳದಿಂದ ಏನನ್ನು ತೆಗೆದುಕೊಂಡನು?",
+      "options": [
+        "ಐದು ನುಣುಪಾದ ಕಲ್ಲುಗಳು",
+        "ಒಂದು ಈಟಿ",
+        "ಒಂದು ಗುರಾಣಿ",
+        "ಒಂದು ಕತ್ತಿ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 17:40 — ಐದು ನುಣುಪಾದ ಕಲ್ಲುಗಳನ್ನು ಆರಿಸಿಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "recxYi22JSBR8U9pE",
+    "en": {
+      "question": "How many people did Jesus feed with fish and bread?",
+      "options": [
+        "500",
+        "1,000",
+        "5,000",
+        "10,000"
+      ],
+      "reference": "Matthew 14:21 — those who ate were about 5,000."
+    },
+    "kn": {
+      "question": "ಮೀನುಗಳು ರೊಟ್ಟಿಗಳಿಂದ ಯೇಸು ಎಷ್ಟು ಜನರಿಗೆ ಆಹಾರ ನೀಡಿದನು?",
+      "options": [
+        "500",
+        "1,000",
+        "5,000",
+        "10,000"
+      ],
+      "reference": "ಮತ್ತಾಯ 14:21 — ಊಟ ಮಾಡಿದವರು ಸುಮಾರು 5,000 ಮಂದಿ."
+    }
+  },
+  {
+    "id": "recy7CIaJbyefkffb",
+    "en": {
+      "question": "Did Jesus keep his distance from people with bad reputations?",
+      "options": [
+        "Yes, he stayed away from them",
+        "No, he often ate meals with sinners",
+        "Only in Jerusalem did he keep distance",
+        "He only avoided tax collectors"
+      ],
+      "reference": "Matthew 9:10-11 — Jesus ate with tax collectors and sinners."
+    },
+    "kn": {
+      "question": "ಕೆಟ್ಟ ಹೆಸರಿನ ಜನರಿಂದ ಯೇಸು ದೂರವಿರುತ್ತಿದ್ದನೇ?",
+      "options": [
+        "ಹೌದು, ಅವರಿಂದ ದೂರವಿರುತ್ತಿದ್ದನು",
+        "ಇಲ್ಲ, ಆಗಾಗ್ಗೆ ಪಾಪಿಗಳೊಂದಿಗೆ ಊಟ ಮಾಡುತ್ತಿದ್ದನು",
+        "ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಮಾತ್ರ ದೂರವಿರುತ್ತಿದ್ದನು",
+        "ಸುಂಕವಸೂಲಿಗಾರರಿಂದ ಮಾತ್ರ ದೂರವಿರುತ್ತಿದ್ದನು"
+      ],
+      "reference": "ಮತ್ತಾಯ 9:10-11 — ಯೇಸು ಸುಂಕವಸೂಲಿಗಾರರೊಂದಿಗೂ ಪಾಪಿಗಳೊಂದಿಗೂ ಊಟ ಮಾಡಿದನು."
+    }
+  },
+  {
+    "id": "recyOz6V24NbMzZEu",
+    "en": {
+      "question": "What was Jesus' hometown?",
+      "options": [
+        "Bethlehem",
+        "Nazareth",
+        "Capernaum",
+        "Jerusalem"
+      ],
+      "reference": "Luke 4:16 — he went to Nazareth, where he had been brought up."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಸ್ವಗ್ರಾಮ ಯಾವುದು?",
+      "options": [
+        "ಬೇತ್ಲೆಹೇಮ್",
+        "ನಜರೇತ್",
+        "ಕಪೆರ್ನೌಮ್",
+        "ಯೆರೂಸಲೇಮ್"
+      ],
+      "reference": "ಲೂಕ 4:16 — ತಾನು ಬೆಳೆದ ನಜರೇತಿಗೆ ಬಂದನು."
+    }
+  },
+  {
+    "id": "recyUzbPVEkr7Uqs6",
+    "en": {
+      "question": "Who was Jacob's first son through Rachel?",
+      "options": [
+        "Reuben",
+        "Benjamin",
+        "Joseph",
+        "Judah"
+      ],
+      "reference": "Genesis 30:24 — Rachel gave birth to Joseph."
+    },
+    "kn": {
+      "question": "ರಾಹೇಲಳ ಮೂಲಕ ಯಾಕೋಬನಿಗೆ ಹುಟ್ಟಿದ ಮೊದಲ ಮಗ ಯಾರು?",
+      "options": [
+        "ರೂಬೇನ",
+        "ಬೆನ್ಯಾಮೀನ",
+        "ಯೋಸೇಫ",
+        "ಯೆಹೂದ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 30:24 — ರಾಹೇಲಳು ಯೋಸೇಫನನ್ನು ಹೆತ್ತಳು."
+    }
+  },
+  {
+    "id": "recyncziZFp5Hlnnq",
+    "en": {
+      "question": "Which of his two sons did Isaac favor?",
+      "options": [
+        "Jacob",
+        "Esau",
+        "Both equally",
+        "Neither"
+      ],
+      "reference": "Genesis 25:28 — Isaac loved Esau."
+    },
+    "kn": {
+      "question": "ಇಸಾಕನು ತನ್ನ ಇಬ್ಬರು ಮಕ್ಕಳಲ್ಲಿ ಯಾರನ್ನು ಹೆಚ್ಚು ಇಷ್ಟಪಡುತ್ತಿದ್ದನು?",
+      "options": [
+        "ಯಾಕೋಬ",
+        "ಏಸಾವ",
+        "ಇಬ್ಬರನ್ನೂ ಸಮಾನವಾಗಿ",
+        "ಇಬ್ಬರನ್ನೂ ಅಲ್ಲ"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 25:28 — ಇಸಾಕನು ಏಸಾವನನ್ನು ಪ್ರೀತಿಸಿದನು."
+    }
+  },
+  {
+    "id": "recyyLj4ldizYfePn",
+    "en": {
+      "question": "Who was Jesus' most famous relative?",
+      "options": [
+        "John the Baptist",
+        "Elizabeth",
+        "Zechariah",
+        "Lazarus"
+      ],
+      "reference": "Luke 1:36 — Elizabeth, a relative of Jesus' mother, was John's mother."
+    },
+    "kn": {
+      "question": "ಯೇಸುವಿನ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಸಂಬಂಧಿ ಯಾರು?",
+      "options": [
+        "ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ",
+        "ಎಲಿಸಬೇತ್",
+        "ಜೆಕರ್ಯ",
+        "ಲಾಜರ"
+      ],
+      "reference": "ಲೂಕ 1:36 — ಯೇಸುವಿನ ತಾಯಿಯ ಸಂಬಂಧಿಯಾದ ಎಲಿಸಬೇತಳು ಯೋಹಾನನ ತಾಯಿ."
+    }
+  },
+  {
+    "id": "recz18mtloCIiLB2w",
+    "en": {
+      "question": "What advice did Sarai give so that Abram could have children?",
+      "options": [
+        "Adopt a servant's son",
+        "Have a child through Hagar",
+        "Pray for a miracle",
+        "Seek Lot's help"
+      ],
+      "reference": "Genesis 16:2 — go, sleep with my maidservant."
+    },
+    "kn": {
+      "question": "ಅಬ್ರಾಮನಿಗೆ ಸಂತಾನ ಆಗುವಂತೆ ಸಾರಯಳು ಕೊಟ್ಟ ಸಲಹೆ ಏನು?",
+      "options": [
+        "ಒಬ್ಬ ದಾಸನ ಮಗನನ್ನು ದತ್ತು ತೆಗೆದುಕೊಳ್ಳುವುದು",
+        "ಹಾಗರಳ ಮೂಲಕ ಸಂತಾನ ಪಡೆಯುವುದು",
+        "ಅದ್ಭುತಕ್ಕಾಗಿ ಪ್ರಾರ್ಥಿಸುವುದು",
+        "ಲೋಟನ ಸಹಾಯ ಕೇಳುವುದು"
+      ],
+      "reference": "ಆದಿಕಾಂಡ 16:2 — ನನ್ನ ದಾಸಿಯ ಬಳಿಗೆ ಹೋಗು."
+    }
+  },
+  {
+    "id": "reczCTUhwOxC47CvQ",
+    "en": {
+      "question": "What is the 5th commandment?",
+      "options": [
+        "Do not steal",
+        "Honor your father and mother",
+        "Do not covet",
+        "Do not murder"
+      ],
+      "reference": "Exodus 20:12."
+    },
+    "kn": {
+      "question": "5ನೆಯ ಆಜ್ಞೆ ಏನು?",
+      "options": [
+        "ಕದಿಯಬೇಡ",
+        "ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸು",
+        "ಆಶಿಸಬೇಡ",
+        "ಕೊಲೆ ಮಾಡಬೇಡ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 20:12."
+    }
+  },
+  {
+    "id": "reczIimUCvMPQS577",
+    "en": {
+      "question": "In the shortest verse in the Bible, why did Jesus weep?",
+      "options": [
+        "Because his friend Lazarus had died",
+        "Because Jerusalem had rejected him",
+        "Because the disciples doubted",
+        "Because of the crowd's unbelief"
+      ],
+      "reference": "John 11:35-36 — see how he loved him."
+    },
+    "kn": {
+      "question": "ಬೈಬಲಿನ ಅತ್ಯಂತ ಚಿಕ್ಕ ವಚನದಲ್ಲಿ ಯೇಸು ಏಕೆ ಕಣ್ಣೀರುಬಿಟ್ಟನು?",
+      "options": [
+        "ತನ್ನ ಸ್ನೇಹಿತ ಲಾಜರನು ಮರಣಹೊಂದಿದ್ದರಿಂದ",
+        "ಯೆರೂಸಲೇಮ್ ಆತನನ್ನು ತಿರಸ್ಕರಿಸಿದ್ದರಿಂದ",
+        "ಶಿಷ್ಯರು ಸಂಶಯಪಟ್ಟಿದ್ದರಿಂದ",
+        "ಜನಸಮೂಹದ ಅಪನಂಬಿಕೆಯಿಂದ"
+      ],
+      "reference": "ಯೋಹಾನ 11:35-36 — ಆತನು ಅವನನ್ನು ಎಷ್ಟು ಪ್ರೀತಿಸುತ್ತಿದ್ದನೆಂದು ನೋಡಿರಿ."
+    }
+  },
+  {
+    "id": "reczJxvipD16Fa2eJ",
+    "en": {
+      "question": "Which apostle was exiled to an island?",
+      "options": [
+        "John",
+        "Peter",
+        "Andrew",
+        "Philip"
+      ],
+      "reference": "Revelation 1:9 — John was on the island of Patmos."
+    },
+    "kn": {
+      "question": "ಯಾವ ಅಪೊಸ್ತಲನನ್ನು ಒಂದು ದ್ವೀಪಕ್ಕೆ ಬಹಿಷ್ಕರಿಸಲಾಯಿತು?",
+      "options": [
+        "ಯೋಹಾನ",
+        "ಪೇತ್ರ",
+        "ಅಂದ್ರೆಯ",
+        "ಫಿಲಿಪ್ಪ"
+      ],
+      "reference": "ಪ್ರಕಟನೆ 1:9 — ಯೋಹಾನನು ಪತ್ಮೊಸ್ ದ್ವೀಪದಲ್ಲಿ ಇದ್ದನು."
+    }
+  },
+  {
+    "id": "reczjPnQqbDH3QFBb",
+    "en": {
+      "question": "While ministering in the town of Joppa, where did Peter stay?",
+      "options": [
+        "At the house of Simon the tanner",
+        "At the synagogue",
+        "In a rented room",
+        "At the governor's house"
+      ],
+      "reference": "Acts 9:43 — Peter stayed with Simon the tanner."
+    },
+    "kn": {
+      "question": "ಯೊಪ್ಪ ಪಟ್ಟಣದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿದ್ದಾಗ ಪೇತ್ರನು ಎಲ್ಲಿ ಉಳಿದುಕೊಂಡನು?",
+      "options": [
+        "ಚರ್ಮಕಾರನಾದ ಸೀಮೋನನ ಮನೆಯಲ್ಲಿ",
+        "ಸಭಾಮಂದಿರದಲ್ಲಿ",
+        "ಬಾಡಿಗೆ ಕೋಣೆಯಲ್ಲಿ",
+        "ಅಧಿಪತಿಯ ಮನೆಯಲ್ಲಿ"
+      ],
+      "reference": "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು 9:43 — ಪೇತ್ರನು ಚರ್ಮಕಾರನಾದ ಸೀಮೋನನ ಬಳಿ ಉಳಿದುಕೊಂಡನು."
+    }
+  },
+  {
+    "id": "reczoaNbk8kbnDXMs",
+    "en": {
+      "question": "Where did God give Moses the Ten Commandments?",
+      "options": [
+        "Mount Sinai",
+        "Mount Nebo",
+        "Mount Ararat",
+        "Mount Moriah"
+      ],
+      "reference": "Exodus 19:20; 20:1-17 — given on Mount Sinai."
+    },
+    "kn": {
+      "question": "ದೇವರು ಮೋಶೆಗೆ ಹತ್ತು ಆಜ್ಞೆಗಳನ್ನು ಎಲ್ಲಿ ಕೊಟ್ಟನು?",
+      "options": [
+        "ಸೀನಾಯಿ ಬೆಟ್ಟ",
+        "ನೆಬೋ ಬೆಟ್ಟ",
+        "ಅರರಾತ್ ಬೆಟ್ಟ",
+        "ಮೋರೀಯ ಬೆಟ್ಟ"
+      ],
+      "reference": "ವಿಮೋಚನಕಾಂಡ 19:20; 20:1-17 — ಸೀನಾಯಿ ಬೆಟ್ಟದ ಮೇಲೆ ಕೊಡಲ್ಪಟ್ಟಿತು."
+    }
+  },
+  {
+    "id": "reczvd2LrydxQTbHr",
+    "en": {
+      "question": "When he could not discern God's will, where did Saul go for guidance?",
+      "options": [
+        "To a medium",
+        "To a foreign king",
+        "To the chief priest",
+        "To his army commanders"
+      ],
+      "reference": "1 Samuel 28:7 — Saul sought a woman who was a medium at Endor."
+    },
+    "kn": {
+      "question": "ದೇವರ ಚಿತ್ತವನ್ನು ಗ್ರಹಿಸಲಾಗದಿದ್ದಾಗ ಸೌಲನು ಸಲಹೆಗಾಗಿ ಎಲ್ಲಿಗೆ ಹೋದನು?",
+      "options": [
+        "ಒಬ್ಬ ಮಾಟಗಾತಿಯ ಬಳಿಗೆ",
+        "ಪರದೇಶದ ಅರಸನ ಬಳಿಗೆ",
+        "ಪ್ರಧಾನ ಯಾಜಕನ ಬಳಿಗೆ",
+        "ತನ್ನ ಸೇನಾಧಿಪತಿಗಳ ಬಳಿಗೆ"
+      ],
+      "reference": "1 ಸಮುವೇಲ 28:7 — ಸೌಲನು ಏಂದೋರಿನಲ್ಲಿ ಮಾಟಗಾತಿಯನ್ನು ಹುಡುಕಿದನು."
+    }
+  }
+]
